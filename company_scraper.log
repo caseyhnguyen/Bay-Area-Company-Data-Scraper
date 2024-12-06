@@ -1,0 +1,3848 @@
+2024-12-06 00:45:24,585 - INFO - 
+Dataset Statistics:
+2024-12-06 00:45:24,585 - INFO - Total companies: 0
+2024-12-06 00:45:24,585 - INFO - Total locations: 0
+2024-12-06 00:46:23,797 - INFO - Processed: L3 Technologies
+2024-12-06 00:46:23,798 - INFO - Processed: Lawrence Livermore National Laboratory
+2024-12-06 00:46:23,798 - INFO - Processed: Lockheed Martin Space Systems
+2024-12-06 00:46:23,798 - INFO - Processed: Redwire Space
+2024-12-06 00:46:23,798 - INFO - Processed: NASA Ames Research Center
+2024-12-06 00:46:23,798 - INFO - Processed: Sandia National Laboratories
+2024-12-06 00:46:23,798 - INFO - Processed: Space Systems Loral
+2024-12-06 00:46:23,802 - INFO - 
+Dataset Statistics:
+2024-12-06 00:46:23,802 - INFO - Total companies: 7
+2024-12-06 00:46:23,811 - INFO - Total locations: 10
+2024-12-06 00:46:23,812 - INFO - Industries represented: 1
+2024-12-06 00:46:23,812 - INFO - Fortune 500 companies: 0
+2024-12-06 00:46:23,813 - INFO - 
+Top 5 cities by company presence:
+2024-12-06 00:46:23,814 - INFO - City
+Livermore      2
+Palo Alto      2
+San Leandro    1
+Menlo Park     1
+Santa Rosa     1
+Name: count, dtype: int64
+2024-12-06 00:46:23,815 - INFO - 
+Top 5 industries by company count:
+2024-12-06 00:46:23,815 - INFO - Industry
+Aerospace/defense    7
+Name: count, dtype: int64
+2024-12-06 00:46:43,872 - INFO - Processed: L3 Technologies
+2024-12-06 00:46:43,873 - INFO - Processed: Lawrence Livermore National Laboratory
+2024-12-06 00:46:43,873 - INFO - Processed: Lockheed Martin Space Systems
+2024-12-06 00:46:43,873 - INFO - Processed: Redwire Space
+2024-12-06 00:46:43,873 - INFO - Processed: NASA Ames Research Center
+2024-12-06 00:46:43,873 - INFO - Processed: Sandia National Laboratories
+2024-12-06 00:46:43,874 - INFO - Processed: Space Systems Loral
+2024-12-06 00:46:43,877 - INFO - 
+Dataset Statistics:
+2024-12-06 00:46:43,877 - INFO - Total companies: 7
+2024-12-06 00:46:43,878 - INFO - Total locations: 10
+2024-12-06 00:46:43,878 - INFO - Industries represented: 1
+2024-12-06 00:46:43,879 - INFO - Fortune 500 companies: 0
+2024-12-06 00:46:43,879 - INFO - 
+Top 5 cities by company presence:
+2024-12-06 00:46:43,879 - INFO - City
+Livermore      2
+Palo Alto      2
+San Leandro    1
+Menlo Park     1
+Santa Rosa     1
+Name: count, dtype: int64
+2024-12-06 00:46:43,880 - INFO - 
+Top 5 industries by company count:
+2024-12-06 00:46:43,881 - INFO - Industry
+Aerospace/defense    7
+Name: count, dtype: int64
+2024-12-06 00:50:47,248 - INFO - Processing (Top)
+2024-12-06 00:53:28,927 - INFO - Processing (Top)
+2024-12-06 00:53:28,928 - WARNING - Could not parse company entry: (Top)
+2024-12-06 00:53:28,928 - INFO - Processing 1
+Companies currently based in the San Francisco Bay Area
+
+
+
+
+Toggle Companies currently based in the San Francisco Bay Area subsection
+
+
+
+
+
+1.1
+Aerospace/defense
+
+
+
+
+
+
+
+
+1.2
+Apparel
+
+
+
+
+
+
+
+
+1.3
+Automotive
+
+
+
+
+
+
+
+
+1.4
+Biotechnology
+
+
+
+
+
+
+
+
+1.5
+Consumer goods
+
+
+
+
+
+
+
+
+1.6
+Creative/design
+
+
+
+
+
+
+
+
+1.7
+Education
+
+
+
+
+
+
+
+
+1.8
+Electronics
+
+
+
+
+
+
+
+
+1.9
+Energy
+
+
+
+
+
+
+
+
+1.10
+Engineering and construction
+
+
+
+
+
+
+
+
+1.11
+Entertainment
+
+
+
+
+
+
+
+
+1.12
+Financial
+
+
+
+
+
+
+
+
+1.13
+Food and drink
+
+
+
+
+
+
+
+
+1.14
+Healthcare
+
+
+
+
+
+
+
+
+1.15
+Internet
+
+
+
+
+
+
+
+
+1.16
+Media
+
+
+
+
+
+
+
+
+1.17
+Mobile media
+
+
+
+
+
+
+
+
+1.18
+Musical instruments and accessories
+
+
+
+
+
+
+
+
+1.19
+Networking
+
+
+
+
+
+
+
+
+1.20
+Real estate
+
+
+
+
+
+
+
+
+1.21
+Retail
+
+
+
+
+
+
+
+
+1.22
+Software
+
+
+
+
+
+
+
+
+1.23
+Sports
+
+
+
+
+
+
+
+
+1.24
+Telecommunications
+
+
+
+
+
+
+
+
+1.25
+Transportation and logistics
+2024-12-06 00:53:28,930 - WARNING - Could not parse company entry: 1
+Companies currently based in the San Francisco Bay Area
+
+
+
+
+Toggle Companies currently based in the San Francisco Bay Area subsection
+
+
+
+
+
+1.1
+Aerospace/defense
+
+
+
+
+
+
+
+
+1.2
+Apparel
+
+
+
+
+
+
+
+
+1.3
+Automotive
+
+
+
+
+
+
+
+
+1.4
+Biotechnology
+
+
+
+
+
+
+
+
+1.5
+Consumer goods
+
+
+
+
+
+
+
+
+1.6
+Creative/design
+
+
+
+
+
+
+
+
+1.7
+Education
+
+
+
+
+
+
+
+
+1.8
+Electronics
+
+
+
+
+
+
+
+
+1.9
+Energy
+
+
+
+
+
+
+
+
+1.10
+Engineering and construction
+
+
+
+
+
+
+
+
+1.11
+Entertainment
+
+
+
+
+
+
+
+
+1.12
+Financial
+
+
+
+
+
+
+
+
+1.13
+Food and drink
+
+
+
+
+
+
+
+
+1.14
+Healthcare
+
+
+
+
+
+
+
+
+1.15
+Internet
+
+
+
+
+
+
+
+
+1.16
+Media
+
+
+
+
+
+
+
+
+1.17
+Mobile media
+
+
+
+
+
+
+
+
+1.18
+Musical instruments and accessories
+
+
+
+
+
+
+
+
+1.19
+Networking
+
+
+
+
+
+
+
+
+1.20
+Real estate
+
+
+
+
+
+
+
+
+1.21
+Retail
+
+
+
+
+
+
+
+
+1.22
+Software
+
+
+
+
+
+
+
+
+1.23
+Sports
+
+
+
+
+
+
+
+
+1.24
+Telecommunications
+
+
+
+
+
+
+
+
+1.25
+Transportation and logistics
+2024-12-06 00:53:28,932 - INFO - Processing 1.1
+Aerospace/defense
+2024-12-06 00:53:28,932 - WARNING - Could not parse company entry: 1.1
+Aerospace/defense
+2024-12-06 00:53:28,932 - INFO - Processing 1.2
+Apparel
+2024-12-06 00:53:28,932 - WARNING - Could not parse company entry: 1.2
+Apparel
+2024-12-06 00:53:28,932 - INFO - Processing 1.3
+Automotive
+2024-12-06 00:53:28,932 - WARNING - Could not parse company entry: 1.3
+Automotive
+2024-12-06 00:53:28,933 - INFO - Processing 1.4
+Biotechnology
+2024-12-06 00:53:28,933 - WARNING - Could not parse company entry: 1.4
+Biotechnology
+2024-12-06 00:53:28,933 - INFO - Processing 1.5
+Consumer goods
+2024-12-06 00:53:28,933 - WARNING - Could not parse company entry: 1.5
+Consumer goods
+2024-12-06 00:53:28,933 - INFO - Processing 1.6
+Creative/design
+2024-12-06 00:53:28,933 - WARNING - Could not parse company entry: 1.6
+Creative/design
+2024-12-06 00:53:28,933 - INFO - Processing 1.7
+Education
+2024-12-06 00:53:28,934 - WARNING - Could not parse company entry: 1.7
+Education
+2024-12-06 00:53:28,934 - INFO - Processing 1.8
+Electronics
+2024-12-06 00:53:28,934 - WARNING - Could not parse company entry: 1.8
+Electronics
+2024-12-06 00:53:28,934 - INFO - Processing 1.9
+Energy
+2024-12-06 00:53:28,934 - WARNING - Could not parse company entry: 1.9
+Energy
+2024-12-06 00:53:28,934 - INFO - Processing 1.10
+Engineering and construction
+2024-12-06 00:53:28,934 - WARNING - Could not parse company entry: 1.10
+Engineering and construction
+2024-12-06 00:53:28,935 - INFO - Processing 1.11
+Entertainment
+2024-12-06 00:53:28,935 - WARNING - Could not parse company entry: 1.11
+Entertainment
+2024-12-06 00:53:28,935 - INFO - Processing 1.12
+Financial
+2024-12-06 00:53:28,935 - WARNING - Could not parse company entry: 1.12
+Financial
+2024-12-06 00:53:28,935 - INFO - Processing 1.13
+Food and drink
+2024-12-06 00:53:28,935 - WARNING - Could not parse company entry: 1.13
+Food and drink
+2024-12-06 00:53:28,935 - INFO - Processing 1.14
+Healthcare
+2024-12-06 00:53:28,935 - WARNING - Could not parse company entry: 1.14
+Healthcare
+2024-12-06 00:53:28,936 - INFO - Processing 1.15
+Internet
+2024-12-06 00:53:28,936 - WARNING - Could not parse company entry: 1.15
+Internet
+2024-12-06 00:53:28,936 - INFO - Processing 1.16
+Media
+2024-12-06 00:53:28,936 - WARNING - Could not parse company entry: 1.16
+Media
+2024-12-06 00:53:28,936 - INFO - Processing 1.17
+Mobile media
+2024-12-06 00:53:28,936 - WARNING - Could not parse company entry: 1.17
+Mobile media
+2024-12-06 00:53:28,936 - INFO - Processing 1.18
+Musical instruments and accessories
+2024-12-06 00:53:28,936 - WARNING - Could not parse company entry: 1.18
+Musical instruments and accessories
+2024-12-06 00:53:28,937 - INFO - Processing 1.19
+Networking
+2024-12-06 00:53:28,937 - WARNING - Could not parse company entry: 1.19
+Networking
+2024-12-06 00:53:28,937 - INFO - Processing 1.20
+Real estate
+2024-12-06 00:53:28,937 - WARNING - Could not parse company entry: 1.20
+Real estate
+2024-12-06 00:53:28,937 - INFO - Processing 1.21
+Retail
+2024-12-06 00:53:28,937 - WARNING - Could not parse company entry: 1.21
+Retail
+2024-12-06 00:53:28,937 - INFO - Processing 1.22
+Software
+2024-12-06 00:53:28,938 - WARNING - Could not parse company entry: 1.22
+Software
+2024-12-06 00:53:28,938 - INFO - Processing 1.23
+Sports
+2024-12-06 00:53:28,938 - WARNING - Could not parse company entry: 1.23
+Sports
+2024-12-06 00:53:28,938 - INFO - Processing 1.24
+Telecommunications
+2024-12-06 00:53:28,938 - WARNING - Could not parse company entry: 1.24
+Telecommunications
+2024-12-06 00:53:28,938 - INFO - Processing 1.25
+Transportation and logistics
+2024-12-06 00:53:28,939 - WARNING - Could not parse company entry: 1.25
+Transportation and logistics
+2024-12-06 00:53:28,939 - INFO - Processing 2
+Companies formerly based in the San Francisco Bay Area
+2024-12-06 00:53:28,939 - WARNING - Could not parse company entry: 2
+Companies formerly based in the San Francisco Bay Area
+2024-12-06 00:53:28,939 - INFO - Processing 3
+See also
+2024-12-06 00:53:28,939 - WARNING - Could not parse company entry: 3
+See also
+2024-12-06 00:53:28,939 - INFO - Processing 4
+References
+2024-12-06 00:53:28,939 - WARNING - Could not parse company entry: 4
+References
+2024-12-06 00:53:28,940 - INFO - Processing 1.1
+Aerospace/defense
+2024-12-06 00:53:28,940 - WARNING - Could not parse company entry: 1.1
+Aerospace/defense
+2024-12-06 00:53:28,940 - INFO - Processing 1.2
+Apparel
+2024-12-06 00:53:28,940 - WARNING - Could not parse company entry: 1.2
+Apparel
+2024-12-06 00:53:28,940 - INFO - Processing 1.3
+Automotive
+2024-12-06 00:53:28,940 - WARNING - Could not parse company entry: 1.3
+Automotive
+2024-12-06 00:53:28,940 - INFO - Processing 1.4
+Biotechnology
+2024-12-06 00:53:28,940 - WARNING - Could not parse company entry: 1.4
+Biotechnology
+2024-12-06 00:53:28,941 - INFO - Processing 1.5
+Consumer goods
+2024-12-06 00:53:28,941 - WARNING - Could not parse company entry: 1.5
+Consumer goods
+2024-12-06 00:53:28,941 - INFO - Processing 1.6
+Creative/design
+2024-12-06 00:53:28,941 - WARNING - Could not parse company entry: 1.6
+Creative/design
+2024-12-06 00:53:28,941 - INFO - Processing 1.7
+Education
+2024-12-06 00:53:28,942 - WARNING - Could not parse company entry: 1.7
+Education
+2024-12-06 00:53:28,942 - INFO - Processing 1.8
+Electronics
+2024-12-06 00:53:28,942 - WARNING - Could not parse company entry: 1.8
+Electronics
+2024-12-06 00:53:28,942 - INFO - Processing 1.9
+Energy
+2024-12-06 00:53:28,942 - WARNING - Could not parse company entry: 1.9
+Energy
+2024-12-06 00:53:28,943 - INFO - Processing 1.10
+Engineering and construction
+2024-12-06 00:53:28,943 - WARNING - Could not parse company entry: 1.10
+Engineering and construction
+2024-12-06 00:53:28,943 - INFO - Processing 1.11
+Entertainment
+2024-12-06 00:53:28,943 - WARNING - Could not parse company entry: 1.11
+Entertainment
+2024-12-06 00:53:28,943 - INFO - Processing 1.12
+Financial
+2024-12-06 00:53:28,944 - WARNING - Could not parse company entry: 1.12
+Financial
+2024-12-06 00:53:28,944 - INFO - Processing 1.13
+Food and drink
+2024-12-06 00:53:28,944 - WARNING - Could not parse company entry: 1.13
+Food and drink
+2024-12-06 00:53:28,944 - INFO - Processing 1.14
+Healthcare
+2024-12-06 00:53:28,944 - WARNING - Could not parse company entry: 1.14
+Healthcare
+2024-12-06 00:53:28,944 - INFO - Processing 1.15
+Internet
+2024-12-06 00:53:28,945 - WARNING - Could not parse company entry: 1.15
+Internet
+2024-12-06 00:53:28,945 - INFO - Processing 1.16
+Media
+2024-12-06 00:53:28,945 - WARNING - Could not parse company entry: 1.16
+Media
+2024-12-06 00:53:28,945 - INFO - Processing 1.17
+Mobile media
+2024-12-06 00:53:28,945 - WARNING - Could not parse company entry: 1.17
+Mobile media
+2024-12-06 00:53:28,945 - INFO - Processing 1.18
+Musical instruments and accessories
+2024-12-06 00:53:28,945 - WARNING - Could not parse company entry: 1.18
+Musical instruments and accessories
+2024-12-06 00:53:28,946 - INFO - Processing 1.19
+Networking
+2024-12-06 00:53:28,946 - WARNING - Could not parse company entry: 1.19
+Networking
+2024-12-06 00:53:28,946 - INFO - Processing 1.20
+Real estate
+2024-12-06 00:53:28,946 - WARNING - Could not parse company entry: 1.20
+Real estate
+2024-12-06 00:53:28,946 - INFO - Processing 1.21
+Retail
+2024-12-06 00:53:28,946 - WARNING - Could not parse company entry: 1.21
+Retail
+2024-12-06 00:53:28,946 - INFO - Processing 1.22
+Software
+2024-12-06 00:53:28,946 - WARNING - Could not parse company entry: 1.22
+Software
+2024-12-06 00:53:28,946 - INFO - Processing 1.23
+Sports
+2024-12-06 00:53:28,947 - WARNING - Could not parse company entry: 1.23
+Sports
+2024-12-06 00:53:28,947 - INFO - Processing 1.24
+Telecommunications
+2024-12-06 00:53:28,947 - WARNING - Could not parse company entry: 1.24
+Telecommunications
+2024-12-06 00:53:28,947 - INFO - Processing 1.25
+Transportation and logistics
+2024-12-06 00:53:28,947 - WARNING - Could not parse company entry: 1.25
+Transportation and logistics
+2024-12-06 00:53:28,947 - INFO - Processing Article
+2024-12-06 00:53:28,947 - WARNING - Could not parse company entry: Article
+2024-12-06 00:53:28,947 - INFO - Processing Talk
+2024-12-06 00:53:28,948 - WARNING - Could not parse company entry: Talk
+2024-12-06 00:53:28,948 - INFO - Processing Read
+2024-12-06 00:53:28,948 - WARNING - Could not parse company entry: Read
+2024-12-06 00:53:28,948 - INFO - Processing Edit
+2024-12-06 00:53:28,948 - WARNING - Could not parse company entry: Edit
+2024-12-06 00:53:28,948 - INFO - Processing View history
+2024-12-06 00:53:28,948 - WARNING - Could not parse company entry: View history
+2024-12-06 00:53:28,948 - INFO - Processing Read
+2024-12-06 00:53:28,949 - WARNING - Could not parse company entry: Read
+2024-12-06 00:53:28,949 - INFO - Processing Edit
+2024-12-06 00:53:28,949 - WARNING - Could not parse company entry: Edit
+2024-12-06 00:53:28,949 - INFO - Processing View history
+2024-12-06 00:53:28,949 - WARNING - Could not parse company entry: View history
+2024-12-06 00:53:28,949 - INFO - Processing What links here
+2024-12-06 00:53:28,949 - WARNING - Could not parse company entry: What links here
+2024-12-06 00:53:28,949 - INFO - Processing Related changes
+2024-12-06 00:53:28,950 - WARNING - Could not parse company entry: Related changes
+2024-12-06 00:53:28,950 - INFO - Processing Upload file
+2024-12-06 00:53:28,950 - WARNING - Could not parse company entry: Upload file
+2024-12-06 00:53:28,950 - INFO - Processing Special pages
+2024-12-06 00:53:28,950 - WARNING - Could not parse company entry: Special pages
+2024-12-06 00:53:28,950 - INFO - Processing Permanent link
+2024-12-06 00:53:28,950 - WARNING - Could not parse company entry: Permanent link
+2024-12-06 00:53:28,950 - INFO - Processing Page information
+2024-12-06 00:53:28,950 - WARNING - Could not parse company entry: Page information
+2024-12-06 00:53:28,950 - INFO - Processing Cite this page
+2024-12-06 00:53:28,951 - WARNING - Could not parse company entry: Cite this page
+2024-12-06 00:53:28,951 - INFO - Processing Get shortened URL
+2024-12-06 00:53:28,951 - WARNING - Could not parse company entry: Get shortened URL
+2024-12-06 00:53:28,951 - INFO - Processing Download QR code
+2024-12-06 00:53:28,951 - WARNING - Could not parse company entry: Download QR code
+2024-12-06 00:53:28,951 - INFO - Processing Download as PDF
+2024-12-06 00:53:28,951 - WARNING - Could not parse company entry: Download as PDF
+2024-12-06 00:53:28,951 - INFO - Processing Printable version
+2024-12-06 00:53:28,951 - WARNING - Could not parse company entry: Printable version
+2024-12-06 00:53:28,952 - INFO - Processing Wikidata item
+2024-12-06 00:53:28,952 - WARNING - Could not parse company entry: Wikidata item
+2024-12-06 00:53:28,952 - INFO - Processing L3 Technologies – Menlo Park (Randtron), San Leandro (Applied Technologies), Santa Rosa (Sonoma EO)
+2024-12-06 00:53:30,008 - INFO - Processing Lawrence Livermore National Laboratory – Livermore
+2024-12-06 00:53:31,095 - INFO - Processing Lockheed Martin Space Systems – Palo Alto, Sunnyvale
+2024-12-06 00:53:32,252 - INFO - Processing Redwire Space – Mountain View
+2024-12-06 00:53:33,300 - INFO - Processing NASA Ames Research Center – Moffett Field
+2024-12-06 00:53:34,376 - INFO - Processing Sandia National Laboratories – Livermore
+2024-12-06 00:53:35,451 - INFO - Processing Space Systems Loral – Palo Alto
+2024-12-06 00:53:36,712 - INFO - Processing Allbirds – San Francisco
+2024-12-06 00:53:37,785 - INFO - Processing Bebe – Brisbane
+2024-12-06 00:53:38,823 - INFO - Processing Betabrand – San Francisco
+2024-12-06 00:53:39,974 - INFO - Processing Dolls Kill – San Francisco
+2024-12-06 00:53:41,091 - INFO - Processing Everlane – San Francisco
+2024-12-06 00:53:42,334 - INFO - Processing Gap Inc. (199) – San Francisco
+2024-12-06 00:53:43,432 - INFO - Processing Jos. A. Bank – Fremont
+2024-12-06 00:53:44,468 - INFO - Processing Levi Strauss & Co. (495) – San Francisco
+2024-12-06 00:53:45,535 - INFO - Processing Marmot – Rohnert Park
+2024-12-06 00:53:46,567 - INFO - Processing ModCloth – San Francisco
+2024-12-06 00:53:47,925 - INFO - Processing Mountain Hardwear – Richmond
+2024-12-06 00:53:48,950 - INFO - Processing O'Neill – Santa Cruz
+2024-12-06 00:53:49,989 - INFO - Processing Poshmark – Redwood City
+2024-12-06 00:53:51,020 - INFO - Processing Ross Stores (202) – Dublin
+2024-12-06 00:53:52,056 - INFO - Processing Stitch Fix – San Francisco
+2024-12-06 00:53:53,092 - INFO - Processing Tea Collection – San Francisco
+2024-12-06 00:53:54,118 - INFO - Processing Zazzle – Redwood City
+2024-12-06 00:53:55,158 - INFO - Processing Byton – Santa Clara
+2024-12-06 00:53:56,214 - INFO - Processing Cruise – San Francisco
+2024-12-06 00:53:57,299 - INFO - Processing Lucid Motors – Newark
+2024-12-06 00:53:58,413 - INFO - Processing Motiv Power Systems[2] – Hayward
+2024-12-06 00:53:59,524 - INFO - Processing Nio – San Jose
+2024-12-06 00:54:00,629 - INFO - Processing Rivian – Palo Alto
+2024-12-06 00:54:01,754 - INFO - Processing Uber – San Francisco
+2024-12-06 00:54:02,902 - INFO - Processing Waymo – Mountain View
+2024-12-06 00:54:04,017 - INFO - Processing Zoox – San Carlos
+2024-12-06 00:54:05,061 - INFO - Processing 23andMe – Mountain View
+2024-12-06 00:54:06,192 - INFO - Processing Anthera Pharmaceuticals – Hayward
+2024-12-06 00:54:07,308 - INFO - Processing Bio-Rad Laboratories – Hercules
+2024-12-06 00:54:08,364 - INFO - Processing BioMarin Pharmaceutical – San Rafael
+2024-12-06 00:54:09,421 - INFO - Processing Buck Institute for Age Research – Novato
+2024-12-06 00:54:10,671 - INFO - Processing Calico – South San Francisco
+2024-12-06 00:54:11,751 - INFO - Processing Chiron – Emeryville
+2024-12-06 00:54:12,795 - INFO - Processing Genentech – South San Francisco
+2024-12-06 00:54:13,897 - INFO - Processing Gilead Sciences (140) – Foster City
+2024-12-06 00:54:15,009 - INFO - Processing Intuitive Surgical – Sunnyvale
+2024-12-06 00:54:16,056 - INFO - Processing Mendel Biotechnology, Inc. – Hayward
+2024-12-06 00:54:17,255 - INFO - Processing Nektar Therapeutics – San Francisco
+2024-12-06 00:54:18,366 - INFO - Processing Roche Molecular Systems – Belmont
+2024-12-06 00:54:19,710 - INFO - Processing Signature BioScience – San Francisco
+2024-12-06 00:54:20,958 - INFO - Processing Verily Life Sciences – Mountain View
+2024-12-06 00:54:22,082 - INFO - Processing Benefit Cosmetics – San Francisco
+2024-12-06 00:54:23,125 - INFO - Processing Bianchi USA – Hayward
+2024-12-06 00:54:24,432 - INFO - Processing CamelBak – Petaluma
+2024-12-06 00:54:25,538 - INFO - Processing Clorox (474) – Oakland
+2024-12-06 00:54:26,606 - INFO - Processing GoPro – San Mateo
+2024-12-06 00:54:27,777 - INFO - Processing Method – San Francisco
+2024-12-06 00:54:28,904 - INFO - Processing Sephora – San Francisco
+2024-12-06 00:54:29,971 - INFO - Processing Specialized Bicycle Components – Morgan Hill
+2024-12-06 00:54:31,031 - INFO - Processing Ammunition – San Francisco
+2024-12-06 00:54:32,141 - INFO - Processing fuseproject – San Francisco
+2024-12-06 00:54:33,416 - INFO - Processing IDEO – San Francisco
+2024-12-06 00:54:34,702 - INFO - Processing Landor Associates – San Francisco
+2024-12-06 00:54:35,738 - INFO - Processing Traction – San Francisco
+2024-12-06 00:54:36,986 - INFO - Processing Chegg – Santa Clara
+2024-12-06 00:54:38,095 - INFO - Processing Course Hero – Redwood City
+2024-12-06 00:54:39,130 - INFO - Processing Coursera – Mountain View
+2024-12-06 00:54:40,189 - INFO - Processing Khan Academy – Mountain View
+2024-12-06 00:54:41,243 - INFO - Processing Magoosh – Berkeley
+2024-12-06 00:54:42,498 - INFO - Processing Quizlet – San Francisco
+2024-12-06 00:54:43,535 - INFO - Processing Remind – San Francisco
+2024-12-06 00:54:44,652 - INFO - Processing Udacity – Mountain View
+2024-12-06 00:54:45,702 - INFO - Processing Adaptec – Milpitas
+2024-12-06 00:54:46,734 - INFO - Processing Advanced Micro Devices (AMD) (448) – Sunnyvale
+2024-12-06 00:54:48,374 - INFO - Processing Agilent Technologies (547) – Santa Clara
+2024-12-06 00:54:49,783 - INFO - Processing Altera (Intel) – San Jose
+2024-12-06 00:54:50,886 - INFO - Processing Antec – Fremont
+2024-12-06 00:54:51,953 - INFO - Processing Apple Inc. (4) – Cupertino
+2024-12-06 00:54:53,337 - INFO - Processing Applied Materials (218) – Santa Clara
+2024-12-06 00:54:54,393 - INFO - Processing Asus – Fremont
+2024-12-06 00:54:55,510 - INFO - Processing Barracuda Networks – Campbell
+2024-12-06 00:54:56,554 - INFO - Processing Broadcom Inc. (138) – San Jose
+2024-12-06 00:54:57,687 - INFO - Processing Brocade Communications Systems – Santa Clara
+2024-12-06 00:54:58,822 - INFO - Processing Cisco Systems (64) – San Jose
+2024-12-06 00:55:00,410 - INFO - Processing Digidesign – Daly City
+2024-12-06 00:55:01,639 - INFO - Processing Dust Networks – Hayward
+2024-12-06 00:55:02,913 - INFO - Processing E-mu Systems – Scotts Valley
+2024-12-06 00:55:03,954 - INFO - Processing Fairchild Semiconductor – San Jose
+2024-12-06 00:55:05,063 - INFO - Processing Fitbit – San Francisco
+2024-12-06 00:55:06,163 - INFO - Processing Fujitsu Computer Products of America – Sunnyvale
+2024-12-06 00:55:07,278 - INFO - Processing Genesis Microchip – Santa Clara
+2024-12-06 00:55:08,543 - INFO - Processing Hewlett Packard (58) – Palo Alto
+2024-12-06 00:55:10,152 - INFO - Processing Hewlett Packard Enterprise (109) – San Jose
+2024-12-06 00:55:11,231 - INFO - Processing Hitachi Data Systems – Santa Clara
+2024-12-06 00:55:12,289 - INFO - Processing Hitachi Global Storage Technologies – San Jose
+2024-12-06 00:55:13,595 - INFO - Processing Integrated Device Technology – San Jose
+2024-12-06 00:55:14,633 - INFO - Processing Intel (45) – Santa Clara
+2024-12-06 00:55:15,969 - INFO - Processing Jawbone – San Francisco
+2024-12-06 00:55:15,969 - INFO - Processing JDS Uniphase – Milpitas
+2024-12-06 00:55:17,085 - INFO - Processing Juniper Networks – Sunnyvale
+2024-12-06 00:55:18,187 - INFO - Processing Keysight – Santa Rosa
+2024-12-06 00:55:19,291 - INFO - Processing KLA Tencor – Milpitas
+2024-12-06 00:55:20,608 - INFO - Processing Lam Research (331) – Fremont
+2024-12-06 00:55:21,663 - INFO - Processing Logitech – Newark
+2024-12-06 00:55:22,729 - INFO - Processing Marvell – Santa Clara
+2024-12-06 00:55:23,806 - INFO - Processing Maxim Integrated – San Jose
+2024-12-06 00:55:24,852 - INFO - Processing Microchip Technology – San Jose
+2024-12-06 00:55:25,994 - INFO - Processing Monster Cable Products – Brisbane
+2024-12-06 00:55:27,142 - INFO - Processing Nest Labs – Palo Alto
+2024-12-06 00:55:28,556 - INFO - Processing NetApp (478) – Sunnyvale
+2024-12-06 00:55:29,638 - INFO - Processing Nvidia (292) – Santa Clara
+2024-12-06 00:55:31,145 - INFO - Processing Philips Lumileds Lighting Company – San Jose
+2024-12-06 00:55:32,251 - INFO - Processing Plantronics (Now Poly) – Santa Cruz
+2024-12-06 00:55:33,298 - INFO - Processing Rambus – Los Altos
+2024-12-06 00:55:34,364 - INFO - Processing Sanmina-SCI (385) – San Jose
+2024-12-06 00:55:35,483 - INFO - Processing Seagate Technology (174) – Cupertino
+2024-12-06 00:55:36,627 - INFO - Processing Silicon Graphics – Fremont (acquired by Rackable Systems)
+2024-12-06 00:55:37,796 - INFO - Processing Silicon Image – Sunnyvale
+2024-12-06 00:55:38,905 - INFO - Processing Solectron Corporation – Milpitas
+2024-12-06 00:55:40,158 - INFO - Processing Sony Optiarc America Inc. – San Jose
+2024-12-06 00:55:41,440 - INFO - Processing Supermicro – San Jose
+2024-12-06 00:55:42,496 - INFO - Processing Synnex (130) – Fremont
+2024-12-06 00:55:43,674 - INFO - Processing Synopsys – Mountain View
+2024-12-06 00:55:44,787 - INFO - Processing TDK – San Jose
+2024-12-06 00:55:45,850 - INFO - Processing Terayon – Santa Clara
+2024-12-06 00:55:47,100 - INFO - Processing THX – San Rafael
+2024-12-06 00:55:48,163 - INFO - Processing Touchstone Semiconductor – Milpitas
+2024-12-06 00:55:49,270 - INFO - Processing Western Digital (198) – San Jose
+2024-12-06 00:55:50,389 - INFO - Processing Xilinx – San Jose
+2024-12-06 00:55:51,540 - INFO - Processing Bloom Energy  – Sunnyvale
+2024-12-06 00:55:52,582 - INFO - Processing Chevron (15) – San Ramon
+2024-12-06 00:55:53,729 - INFO - Processing Cupertino Electric – San Jose
+2024-12-06 00:55:54,758 - INFO - Processing Energy Recovery Inc. – San Leandro
+2024-12-06 00:55:55,915 - INFO - Processing Mosaic Inc. – Oakland (solar power crowdfunding)
+2024-12-06 00:55:57,049 - INFO - Processing PG&E (189) – Oakland
+2024-12-06 00:55:58,243 - INFO - Processing Rosendin Electric – San Jose
+2024-12-06 00:55:59,443 - INFO - Processing SolarCity – San Mateo
+2024-12-06 00:56:00,581 - INFO - Processing SunEdison – Belmont
+2024-12-06 00:56:01,654 - INFO - Processing Sungevity – Oakland
+2024-12-06 00:56:02,926 - INFO - Processing SunPower – San Jose
+2024-12-06 00:56:03,977 - INFO - Processing Sunrun – San Francisco
+2024-12-06 00:56:05,018 - INFO - Processing DPR Construction – Redwood City
+2024-12-06 00:56:06,139 - INFO - Processing Granite Construction – Watsonville
+2024-12-06 00:56:07,247 - INFO - Processing Katerra – Menlo Park
+2024-12-06 00:56:08,276 - INFO - Processing Swinerton – San Francisco
+2024-12-06 00:56:09,382 - INFO - Processing Webcor Builders – San Francisco
+2024-12-06 00:56:10,453 - INFO - Processing American Zoetrope – San Francisco[3]
+2024-12-06 00:56:11,546 - INFO - Processing Capcom U.S.A. – San Francisco
+2024-12-06 00:56:12,617 - INFO - Processing Crunchyroll – San Francisco
+2024-12-06 00:56:13,836 - INFO - Processing Dolby Laboratories – San Francisco
+2024-12-06 00:56:14,917 - INFO - Processing Electronic Arts – Redwood City
+2024-12-06 00:56:16,080 - INFO - Processing Industrial Light & Magic – San Francisco
+2024-12-06 00:56:17,823 - INFO - Processing Kerner Optical – San Rafael
+2024-12-06 00:56:19,054 - INFO - Processing Lucasfilm Animation – San Rafael (Lucas Valley)
+2024-12-06 00:56:20,418 - INFO - Processing Netflix (164) – Los Gatos
+2024-12-06 00:56:21,790 - INFO - Processing Niantic – San Francisco
+2024-12-06 00:56:22,870 - INFO - Processing Pandora Radio – Oakland
+2024-12-06 00:56:23,942 - INFO - Processing Philo – San Francisco
+2024-12-06 00:56:24,993 - INFO - Processing Pixar – Emeryville
+2024-12-06 00:56:26,299 - INFO - Processing Roblox Corporation – San Mateo
+2024-12-06 00:56:27,356 - INFO - Processing Sega of America –  San Francisco
+2024-12-06 00:56:28,634 - INFO - Processing Skywalker Sound – San Rafael (Lucas Valley)
+2024-12-06 00:56:29,702 - INFO - Processing Sony Interactive Entertainment (PlayStation) – San Mateo
+2024-12-06 00:56:30,873 - INFO - Processing Ubisoft – San Francisco
+2024-12-06 00:56:32,034 - INFO - Processing Zynga – San Francisco
+2024-12-06 00:56:33,247 - INFO - Processing Bill.com – San Jose
+2024-12-06 00:56:34,281 - INFO - Processing Block, Inc. – San Francisco
+2024-12-06 00:56:35,462 - INFO - Processing Brex – San Francisco
+2024-12-06 00:56:36,582 - INFO - Processing Calypso Technology – San Francisco
+2024-12-06 00:56:37,826 - INFO - Processing Coinbase – San Francisco
+2024-12-06 00:56:38,915 - INFO - Processing FICO (Fair Isaac Corporation) – San Jose and San Rafael
+2024-12-06 00:56:39,961 - INFO - Processing Fireman's Fund Insurance Company – Novato (now Allianz Global Corporate & Specialty)
+2024-12-06 00:56:41,152 - INFO - Processing First Republic Bank – San Francisco
+2024-12-06 00:56:42,209 - INFO - Processing Fisher Investments – Woodside
+2024-12-06 00:56:43,243 - INFO - Processing Franklin Templeton Investments (493) – San Mateo
+2024-12-06 00:56:44,299 - INFO - Processing Lending Club – San Francisco
+2024-12-06 00:56:45,754 - INFO - Processing Patelco Credit Union – Dublin
+2024-12-06 00:56:46,779 - INFO - Processing PayPal (182) – San Jose
+2024-12-06 00:56:48,006 - INFO - Processing Robert Half International (482) – Menlo Park
+2024-12-06 00:56:49,342 - INFO - Processing Robinhood – Menlo Park
+2024-12-06 00:56:50,431 - INFO - Processing SigFig – San Francisco
+2024-12-06 00:56:51,540 - INFO - Processing Silicon Valley Bank – Santa Clara
+2024-12-06 00:56:52,629 - INFO - Processing SoFi – San Francisco
+2024-12-06 00:56:53,756 - INFO - Processing TPG Sixth Street Partners – San Francisco
+2024-12-06 00:56:55,080 - INFO - Processing Visa, Inc. (137) – San Francisco
+2024-12-06 00:56:56,550 - INFO - Processing Wells Fargo Bank (30) – San Francisco
+2024-12-06 00:56:57,965 - INFO - Processing Yodlee – Redwood City
+2024-12-06 00:56:59,078 - INFO - Processing 21st Amendment Brewery – San Leandro
+2024-12-06 00:57:00,394 - INFO - Processing Anchor Brewers & Distillers, LLC – San Francisco
+2024-12-06 00:57:01,455 - INFO - Processing Annabelle Candy Company – Hayward
+2024-12-06 00:57:02,557 - INFO - Processing Annie's Homegrown – Berkeley
+2024-12-06 00:57:03,672 - INFO - Processing Black Angus Steakhouse – Los Altos
+2024-12-06 00:57:04,702 - INFO - Processing Blue Bottle Coffee – Oakland – subsidiary of Nestle
+2024-12-06 00:57:05,754 - INFO - Processing C&H Pure Cane Sugar – Crockett
+2024-12-06 00:57:07,175 - INFO - Processing Clif Bar – Emeryville
+2024-12-06 00:57:08,227 - INFO - Processing Columbus Salame – Hayward
+2024-12-06 00:57:09,533 - INFO - Processing Dreyer's Grand Ice Cream – Oakland
+2024-12-06 00:57:10,803 - INFO - Processing Extreme Pizza – San Francisco
+2024-12-06 00:57:11,918 - INFO - Processing F'real - Emeryville
+2024-12-06 00:57:11,918 - INFO - Processing Ghirardelli Chocolate Company – San Leandro
+2024-12-06 00:57:12,963 - INFO - Processing Häagen-Dazs – Oakland
+2024-12-06 00:57:14,033 - INFO - Processing Il Fornaio – Corte Madera
+2024-12-06 00:57:15,062 - INFO - Processing Impossible Foods – Redwood City
+2024-12-06 00:57:16,115 - INFO - Processing Jelly Belly – Fairfield
+2024-12-06 00:57:17,244 - INFO - Processing Martinelli's – Watsonville
+2024-12-06 00:57:18,350 - INFO - Processing Mountain Mike's Pizza – Hayward
+2024-12-06 00:57:19,542 - INFO - Processing Odwalla – Half Moon Bay
+2024-12-06 00:57:20,607 - INFO - Processing Otis Spunkmeyer – San Leandro
+2024-12-06 00:57:21,633 - INFO - Processing Peet's Coffee & Tea – Emeryville
+2024-12-06 00:57:22,799 - INFO - Processing Point Reyes Farmstead Cheese Company – Point Reyes Station
+2024-12-06 00:57:24,012 - INFO - Processing PowerBar – Berkeley
+2024-12-06 00:57:25,120 - INFO - Processing R. Torre & Company, Inc. – San Leandro
+2024-12-06 00:57:26,232 - INFO - Processing See's Candies – South San Francisco
+2024-12-06 00:57:27,279 - INFO - Processing Shasta – Hayward
+2024-12-06 00:57:28,404 - INFO - Processing Takaki Bakery (Andersen Institute of Bread and Life) – Hayward
+2024-12-06 00:57:29,632 - INFO - Processing Togo's – San Jose
+2024-12-06 00:57:30,762 - INFO - Processing Verve Coffee Roasters – Santa Cruz
+2024-12-06 00:57:32,097 - INFO - Processing Castlight Health – San Francisco
+2024-12-06 00:57:33,125 - INFO - Processing Eargo – Mountain Valley
+2024-12-06 00:57:34,244 - INFO - Processing Kaiser Permanente – Oakland
+2024-12-06 00:57:35,326 - INFO - Processing One Medical – San Francisco
+2024-12-06 00:57:36,373 - INFO - Processing Palo Alto Medical Foundation – Palo Alto
+2024-12-06 00:57:37,484 - INFO - Processing Airbnb – San Francisco
+2024-12-06 00:57:38,662 - INFO - Processing Alphabet Inc. (11) – Mountain View
+2024-12-06 00:57:39,786 - INFO - Processing Ask.com – Oakland
+2024-12-06 00:57:40,833 - INFO - Processing Box – Redwood City
+2024-12-06 00:57:41,890 - INFO - Processing Cisco (64) – San Jose
+2024-12-06 00:57:43,088 - INFO - Processing Craigslist – San Francisco
+2024-12-06 00:57:44,165 - INFO - Processing DoorDash – San Francisco
+2024-12-06 00:57:45,249 - INFO - Processing Dropbox – San Francisco
+2024-12-06 00:57:46,505 - INFO - Processing Ebates – San Francisco
+2024-12-06 00:57:47,617 - INFO - Processing eBay (295) – San Jose
+2024-12-06 00:57:48,748 - INFO - Processing Evernote – Redwood City
+2024-12-06 00:57:49,809 - INFO - Processing Fandom – San Francisco
+2024-12-06 00:57:50,968 - INFO - Processing Glassdoor – Mill Valley
+2024-12-06 00:57:52,010 - INFO - Processing Google – Mountain View – subsidiary of Alphabet Inc.
+2024-12-06 00:57:53,375 - INFO - Processing Instacart – San Francisco
+2024-12-06 00:57:54,450 - INFO - Processing LinkedIn – Sunnyvale
+2024-12-06 00:57:55,685 - INFO - Processing Lyft – San Francisco
+2024-12-06 00:57:56,760 - INFO - Processing Meta (46) – Menlo Park
+2024-12-06 00:57:57,919 - INFO - Processing Pinterest – San Francisco
+2024-12-06 00:57:59,077 - INFO - Processing Poll Everywhere – San Francisco
+2024-12-06 00:58:00,103 - INFO - Processing Poshmark – Redwood City
+2024-12-06 00:58:01,135 - INFO - Processing Postmates – San Francisco
+2024-12-06 00:58:02,185 - INFO - Processing Quora – Mountain View
+2024-12-06 00:58:03,282 - INFO - Processing Rubrik – Palo Alto
+2024-12-06 00:58:04,315 - INFO - Processing Salesforce.com (190) – San Francisco
+2024-12-06 00:58:05,682 - INFO - Processing Slack Technologies – San Francisco
+2024-12-06 00:58:06,795 - INFO - Processing SurveyMonkey – San Mateo
+2024-12-06 00:58:07,839 - INFO - Processing Tripping.com – San Francisco
+2024-12-06 00:58:09,062 - INFO - Processing Twitch – San Francisco
+2024-12-06 00:58:10,264 - INFO - Processing Uber (228) – San Francisco
+2024-12-06 00:58:11,426 - INFO - Processing Wikimedia Foundation – San Francisco
+2024-12-06 00:58:12,580 - INFO - Processing Workday – Pleasanton
+2024-12-06 00:58:13,641 - INFO - Processing Yelp – San Francisco
+2024-12-06 00:58:15,191 - INFO - Processing YouTube – San Bruno – subsidiary of Alphabet Inc.
+2024-12-06 00:58:16,521 - INFO - Processing Yummly – Palo Alto – subsidiary of Whirlpool Corporation
+2024-12-06 00:58:17,551 - INFO - Processing Zendesk – San Francisco
+2024-12-06 00:58:18,601 - INFO - Processing Zoom Video Communications – San Jose
+2024-12-06 00:58:19,984 - INFO - Processing Zoosk – San Francisco
+2024-12-06 00:58:21,018 - INFO - Processing Communication Arts – Menlo Park
+2024-12-06 00:58:22,127 - INFO - Processing Complex – San Francisco
+2024-12-06 00:58:23,724 - INFO - Processing Daily Review – Hayward
+2024-12-06 00:58:24,947 - INFO - Processing Dwell – San Francisco
+2024-12-06 00:58:25,979 - INFO - Processing Future US – South San Francisco
+2024-12-06 00:58:27,104 - INFO - Processing POPSUGAR Inc. – San Francisco
+2024-12-06 00:58:28,136 - INFO - Processing San Francisco Chronicle – San Francisco
+2024-12-06 00:58:29,193 - INFO - Processing San Jose Mercury News – San Jose
+2024-12-06 00:58:30,279 - INFO - Processing University of California Press – Berkeley
+2024-12-06 00:58:31,321 - INFO - Processing Bleacher Report – San Francisco
+2024-12-06 00:58:32,422 - INFO - Processing MobiTV – Emeryville
+2024-12-06 00:58:33,676 - INFO - Processing TubeMogul – Emeryville
+2024-12-06 00:58:34,967 - INFO - Processing Dunlop Manufacturing – Benicia
+2024-12-06 00:58:36,075 - INFO - Processing E-mu Systems – Scotts Valley
+2024-12-06 00:58:37,116 - INFO - Processing Saga Musical Instruments – South San Francisco
+2024-12-06 00:58:38,385 - INFO - Processing Santa Cruz Guitar Company – Santa Cruz
+2024-12-06 00:58:39,639 - INFO - Processing Universal Audio – Scotts Valley
+2024-12-06 00:58:40,762 - INFO - Processing A10 Networks – San Jose
+2024-12-06 00:58:41,906 - INFO - Processing Arista Networks – Santa Clara
+2024-12-06 00:58:42,956 - INFO - Processing Aryaka Networks – Milpitas
+2024-12-06 00:58:44,066 - INFO - Processing Barefoot Networks (Intel) – Palo Alto
+2024-12-06 00:58:45,228 - INFO - Processing Brocade Communications (Broadcom) – San Jose
+2024-12-06 00:58:46,552 - INFO - Processing Cisco (64) – San Jose
+2024-12-06 00:58:47,707 - INFO - Processing Ericsson – Santa Clara
+2024-12-06 00:58:48,844 - INFO - Processing Extreme Networks – San Jose
+2024-12-06 00:58:49,967 - INFO - Processing F5 Networks – San Jose
+2024-12-06 00:58:51,332 - INFO - Processing Fortinet – Sunnyvale
+2024-12-06 00:58:52,403 - INFO - Processing Juniper Networks – Sunnyvale
+2024-12-06 00:58:53,504 - INFO - Processing Minerva Networks – San Jose
+2024-12-06 00:58:54,530 - INFO - Processing NETGEAR – San Jose
+2024-12-06 00:58:55,575 - INFO - Processing Palo Alto Networks – Santa Clara
+2024-12-06 00:58:56,707 - INFO - Processing Digital Realty – San Francisco
+2024-12-06 00:58:57,747 - INFO - Processing Jay Paul Company – San Francisco
+2024-12-06 00:58:58,775 - INFO - Processing LiquidSpace – San Francisco
+2024-12-06 00:59:00,034 - INFO - Processing Prologis – San Francisco
+2024-12-06 00:59:01,092 - INFO - Processing Trulia – San Francisco
+2024-12-06 00:59:02,217 - INFO - Processing BevMo! – Concord
+2024-12-06 00:59:03,340 - INFO - Processing California Closets – Richmond
+2024-12-06 00:59:04,588 - INFO - Processing Cost Plus Inc. – Alameda
+2024-12-06 00:59:05,937 - INFO - Processing Gap.com – San Francisco
+2024-12-06 00:59:07,494 - INFO - Processing Grocery Outlet – Emeryville
+2024-12-06 00:59:08,549 - INFO - Processing Gymboree – San Francisco
+2024-12-06 00:59:09,660 - INFO - Processing Jos. A. Bank – Fremont
+2024-12-06 00:59:10,692 - INFO - Processing Levi's – San Francisco
+2024-12-06 00:59:12,074 - INFO - Processing Macys.com – San Francisco
+2024-12-06 00:59:13,440 - INFO - Processing Minted – San Francisco
+2024-12-06 00:59:14,468 - INFO - Processing Pottery Barn – San Francisco
+2024-12-06 00:59:15,505 - INFO - Processing Restoration Hardware – Corte Madera
+2024-12-06 00:59:16,932 - INFO - Processing Ross Stores (412) – Dublin
+2024-12-06 00:59:17,970 - INFO - Processing Safeway – Pleasanton – subsidiary of [Albertsons]
+2024-12-06 00:59:19,066 - INFO - Processing Sephora – San Francisco
+2024-12-06 00:59:20,133 - INFO - Processing Shutterfly – Redwood City
+2024-12-06 00:59:21,185 - INFO - Processing Timbuk2  – San Francisco
+2024-12-06 00:59:22,302 - INFO - Processing Walmart.com – San Bruno
+2024-12-06 00:59:24,243 - INFO - Processing West Marine – Watsonville
+2024-12-06 00:59:25,443 - INFO - Processing Williams-Sonoma, Inc. (489) – San Francisco
+2024-12-06 00:59:26,502 - INFO - Processing Zazzle – Redwood City
+2024-12-06 00:59:27,545 - INFO - Processing Adobe Inc. (285) – San Jose
+2024-12-06 00:59:28,670 - INFO - Processing AppDynamics – San Francisco
+2024-12-06 00:59:29,699 - INFO - Processing Autodesk – San Rafael
+2024-12-06 00:59:30,890 - INFO - Processing Box – Redwood City
+2024-12-06 00:59:31,948 - INFO - Processing Business Objects – San Jose
+2024-12-06 00:59:33,238 - INFO - Processing Cloudera – Palo Alto
+2024-12-06 00:59:34,281 - INFO - Processing DocuSign – San Francisco
+2024-12-06 00:59:35,417 - INFO - Processing Dropbox – San Francisco
+2024-12-06 00:59:36,586 - INFO - Processing Genesys – Daly City
+2024-12-06 00:59:37,627 - INFO - Processing GitHub – San Francisco
+2024-12-06 00:59:38,748 - INFO - Processing Imperva – San Mateo
+2024-12-06 00:59:39,861 - INFO - Processing Intuit (445)– Mountain View
+2024-12-06 00:59:39,862 - WARNING - Could not parse company entry: Intuit (445)– Mountain View
+2024-12-06 00:59:39,862 - INFO - Processing Malwarebytes – Santa Clara
+2024-12-06 00:59:40,914 - INFO - Processing McAfee – Santa Clara
+2024-12-06 00:59:42,066 - INFO - Processing Medallia – Palo Alto
+2024-12-06 00:59:43,101 - INFO - Processing Mozilla – Mountain View
+2024-12-06 00:59:44,207 - INFO - Processing Neo4j – San Mateo
+2024-12-06 00:59:45,257 - INFO - Processing New Relic – San Francisco
+2024-12-06 00:59:46,299 - INFO - Processing North Beach Games – San Rafael[4]
+2024-12-06 00:59:47,388 - INFO - Processing Nutanix – San Jose
+2024-12-06 00:59:48,492 - INFO - Processing Objectivity, Inc. – San Jose
+2024-12-06 00:59:49,522 - INFO - Processing Palantir Technologies – Palo Alto
+2024-12-06 00:59:50,629 - INFO - Processing People Power Company – Palo Alto
+2024-12-06 00:59:51,893 - INFO - Processing Piggybackr – San Francisco
+2024-12-06 00:59:53,110 - INFO - Processing Pivotal Software (VMware) – San Francisco
+2024-12-06 00:59:54,224 - INFO - Processing Qualys – Foster City
+2024-12-06 00:59:55,277 - INFO - Processing Sage Intacct – San Jose
+2024-12-06 00:59:56,314 - INFO - Processing SAP – Palo Alto
+2024-12-06 00:59:57,482 - INFO - Processing ServiceNow – Santa Clara
+2024-12-06 00:59:58,531 - INFO - Processing Splunk – San Francisco
+2024-12-06 00:59:59,601 - INFO - Processing Sybase (SAP) – Dublin
+2024-12-06 01:00:00,638 - INFO - Processing Symantec (461) – Mountain View
+2024-12-06 01:00:01,979 - INFO - Processing TeleNav – Santa Clara
+2024-12-06 01:00:03,068 - INFO - Processing TIBCO Software – Palo Alto
+2024-12-06 01:00:04,225 - INFO - Processing Trimble – Sunnyvale
+2024-12-06 01:00:05,449 - INFO - Processing VMware – Palo Alto
+2024-12-06 01:00:06,649 - INFO - Processing 24 Hour Fitness – San Ramon
+2024-12-06 01:00:07,686 - INFO - Processing All Pro Wrestling – Hayward
+2024-12-06 01:00:08,820 - INFO - Processing Bay Area Panthers – San Jose
+2024-12-06 01:00:09,875 - INFO - Processing Fox Racing Shox – Scotts Valley
+2024-12-06 01:00:10,981 - INFO - Processing Giro – Santa Cruz
+2024-12-06 01:00:12,029 - INFO - Processing Golden State Warriors – San Francisco
+2024-12-06 01:00:13,235 - INFO - Processing GoPro – San Mateo
+2024-12-06 01:00:14,409 - INFO - Processing JumpSport – San Jose
+2024-12-06 01:00:15,620 - INFO - Processing Kestrel USA – Santa Cruz
+2024-12-06 01:00:16,923 - INFO - Processing Oakland A's – Oakland
+2024-12-06 01:00:18,442 - INFO - Processing Pac-12 Conference – Walnut Creek
+2024-12-06 01:00:19,679 - INFO - Processing San Francisco 49ers – Santa Clara
+2024-12-06 01:00:20,995 - INFO - Processing San Francisco Giants – San Francisco
+2024-12-06 01:00:22,177 - INFO - Processing San Jose Barracuda – San Jose
+2024-12-06 01:00:23,327 - INFO - Processing San Jose Earthquakes – San Jose
+2024-12-06 01:00:24,535 - INFO - Processing San Jose Sharks – San Jose
+2024-12-06 01:00:25,749 - INFO - Processing Santa Cruz Bicycles – Santa Cruz
+2024-12-06 01:00:26,870 - INFO - Processing Santa Cruz Skateboards – Santa Cruz
+2024-12-06 01:00:27,900 - INFO - Processing Santa Cruz Warriors – Santa Cruz
+2024-12-06 01:00:28,967 - INFO - Processing Specialized Bicycle Components – Morgan Hill
+2024-12-06 01:00:30,029 - INFO - Processing TRX System – San Francisco
+2024-12-06 01:00:31,057 - INFO - Processing Avaya – Santa Clara
+2024-12-06 01:00:32,185 - INFO - Processing Pacific Telemanagement Services – San Leandro
+2024-12-06 01:00:33,423 - INFO - Processing Gillig Corporation – Livermore
+2024-12-06 01:00:34,891 - INFO - Processing Lime – San Francisco
+2024-12-06 01:00:35,986 - INFO - Processing Lyft – San Francisco
+2024-12-06 01:00:37,089 - INFO - Processing Uber – San Francisco
+2024-12-06 01:00:38,262 - INFO - Processing Bank of America (9) – relocated to Charlotte, North Carolina
+2024-12-06 01:00:39,450 - INFO - Processing Bare Escentuals – purchased by Shiseido, now headquarters in Rutherford, New Jersey
+2024-12-06 01:00:40,777 - INFO - Processing Bechtel – relocated to Reston, Virginia
+2024-12-06 01:00:42,006 - INFO - Processing Best Manufacturing Company – San Leandro (defunct)
+2024-12-06 01:00:43,124 - INFO - Processing Calpine Corporation (318) – relocated to Houston, Texas
+2024-12-06 01:00:44,243 - INFO - Processing Caterpillar Inc. (50) – relocated to Peoria, Illinois
+2024-12-06 01:00:45,426 - INFO - Processing Chaosium – formerly based in Oakland, then Hayward, now based in Ann Arbor, Michigan
+2024-12-06 01:00:46,596 - INFO - Processing Charles Schwab Corporation (271) – San Francisco – moved to Westlake, TX
+2024-12-06 01:00:47,660 - INFO - Processing Charlotte Russe – acquired by YM Inc.
+2024-12-06 01:00:48,914 - INFO - Processing ComputerLand – Hayward (defunct)
+2024-12-06 01:00:50,139 - INFO - Processing Esprit – relocated to Ratingen, Germany and Hong Kong, China
+2024-12-06 01:00:51,180 - INFO - Processing Etec Systems, Inc. – Hayward (defunct)
+2024-12-06 01:00:52,408 - INFO - Processing Excite@Home – purchased by Ask.com
+2024-12-06 01:00:53,765 - INFO - Processing Flickr – acquired by Yahoo!
+2024-12-06 01:00:55,166 - INFO - Processing FMC Corporation (Farm Machinery Corp, Farm Machinery and Chemical Corp) – moved headquarters from San Jose to Chicago; subsequently moved to Philadelphia
+2024-12-06 01:00:56,552 - INFO - Processing Folgers Coffee – acquired by The J.M. Smucker Co.
+2024-12-06 01:00:57,679 - INFO - Processing Friden, Inc. – San Leandro (defunct)
+2024-12-06 01:00:58,797 - INFO - Processing Hambrecht & Quist, LLC – purchased by Chase Manhattan Bank, later folded into JP Morgan Securities following Chase's purchase of JPM
+2024-12-06 01:00:59,830 - INFO - Processing Hearst Corporation – relocated to New York City
+2024-12-06 01:01:00,920 - INFO - Processing Hills Brothers Coffee – purchased by Massimo Zanetti Beverage USA
+2024-12-06 01:01:02,278 - INFO - Processing Hunt Brothers Cannery – moved from Hayward
+2024-12-06 01:01:03,580 - INFO - Processing JanSport – Alameda acquired by VF Corporation
+2024-12-06 01:01:04,710 - INFO - Processing Jamba Juice – moved from Emeryville to Frisco, Texas
+2024-12-06 01:01:05,842 - INFO - Processing Knight-Ridder – purchased by The McClatchy Company
+2024-12-06 01:01:07,228 - INFO - Processing Leslie Salt – purchased by Cargill in 1978
+2024-12-06 01:01:08,499 - INFO - Processing Maxtor – Milpitas – acquired by Seagate
+2024-12-06 01:01:09,846 - INFO - Processing McKesson Corporation – moved from San Francisco to Irving, Texas
+2024-12-06 01:01:10,920 - INFO - Processing Mervyn's – Hayward (defunct)
+2024-12-06 01:01:11,968 - INFO - Processing Montgomery Securities – purchased by NationsBank Corporation on June 30, 1997
+2024-12-06 01:01:13,082 - INFO - Processing National Semiconductor – Santa Clara – acquired by Texas Instruments
+2024-12-06 01:01:14,137 - INFO - Processing NUMMI – automobile manufacturer (defunct)
+2024-12-06 01:01:15,337 - INFO - Processing Oracle (82) – moved headquarters from Redwood City to Austin, Texas
+2024-12-06 01:01:16,506 - INFO - Processing Pacific Telesis – acquired by SBC Communications, which became AT&T when it purchased AT&T Corporation
+2024-12-06 01:01:17,742 - INFO - Processing Pegasus Aviation Finance Company – acquired by AWAS
+2024-12-06 01:01:19,087 - INFO - Processing Peterbilt Motors – relocated to Denton, Texas
+2024-12-06 01:01:20,501 - INFO - Processing Pier 1 – started in San Mateo, now headquartered in Fort Worth, Texas
+2024-12-06 01:01:21,747 - INFO - Processing Qume – Hayward (defunct)
+2024-12-06 01:01:22,866 - INFO - Processing Robertson Stephens – closed by its parent company FleetBoston in July 2002
+2024-12-06 01:01:23,983 - INFO - Processing Rolling Stone – relocated to New York City, New York
+2024-12-06 01:01:25,146 - INFO - Processing SanDisk – Milpitas – acquired by Western Digital
+2024-12-06 01:01:26,200 - INFO - Processing Scharffen Berger Chocolate Maker – acquired by The Hershey Company
+2024-12-06 01:01:27,322 - INFO - Processing The Sharper Image
+2024-12-06 01:01:27,322 - WARNING - Could not parse company entry: The Sharper Image
+2024-12-06 01:01:27,322 - INFO - Processing Six Apart – moved to Tokyo
+2024-12-06 01:01:28,617 - INFO - Processing Southern Pacific – acquired by Union Pacific Railroad
+2024-12-06 01:01:29,702 - INFO - Processing Swensen's Ice Cream – acquired by International Franchise Corp (IFC) of Markham, Ontario, Canada
+2024-12-06 01:01:30,929 - INFO - Processing Tesla (124) – moved to Austin, TX
+2024-12-06 01:01:32,349 - INFO - Processing Transamerica – purchased by Aegon
+2024-12-06 01:01:33,390 - INFO - Processing United Commercial Bank – acquired by East West Bank
+2024-12-06 01:01:34,420 - INFO - Processing URS Corporation – San Francisco – acquired by AECOM
+2024-12-06 01:01:35,532 - INFO - Processing Victoria's Secret – started in Palo Alto, now headquartered in Reynoldsburg, Ohio
+2024-12-06 01:01:37,141 - INFO - Processing Virgin America – Burlingame – acquired by Alaska Airlines
+2024-12-06 01:01:38,224 - INFO - Processing X Corp. – moved to Bastrop, TX
+2024-12-06 01:01:39,291 - INFO - Processing Yahoo! (353) – Sunnyvale- acquired by Verizon Media
+2024-12-06 01:01:40,450 - INFO - Processing San Francisco Bay Area portal
+2024-12-06 01:01:40,450 - WARNING - Could not parse company entry: San Francisco Bay Area portal
+2024-12-06 01:01:40,450 - INFO - Processing List of California companies
+2024-12-06 01:01:40,451 - WARNING - Could not parse company entry: List of California companies
+2024-12-06 01:01:40,451 - INFO - Processing List of companies based in Berkeley, California (subset, mostly included in this list)
+2024-12-06 01:01:40,451 - WARNING - Could not parse company entry: List of companies based in Berkeley, California (subset, mostly included in this list)
+2024-12-06 01:01:40,451 - INFO - Processing List of companies based in Hayward, California (subset, mostly included in this list)
+2024-12-06 01:01:40,451 - WARNING - Could not parse company entry: List of companies based in Hayward, California (subset, mostly included in this list)
+2024-12-06 01:01:40,451 - INFO - Processing List of companies based in Oakland, California (subset, mostly included in this list)
+2024-12-06 01:01:40,451 - WARNING - Could not parse company entry: List of companies based in Oakland, California (subset, mostly included in this list)
+2024-12-06 01:01:40,451 - INFO - Processing Companies based in the San Francisco Bay Area
+2024-12-06 01:01:40,451 - WARNING - Could not parse company entry: Companies based in the San Francisco Bay Area
+2024-12-06 01:01:40,451 - INFO - Processing Lists of companies based in California
+2024-12-06 01:01:40,452 - WARNING - Could not parse company entry: Lists of companies based in California
+2024-12-06 01:01:40,452 - INFO - Processing San Francisco Bay Area-related lists
+2024-12-06 01:01:40,452 - WARNING - Could not parse company entry: San Francisco Bay Area-related lists
+2024-12-06 01:01:40,452 - INFO - Processing Articles with short description
+2024-12-06 01:01:40,452 - WARNING - Could not parse company entry: Articles with short description
+2024-12-06 01:01:40,452 - INFO - Processing Short description is different from Wikidata
+2024-12-06 01:01:40,452 - WARNING - Could not parse company entry: Short description is different from Wikidata
+2024-12-06 01:01:40,452 - INFO - Processing Dynamic lists
+2024-12-06 01:01:40,452 - WARNING - Could not parse company entry: Dynamic lists
+2024-12-06 01:01:40,452 - INFO - Processing This page was last edited on 14 September 2024, at 16:53 (UTC).
+2024-12-06 01:01:40,453 - WARNING - Could not parse company entry: This page was last edited on 14 September 2024, at 16:53 (UTC).
+2024-12-06 01:01:40,453 - INFO - Processing Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+2024-12-06 01:01:40,453 - WARNING - Could not parse company entry: Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+2024-12-06 01:01:40,453 - INFO - Processing Privacy policy
+2024-12-06 01:01:40,453 - WARNING - Could not parse company entry: Privacy policy
+2024-12-06 01:01:40,453 - INFO - Processing About Wikipedia
+2024-12-06 01:01:40,453 - WARNING - Could not parse company entry: About Wikipedia
+2024-12-06 01:01:40,453 - INFO - Processing Disclaimers
+2024-12-06 01:01:40,454 - WARNING - Could not parse company entry: Disclaimers
+2024-12-06 01:01:40,454 - INFO - Processing Contact Wikipedia
+2024-12-06 01:01:40,454 - WARNING - Could not parse company entry: Contact Wikipedia
+2024-12-06 01:01:40,454 - INFO - Processing Code of Conduct
+2024-12-06 01:01:40,454 - WARNING - Could not parse company entry: Code of Conduct
+2024-12-06 01:01:40,454 - INFO - Processing Developers
+2024-12-06 01:01:40,454 - WARNING - Could not parse company entry: Developers
+2024-12-06 01:01:40,454 - INFO - Processing Statistics
+2024-12-06 01:01:40,454 - WARNING - Could not parse company entry: Statistics
+2024-12-06 01:01:40,454 - INFO - Processing Cookie statement
+2024-12-06 01:01:40,455 - WARNING - Could not parse company entry: Cookie statement
+2024-12-06 01:01:40,455 - INFO - Processing Mobile view
+2024-12-06 01:01:40,455 - WARNING - Could not parse company entry: Mobile view
+2024-12-06 01:01:40,455 - INFO - Processing 
+2024-12-06 01:01:40,455 - WARNING - Could not parse company entry: 
+2024-12-06 01:01:40,455 - INFO - Processing 
+2024-12-06 01:01:40,455 - WARNING - Could not parse company entry: 
+2024-12-06 01:01:40,463 - INFO - 
+Saved 428 companies to bay_area_companies.csv
+2024-12-06 01:01:40,463 - INFO - 
+=== Dataset Statistics ===
+2024-12-06 01:01:40,463 - INFO - Total Companies: 428
+2024-12-06 01:01:40,463 - INFO - 
+Top Industries:
+2024-12-06 01:01:40,464 - INFO - industry
+Retail                                                    17
+Companies formerly based in the San Francisco Bay Area    16
+Sports                                                    16
+Software                                                  15
+Internet                                                  13
+Name: count, dtype: int64
+2024-12-06 01:01:40,467 - INFO - 
+Total Employees: 5,001
+2024-12-06 01:01:40,467 - INFO - Average Employees: 556
+2024-12-06 01:01:40,467 - INFO - 
+Fortune 500 Companies: 47
+2024-12-06 01:23:28,729 - INFO - Processing (Top)
+2024-12-06 01:23:28,730 - WARNING - Could not parse company entry: (Top)
+2024-12-06 01:23:28,730 - INFO - Processing 1
+Companies currently based in the San Francisco Bay Area
+
+
+
+
+Toggle Companies currently based in the San Francisco Bay Area subsection
+
+
+
+
+
+1.1
+Aerospace/defense
+
+
+
+
+
+
+
+
+1.2
+Apparel
+
+
+
+
+
+
+
+
+1.3
+Automotive
+
+
+
+
+
+
+
+
+1.4
+Biotechnology
+
+
+
+
+
+
+
+
+1.5
+Consumer goods
+
+
+
+
+
+
+
+
+1.6
+Creative/design
+
+
+
+
+
+
+
+
+1.7
+Education
+
+
+
+
+
+
+
+
+1.8
+Electronics
+
+
+
+
+
+
+
+
+1.9
+Energy
+
+
+
+
+
+
+
+
+1.10
+Engineering and construction
+
+
+
+
+
+
+
+
+1.11
+Entertainment
+
+
+
+
+
+
+
+
+1.12
+Financial
+
+
+
+
+
+
+
+
+1.13
+Food and drink
+
+
+
+
+
+
+
+
+1.14
+Healthcare
+
+
+
+
+
+
+
+
+1.15
+Internet
+
+
+
+
+
+
+
+
+1.16
+Media
+
+
+
+
+
+
+
+
+1.17
+Mobile media
+
+
+
+
+
+
+
+
+1.18
+Musical instruments and accessories
+
+
+
+
+
+
+
+
+1.19
+Networking
+
+
+
+
+
+
+
+
+1.20
+Real estate
+
+
+
+
+
+
+
+
+1.21
+Retail
+
+
+
+
+
+
+
+
+1.22
+Software
+
+
+
+
+
+
+
+
+1.23
+Sports
+
+
+
+
+
+
+
+
+1.24
+Telecommunications
+
+
+
+
+
+
+
+
+1.25
+Transportation and logistics
+2024-12-06 01:23:28,732 - WARNING - Could not parse company entry: 1
+Companies currently based in the San Francisco Bay Area
+
+
+
+
+Toggle Companies currently based in the San Francisco Bay Area subsection
+
+
+
+
+
+1.1
+Aerospace/defense
+
+
+
+
+
+
+
+
+1.2
+Apparel
+
+
+
+
+
+
+
+
+1.3
+Automotive
+
+
+
+
+
+
+
+
+1.4
+Biotechnology
+
+
+
+
+
+
+
+
+1.5
+Consumer goods
+
+
+
+
+
+
+
+
+1.6
+Creative/design
+
+
+
+
+
+
+
+
+1.7
+Education
+
+
+
+
+
+
+
+
+1.8
+Electronics
+
+
+
+
+
+
+
+
+1.9
+Energy
+
+
+
+
+
+
+
+
+1.10
+Engineering and construction
+
+
+
+
+
+
+
+
+1.11
+Entertainment
+
+
+
+
+
+
+
+
+1.12
+Financial
+
+
+
+
+
+
+
+
+1.13
+Food and drink
+
+
+
+
+
+
+
+
+1.14
+Healthcare
+
+
+
+
+
+
+
+
+1.15
+Internet
+
+
+
+
+
+
+
+
+1.16
+Media
+
+
+
+
+
+
+
+
+1.17
+Mobile media
+
+
+
+
+
+
+
+
+1.18
+Musical instruments and accessories
+
+
+
+
+
+
+
+
+1.19
+Networking
+
+
+
+
+
+
+
+
+1.20
+Real estate
+
+
+
+
+
+
+
+
+1.21
+Retail
+
+
+
+
+
+
+
+
+1.22
+Software
+
+
+
+
+
+
+
+
+1.23
+Sports
+
+
+
+
+
+
+
+
+1.24
+Telecommunications
+
+
+
+
+
+
+
+
+1.25
+Transportation and logistics
+2024-12-06 01:23:28,733 - INFO - Processing 1.1
+Aerospace/defense
+2024-12-06 01:23:28,734 - WARNING - Could not parse company entry: 1.1
+Aerospace/defense
+2024-12-06 01:23:28,734 - INFO - Processing 1.2
+Apparel
+2024-12-06 01:23:28,734 - WARNING - Could not parse company entry: 1.2
+Apparel
+2024-12-06 01:23:28,734 - INFO - Processing 1.3
+Automotive
+2024-12-06 01:23:28,734 - WARNING - Could not parse company entry: 1.3
+Automotive
+2024-12-06 01:23:28,734 - INFO - Processing 1.4
+Biotechnology
+2024-12-06 01:23:28,734 - WARNING - Could not parse company entry: 1.4
+Biotechnology
+2024-12-06 01:23:28,735 - INFO - Processing 1.5
+Consumer goods
+2024-12-06 01:23:28,735 - WARNING - Could not parse company entry: 1.5
+Consumer goods
+2024-12-06 01:23:28,735 - INFO - Processing 1.6
+Creative/design
+2024-12-06 01:23:28,735 - WARNING - Could not parse company entry: 1.6
+Creative/design
+2024-12-06 01:23:28,736 - INFO - Processing 1.7
+Education
+2024-12-06 01:23:28,736 - WARNING - Could not parse company entry: 1.7
+Education
+2024-12-06 01:23:28,736 - INFO - Processing 1.8
+Electronics
+2024-12-06 01:23:28,736 - WARNING - Could not parse company entry: 1.8
+Electronics
+2024-12-06 01:23:28,736 - INFO - Processing 1.9
+Energy
+2024-12-06 01:23:28,736 - WARNING - Could not parse company entry: 1.9
+Energy
+2024-12-06 01:23:28,736 - INFO - Processing 1.10
+Engineering and construction
+2024-12-06 01:23:28,736 - WARNING - Could not parse company entry: 1.10
+Engineering and construction
+2024-12-06 01:23:28,737 - INFO - Processing 1.11
+Entertainment
+2024-12-06 01:23:28,737 - WARNING - Could not parse company entry: 1.11
+Entertainment
+2024-12-06 01:23:28,737 - INFO - Processing 1.12
+Financial
+2024-12-06 01:23:28,737 - WARNING - Could not parse company entry: 1.12
+Financial
+2024-12-06 01:23:28,737 - INFO - Processing 1.13
+Food and drink
+2024-12-06 01:23:28,737 - WARNING - Could not parse company entry: 1.13
+Food and drink
+2024-12-06 01:23:28,737 - INFO - Processing 1.14
+Healthcare
+2024-12-06 01:23:28,737 - WARNING - Could not parse company entry: 1.14
+Healthcare
+2024-12-06 01:23:28,737 - INFO - Processing 1.15
+Internet
+2024-12-06 01:23:28,738 - WARNING - Could not parse company entry: 1.15
+Internet
+2024-12-06 01:23:28,738 - INFO - Processing 1.16
+Media
+2024-12-06 01:23:28,738 - WARNING - Could not parse company entry: 1.16
+Media
+2024-12-06 01:23:28,738 - INFO - Processing 1.17
+Mobile media
+2024-12-06 01:23:28,738 - WARNING - Could not parse company entry: 1.17
+Mobile media
+2024-12-06 01:23:28,738 - INFO - Processing 1.18
+Musical instruments and accessories
+2024-12-06 01:23:28,738 - WARNING - Could not parse company entry: 1.18
+Musical instruments and accessories
+2024-12-06 01:23:28,738 - INFO - Processing 1.19
+Networking
+2024-12-06 01:23:28,739 - WARNING - Could not parse company entry: 1.19
+Networking
+2024-12-06 01:23:28,739 - INFO - Processing 1.20
+Real estate
+2024-12-06 01:23:28,739 - WARNING - Could not parse company entry: 1.20
+Real estate
+2024-12-06 01:23:28,739 - INFO - Processing 1.21
+Retail
+2024-12-06 01:23:28,739 - WARNING - Could not parse company entry: 1.21
+Retail
+2024-12-06 01:23:28,739 - INFO - Processing 1.22
+Software
+2024-12-06 01:23:28,739 - WARNING - Could not parse company entry: 1.22
+Software
+2024-12-06 01:23:28,739 - INFO - Processing 1.23
+Sports
+2024-12-06 01:23:28,740 - WARNING - Could not parse company entry: 1.23
+Sports
+2024-12-06 01:23:28,740 - INFO - Processing 1.24
+Telecommunications
+2024-12-06 01:23:28,740 - WARNING - Could not parse company entry: 1.24
+Telecommunications
+2024-12-06 01:23:28,740 - INFO - Processing 1.25
+Transportation and logistics
+2024-12-06 01:23:28,740 - WARNING - Could not parse company entry: 1.25
+Transportation and logistics
+2024-12-06 01:23:28,741 - INFO - Processing 2
+Companies formerly based in the San Francisco Bay Area
+2024-12-06 01:23:28,741 - WARNING - Could not parse company entry: 2
+Companies formerly based in the San Francisco Bay Area
+2024-12-06 01:23:28,741 - INFO - Processing 3
+See also
+2024-12-06 01:23:28,741 - WARNING - Could not parse company entry: 3
+See also
+2024-12-06 01:23:28,741 - INFO - Processing 4
+References
+2024-12-06 01:23:28,741 - WARNING - Could not parse company entry: 4
+References
+2024-12-06 01:23:28,741 - INFO - Processing 1.1
+Aerospace/defense
+2024-12-06 01:23:28,741 - WARNING - Could not parse company entry: 1.1
+Aerospace/defense
+2024-12-06 01:23:28,742 - INFO - Processing 1.2
+Apparel
+2024-12-06 01:23:28,742 - WARNING - Could not parse company entry: 1.2
+Apparel
+2024-12-06 01:23:28,742 - INFO - Processing 1.3
+Automotive
+2024-12-06 01:23:28,742 - WARNING - Could not parse company entry: 1.3
+Automotive
+2024-12-06 01:23:28,742 - INFO - Processing 1.4
+Biotechnology
+2024-12-06 01:23:28,742 - WARNING - Could not parse company entry: 1.4
+Biotechnology
+2024-12-06 01:23:28,742 - INFO - Processing 1.5
+Consumer goods
+2024-12-06 01:23:28,743 - WARNING - Could not parse company entry: 1.5
+Consumer goods
+2024-12-06 01:23:28,743 - INFO - Processing 1.6
+Creative/design
+2024-12-06 01:23:28,743 - WARNING - Could not parse company entry: 1.6
+Creative/design
+2024-12-06 01:23:28,743 - INFO - Processing 1.7
+Education
+2024-12-06 01:23:28,743 - WARNING - Could not parse company entry: 1.7
+Education
+2024-12-06 01:23:28,743 - INFO - Processing 1.8
+Electronics
+2024-12-06 01:23:28,744 - WARNING - Could not parse company entry: 1.8
+Electronics
+2024-12-06 01:23:28,744 - INFO - Processing 1.9
+Energy
+2024-12-06 01:23:28,744 - WARNING - Could not parse company entry: 1.9
+Energy
+2024-12-06 01:23:28,744 - INFO - Processing 1.10
+Engineering and construction
+2024-12-06 01:23:28,744 - WARNING - Could not parse company entry: 1.10
+Engineering and construction
+2024-12-06 01:23:28,744 - INFO - Processing 1.11
+Entertainment
+2024-12-06 01:23:28,744 - WARNING - Could not parse company entry: 1.11
+Entertainment
+2024-12-06 01:23:28,745 - INFO - Processing 1.12
+Financial
+2024-12-06 01:23:28,745 - WARNING - Could not parse company entry: 1.12
+Financial
+2024-12-06 01:23:28,745 - INFO - Processing 1.13
+Food and drink
+2024-12-06 01:23:28,745 - WARNING - Could not parse company entry: 1.13
+Food and drink
+2024-12-06 01:23:28,745 - INFO - Processing 1.14
+Healthcare
+2024-12-06 01:23:28,745 - WARNING - Could not parse company entry: 1.14
+Healthcare
+2024-12-06 01:23:28,746 - INFO - Processing 1.15
+Internet
+2024-12-06 01:23:28,746 - WARNING - Could not parse company entry: 1.15
+Internet
+2024-12-06 01:23:28,746 - INFO - Processing 1.16
+Media
+2024-12-06 01:23:28,746 - WARNING - Could not parse company entry: 1.16
+Media
+2024-12-06 01:23:28,746 - INFO - Processing 1.17
+Mobile media
+2024-12-06 01:23:28,746 - WARNING - Could not parse company entry: 1.17
+Mobile media
+2024-12-06 01:23:28,746 - INFO - Processing 1.18
+Musical instruments and accessories
+2024-12-06 01:23:28,747 - WARNING - Could not parse company entry: 1.18
+Musical instruments and accessories
+2024-12-06 01:23:28,747 - INFO - Processing 1.19
+Networking
+2024-12-06 01:23:28,747 - WARNING - Could not parse company entry: 1.19
+Networking
+2024-12-06 01:23:28,747 - INFO - Processing 1.20
+Real estate
+2024-12-06 01:23:28,747 - WARNING - Could not parse company entry: 1.20
+Real estate
+2024-12-06 01:23:28,747 - INFO - Processing 1.21
+Retail
+2024-12-06 01:23:28,747 - WARNING - Could not parse company entry: 1.21
+Retail
+2024-12-06 01:23:28,748 - INFO - Processing 1.22
+Software
+2024-12-06 01:23:28,748 - WARNING - Could not parse company entry: 1.22
+Software
+2024-12-06 01:23:28,748 - INFO - Processing 1.23
+Sports
+2024-12-06 01:23:28,748 - WARNING - Could not parse company entry: 1.23
+Sports
+2024-12-06 01:23:28,748 - INFO - Processing 1.24
+Telecommunications
+2024-12-06 01:23:28,748 - WARNING - Could not parse company entry: 1.24
+Telecommunications
+2024-12-06 01:23:28,748 - INFO - Processing 1.25
+Transportation and logistics
+2024-12-06 01:23:28,748 - WARNING - Could not parse company entry: 1.25
+Transportation and logistics
+2024-12-06 01:23:28,749 - INFO - Processing Article
+2024-12-06 01:23:28,749 - WARNING - Could not parse company entry: Article
+2024-12-06 01:23:28,749 - INFO - Processing Talk
+2024-12-06 01:23:28,749 - WARNING - Could not parse company entry: Talk
+2024-12-06 01:23:28,749 - INFO - Processing Read
+2024-12-06 01:23:28,749 - WARNING - Could not parse company entry: Read
+2024-12-06 01:23:28,749 - INFO - Processing Edit
+2024-12-06 01:23:28,749 - WARNING - Could not parse company entry: Edit
+2024-12-06 01:23:28,750 - INFO - Processing View history
+2024-12-06 01:23:28,750 - WARNING - Could not parse company entry: View history
+2024-12-06 01:23:28,750 - INFO - Processing Read
+2024-12-06 01:23:28,750 - WARNING - Could not parse company entry: Read
+2024-12-06 01:23:28,750 - INFO - Processing Edit
+2024-12-06 01:23:28,750 - WARNING - Could not parse company entry: Edit
+2024-12-06 01:23:28,751 - INFO - Processing View history
+2024-12-06 01:23:28,751 - WARNING - Could not parse company entry: View history
+2024-12-06 01:23:28,751 - INFO - Processing What links here
+2024-12-06 01:23:28,751 - WARNING - Could not parse company entry: What links here
+2024-12-06 01:23:28,751 - INFO - Processing Related changes
+2024-12-06 01:23:28,751 - WARNING - Could not parse company entry: Related changes
+2024-12-06 01:23:28,751 - INFO - Processing Upload file
+2024-12-06 01:23:28,751 - WARNING - Could not parse company entry: Upload file
+2024-12-06 01:23:28,752 - INFO - Processing Special pages
+2024-12-06 01:23:28,752 - WARNING - Could not parse company entry: Special pages
+2024-12-06 01:23:28,752 - INFO - Processing Permanent link
+2024-12-06 01:23:28,752 - WARNING - Could not parse company entry: Permanent link
+2024-12-06 01:23:28,752 - INFO - Processing Page information
+2024-12-06 01:23:28,752 - WARNING - Could not parse company entry: Page information
+2024-12-06 01:23:28,752 - INFO - Processing Cite this page
+2024-12-06 01:23:28,753 - WARNING - Could not parse company entry: Cite this page
+2024-12-06 01:23:28,753 - INFO - Processing Get shortened URL
+2024-12-06 01:23:28,753 - WARNING - Could not parse company entry: Get shortened URL
+2024-12-06 01:23:28,753 - INFO - Processing Download QR code
+2024-12-06 01:23:28,753 - WARNING - Could not parse company entry: Download QR code
+2024-12-06 01:23:28,753 - INFO - Processing Download as PDF
+2024-12-06 01:23:28,754 - WARNING - Could not parse company entry: Download as PDF
+2024-12-06 01:23:28,754 - INFO - Processing Printable version
+2024-12-06 01:23:28,754 - WARNING - Could not parse company entry: Printable version
+2024-12-06 01:23:28,754 - INFO - Processing Wikidata item
+2024-12-06 01:23:28,754 - WARNING - Could not parse company entry: Wikidata item
+2024-12-06 01:23:28,754 - INFO - Processing L3 Technologies – Menlo Park (Randtron), San Leandro (Applied Technologies), Santa Rosa (Sonoma EO)
+2024-12-06 01:23:29,809 - INFO - Processing Lawrence Livermore National Laboratory – Livermore
+2024-12-06 01:23:30,897 - INFO - Processing Lockheed Martin Space Systems – Palo Alto, Sunnyvale
+2024-12-06 01:23:31,969 - INFO - Processing Redwire Space – Mountain View
+2024-12-06 01:23:33,020 - INFO - Processing NASA Ames Research Center – Moffett Field
+2024-12-06 01:23:34,097 - INFO - Processing Sandia National Laboratories – Livermore
+2024-12-06 01:23:35,172 - INFO - Processing Space Systems Loral – Palo Alto
+2024-12-06 01:23:36,207 - INFO - Processing Allbirds – San Francisco
+2024-12-06 01:23:37,280 - INFO - Processing Bebe – Brisbane
+2024-12-06 01:23:38,324 - INFO - Processing Betabrand – San Francisco
+2024-12-06 01:23:39,408 - INFO - Processing Dolls Kill – San Francisco
+2024-12-06 01:23:40,445 - INFO - Processing Everlane – San Francisco
+2024-12-06 01:23:41,479 - INFO - Processing Gap Inc. (199) – San Francisco
+2024-12-06 01:23:42,581 - INFO - Processing Jos. A. Bank – Fremont
+2024-12-06 01:23:43,612 - INFO - Processing Levi Strauss & Co. (495) – San Francisco
+2024-12-06 01:23:44,681 - INFO - Processing Marmot – Rohnert Park
+2024-12-06 01:23:45,717 - INFO - Processing ModCloth – San Francisco
+2024-12-06 01:23:46,811 - INFO - Processing Mountain Hardwear – Richmond
+2024-12-06 01:23:47,837 - INFO - Processing O'Neill – Santa Cruz
+2024-12-06 01:23:48,876 - INFO - Processing Poshmark – Redwood City
+2024-12-06 01:23:49,909 - INFO - Processing Ross Stores (202) – Dublin
+2024-12-06 01:23:50,948 - INFO - Processing Stitch Fix – San Francisco
+2024-12-06 01:23:51,990 - INFO - Processing Tea Collection – San Francisco
+2024-12-06 01:23:53,017 - INFO - Processing Zazzle – Redwood City
+2024-12-06 01:23:54,060 - INFO - Processing Byton – Santa Clara
+2024-12-06 01:23:55,121 - INFO - Processing Cruise – San Francisco
+2024-12-06 01:23:56,213 - INFO - Processing Lucid Motors – Newark
+2024-12-06 01:23:57,343 - INFO - Processing Motiv Power Systems[2] – Hayward
+2024-12-06 01:23:58,377 - INFO - Processing Nio – San Jose
+2024-12-06 01:23:59,489 - INFO - Processing Rivian – Palo Alto
+2024-12-06 01:24:00,627 - INFO - Processing Uber – San Francisco
+2024-12-06 01:24:01,788 - INFO - Processing Waymo – Mountain View
+2024-12-06 01:24:02,908 - INFO - Processing Zoox – San Carlos
+2024-12-06 01:24:03,953 - INFO - Processing 23andMe – Mountain View
+2024-12-06 01:24:05,094 - INFO - Processing Anthera Pharmaceuticals – Hayward
+2024-12-06 01:24:06,130 - INFO - Processing Bio-Rad Laboratories – Hercules
+2024-12-06 01:24:07,191 - INFO - Processing BioMarin Pharmaceutical – San Rafael
+2024-12-06 01:24:08,251 - INFO - Processing Buck Institute for Age Research – Novato
+2024-12-06 01:24:09,298 - INFO - Processing Calico – South San Francisco
+2024-12-06 01:24:10,384 - INFO - Processing Chiron – Emeryville
+2024-12-06 01:24:11,434 - INFO - Processing Genentech – South San Francisco
+2024-12-06 01:24:12,549 - INFO - Processing Gilead Sciences (140) – Foster City
+2024-12-06 01:24:13,668 - INFO - Processing Intuitive Surgical – Sunnyvale
+2024-12-06 01:24:14,719 - INFO - Processing Mendel Biotechnology, Inc. – Hayward
+2024-12-06 01:24:15,745 - INFO - Processing Nektar Therapeutics – San Francisco
+2024-12-06 01:24:16,775 - INFO - Processing Roche Molecular Systems – Belmont
+2024-12-06 01:24:17,867 - INFO - Processing Signature BioScience – San Francisco
+2024-12-06 01:24:18,940 - INFO - Processing Verily Life Sciences – Mountain View
+2024-12-06 01:24:19,985 - INFO - Processing Benefit Cosmetics – San Francisco
+2024-12-06 01:24:21,029 - INFO - Processing Bianchi USA – Hayward
+2024-12-06 01:24:22,095 - INFO - Processing CamelBak – Petaluma
+2024-12-06 01:24:23,129 - INFO - Processing Clorox (474) – Oakland
+2024-12-06 01:24:24,202 - INFO - Processing GoPro – San Mateo
+2024-12-06 01:24:25,392 - INFO - Processing Method – San Francisco
+2024-12-06 01:24:26,441 - INFO - Processing Sephora – San Francisco
+2024-12-06 01:24:27,513 - INFO - Processing Specialized Bicycle Components – Morgan Hill
+2024-12-06 01:24:28,578 - INFO - Processing Ammunition – San Francisco
+2024-12-06 01:24:29,605 - INFO - Processing fuseproject – San Francisco
+2024-12-06 01:24:30,638 - INFO - Processing IDEO – San Francisco
+2024-12-06 01:24:31,685 - INFO - Processing Landor Associates – San Francisco
+2024-12-06 01:24:32,720 - INFO - Processing Traction – San Francisco
+2024-12-06 01:24:33,770 - INFO - Processing Chegg – Santa Clara
+2024-12-06 01:24:34,884 - INFO - Processing Course Hero – Redwood City
+2024-12-06 01:24:35,919 - INFO - Processing Coursera – Mountain View
+2024-12-06 01:24:36,984 - INFO - Processing Khan Academy – Mountain View
+2024-12-06 01:24:38,040 - INFO - Processing Magoosh – Berkeley
+2024-12-06 01:24:39,074 - INFO - Processing Quizlet – San Francisco
+2024-12-06 01:24:40,113 - INFO - Processing Remind – San Francisco
+2024-12-06 01:24:41,146 - INFO - Processing Udacity – Mountain View
+2024-12-06 01:24:42,196 - INFO - Processing Adaptec – Milpitas
+2024-12-06 01:24:43,247 - INFO - Processing Advanced Micro Devices (AMD) (448) – Sunnyvale
+2024-12-06 01:24:44,519 - INFO - Processing Agilent Technologies (547) – Santa Clara
+2024-12-06 01:24:45,588 - INFO - Processing Altera (Intel) – San Jose
+2024-12-06 01:24:46,687 - INFO - Processing Antec – Fremont
+2024-12-06 01:24:47,719 - INFO - Processing Apple Inc. (4) – Cupertino
+2024-12-06 01:24:49,116 - INFO - Processing Applied Materials (218) – Santa Clara
+2024-12-06 01:24:50,172 - INFO - Processing Asus – Fremont
+2024-12-06 01:24:51,289 - INFO - Processing Barracuda Networks – Campbell
+2024-12-06 01:24:52,335 - INFO - Processing Broadcom Inc. (138) – San Jose
+2024-12-06 01:24:53,475 - INFO - Processing Brocade Communications Systems – Santa Clara
+2024-12-06 01:24:54,543 - INFO - Processing Cisco Systems (64) – San Jose
+2024-12-06 01:24:55,706 - INFO - Processing Digidesign – Daly City
+2024-12-06 01:24:56,741 - INFO - Processing Dust Networks – Hayward
+2024-12-06 01:24:57,770 - INFO - Processing E-mu Systems – Scotts Valley
+2024-12-06 01:24:58,808 - INFO - Processing Fairchild Semiconductor – San Jose
+2024-12-06 01:24:59,946 - INFO - Processing Fitbit – San Francisco
+2024-12-06 01:25:01,058 - INFO - Processing Fujitsu Computer Products of America – Sunnyvale
+2024-12-06 01:25:02,089 - INFO - Processing Genesis Microchip – Santa Clara
+2024-12-06 01:25:03,116 - INFO - Processing Hewlett Packard (58) – Palo Alto
+2024-12-06 01:25:04,288 - INFO - Processing Hewlett Packard Enterprise (109) – San Jose
+2024-12-06 01:25:05,366 - INFO - Processing Hitachi Data Systems – Santa Clara
+2024-12-06 01:25:06,429 - INFO - Processing Hitachi Global Storage Technologies – San Jose
+2024-12-06 01:25:07,471 - INFO - Processing Integrated Device Technology – San Jose
+2024-12-06 01:25:08,514 - INFO - Processing Intel (45) – Santa Clara
+2024-12-06 01:25:09,880 - INFO - Processing Jawbone – San Francisco
+2024-12-06 01:25:09,880 - INFO - Processing JDS Uniphase – Milpitas
+2024-12-06 01:25:10,917 - INFO - Processing Juniper Networks – Sunnyvale
+2024-12-06 01:25:12,023 - INFO - Processing Keysight – Santa Rosa
+2024-12-06 01:25:13,123 - INFO - Processing KLA Tencor – Milpitas
+2024-12-06 01:25:14,171 - INFO - Processing Lam Research (331) – Fremont
+2024-12-06 01:25:15,230 - INFO - Processing Logitech – Newark
+2024-12-06 01:25:16,298 - INFO - Processing Marvell – Santa Clara
+2024-12-06 01:25:17,379 - INFO - Processing Maxim Integrated – San Jose
+2024-12-06 01:25:18,428 - INFO - Processing Microchip Technology – San Jose
+2024-12-06 01:25:19,574 - INFO - Processing Monster Cable Products – Brisbane
+2024-12-06 01:25:20,634 - INFO - Processing Nest Labs – Palo Alto
+2024-12-06 01:25:21,764 - INFO - Processing NetApp (478) – Sunnyvale
+2024-12-06 01:25:22,849 - INFO - Processing Nvidia (292) – Santa Clara
+2024-12-06 01:25:24,077 - INFO - Processing Philips Lumileds Lighting Company – San Jose
+2024-12-06 01:25:25,109 - INFO - Processing Plantronics (Now Poly) – Santa Cruz
+2024-12-06 01:25:26,163 - INFO - Processing Rambus – Los Altos
+2024-12-06 01:25:27,230 - INFO - Processing Sanmina-SCI (385) – San Jose
+2024-12-06 01:25:28,270 - INFO - Processing Seagate Technology (174) – Cupertino
+2024-12-06 01:25:29,425 - INFO - Processing Silicon Graphics – Fremont (acquired by Rackable Systems)
+2024-12-06 01:25:30,520 - INFO - Processing Silicon Image – Sunnyvale
+2024-12-06 01:25:31,550 - INFO - Processing Solectron Corporation – Milpitas
+2024-12-06 01:25:32,579 - INFO - Processing Sony Optiarc America Inc. – San Jose
+2024-12-06 01:25:33,619 - INFO - Processing Supermicro – San Jose
+2024-12-06 01:25:34,679 - INFO - Processing Synnex (130) – Fremont
+2024-12-06 01:25:35,716 - INFO - Processing Synopsys – Mountain View
+2024-12-06 01:25:36,841 - INFO - Processing TDK – San Jose
+2024-12-06 01:25:37,907 - INFO - Processing Terayon – Santa Clara
+2024-12-06 01:25:38,935 - INFO - Processing THX – San Rafael
+2024-12-06 01:25:40,001 - INFO - Processing Touchstone Semiconductor – Milpitas
+2024-12-06 01:25:41,026 - INFO - Processing Western Digital (198) – San Jose
+2024-12-06 01:25:42,133 - INFO - Processing Xilinx – San Jose
+2024-12-06 01:25:43,312 - INFO - Processing Bloom Energy  – Sunnyvale
+2024-12-06 01:25:44,354 - INFO - Processing Chevron (15) – San Ramon
+2024-12-06 01:25:45,512 - INFO - Processing Cupertino Electric – San Jose
+2024-12-06 01:25:46,542 - INFO - Processing Energy Recovery Inc. – San Leandro
+2024-12-06 01:25:47,621 - INFO - Processing Mosaic Inc. – Oakland (solar power crowdfunding)
+2024-12-06 01:25:48,665 - INFO - Processing PG&E (189) – Oakland
+2024-12-06 01:25:49,862 - INFO - Processing Rosendin Electric – San Jose
+2024-12-06 01:25:50,891 - INFO - Processing SolarCity – San Mateo
+2024-12-06 01:25:52,039 - INFO - Processing SunEdison – Belmont
+2024-12-06 01:25:53,118 - INFO - Processing Sungevity – Oakland
+2024-12-06 01:25:54,159 - INFO - Processing SunPower – San Jose
+2024-12-06 01:25:55,218 - INFO - Processing Sunrun – San Francisco
+2024-12-06 01:25:56,259 - INFO - Processing DPR Construction – Redwood City
+2024-12-06 01:25:57,307 - INFO - Processing Granite Construction – Watsonville
+2024-12-06 01:25:58,334 - INFO - Processing Katerra – Menlo Park
+2024-12-06 01:25:59,364 - INFO - Processing Swinerton – San Francisco
+2024-12-06 01:26:00,392 - INFO - Processing Webcor Builders – San Francisco
+2024-12-06 01:26:01,477 - INFO - Processing American Zoetrope – San Francisco[3]
+2024-12-06 01:26:02,572 - INFO - Processing Capcom U.S.A. – San Francisco
+2024-12-06 01:26:03,644 - INFO - Processing Crunchyroll – San Francisco
+2024-12-06 01:26:04,877 - INFO - Processing Dolby Laboratories – San Francisco
+2024-12-06 01:26:05,962 - INFO - Processing Electronic Arts – Redwood City
+2024-12-06 01:26:07,134 - INFO - Processing Industrial Light & Magic – San Francisco
+2024-12-06 01:26:08,443 - INFO - Processing Kerner Optical – San Rafael
+2024-12-06 01:26:09,485 - INFO - Processing Lucasfilm Animation – San Rafael (Lucas Valley)
+2024-12-06 01:26:10,606 - INFO - Processing Netflix (164) – Los Gatos
+2024-12-06 01:26:12,010 - INFO - Processing Niantic – San Francisco
+2024-12-06 01:26:13,098 - INFO - Processing Pandora Radio – Oakland
+2024-12-06 01:26:14,171 - INFO - Processing Philo – San Francisco
+2024-12-06 01:26:15,227 - INFO - Processing Pixar – Emeryville
+2024-12-06 01:26:16,538 - INFO - Processing Roblox Corporation – San Mateo
+2024-12-06 01:26:17,601 - INFO - Processing Sega of America –  San Francisco
+2024-12-06 01:26:18,907 - INFO - Processing Skywalker Sound – San Rafael (Lucas Valley)
+2024-12-06 01:26:19,983 - INFO - Processing Sony Interactive Entertainment (PlayStation) – San Mateo
+2024-12-06 01:26:21,165 - INFO - Processing Ubisoft – San Francisco
+2024-12-06 01:26:22,335 - INFO - Processing Zynga – San Francisco
+2024-12-06 01:26:23,559 - INFO - Processing Bill.com – San Jose
+2024-12-06 01:26:24,590 - INFO - Processing Block, Inc. – San Francisco
+2024-12-06 01:26:25,691 - INFO - Processing Brex – San Francisco
+2024-12-06 01:26:26,723 - INFO - Processing Calypso Technology – San Francisco
+2024-12-06 01:26:27,752 - INFO - Processing Coinbase – San Francisco
+2024-12-06 01:26:28,846 - INFO - Processing FICO (Fair Isaac Corporation) – San Jose and San Rafael
+2024-12-06 01:26:29,894 - INFO - Processing Fireman's Fund Insurance Company – Novato (now Allianz Global Corporate & Specialty)
+2024-12-06 01:26:30,999 - INFO - Processing First Republic Bank – San Francisco
+2024-12-06 01:26:32,059 - INFO - Processing Fisher Investments – Woodside
+2024-12-06 01:26:33,091 - INFO - Processing Franklin Templeton Investments (493) – San Mateo
+2024-12-06 01:26:34,148 - INFO - Processing Lending Club – San Francisco
+2024-12-06 01:26:35,229 - INFO - Processing Patelco Credit Union – Dublin
+2024-12-06 01:26:36,255 - INFO - Processing PayPal (182) – San Jose
+2024-12-06 01:26:37,497 - INFO - Processing Robert Half International (482) – Menlo Park
+2024-12-06 01:26:38,537 - INFO - Processing Robinhood – Menlo Park
+2024-12-06 01:26:39,635 - INFO - Processing SigFig – San Francisco
+2024-12-06 01:26:40,663 - INFO - Processing Silicon Valley Bank – Santa Clara
+2024-12-06 01:26:41,755 - INFO - Processing SoFi – San Francisco
+2024-12-06 01:26:42,895 - INFO - Processing TPG Sixth Street Partners – San Francisco
+2024-12-06 01:26:43,940 - INFO - Processing Visa, Inc. (137) – San Francisco
+2024-12-06 01:26:45,096 - INFO - Processing Wells Fargo Bank (30) – San Francisco
+2024-12-06 01:26:46,283 - INFO - Processing Yodlee – Redwood City
+2024-12-06 01:26:47,315 - INFO - Processing 21st Amendment Brewery – San Leandro
+2024-12-06 01:26:48,353 - INFO - Processing Anchor Brewers & Distillers, LLC – San Francisco
+2024-12-06 01:26:49,420 - INFO - Processing Annabelle Candy Company – Hayward
+2024-12-06 01:26:50,448 - INFO - Processing Annie's Homegrown – Berkeley
+2024-12-06 01:26:51,484 - INFO - Processing Black Angus Steakhouse – Los Altos
+2024-12-06 01:26:52,516 - INFO - Processing Blue Bottle Coffee – Oakland – subsidiary of Nestle
+2024-12-06 01:26:53,571 - INFO - Processing C&H Pure Cane Sugar – Crockett
+2024-12-06 01:26:54,610 - INFO - Processing Clif Bar – Emeryville
+2024-12-06 01:26:55,660 - INFO - Processing Columbus Salame – Hayward
+2024-12-06 01:26:56,758 - INFO - Processing Dreyer's Grand Ice Cream – Oakland
+2024-12-06 01:26:57,812 - INFO - Processing Extreme Pizza – San Francisco
+2024-12-06 01:26:58,846 - INFO - Processing F'real - Emeryville
+2024-12-06 01:26:58,846 - INFO - Processing Ghirardelli Chocolate Company – San Leandro
+2024-12-06 01:26:59,928 - INFO - Processing Häagen-Dazs – Oakland
+2024-12-06 01:27:01,004 - INFO - Processing Il Fornaio – Corte Madera
+2024-12-06 01:27:02,033 - INFO - Processing Impossible Foods – Redwood City
+2024-12-06 01:27:03,087 - INFO - Processing Jelly Belly – Fairfield
+2024-12-06 01:27:04,134 - INFO - Processing Martinelli's – Watsonville
+2024-12-06 01:27:05,162 - INFO - Processing Mountain Mike's Pizza – Hayward
+2024-12-06 01:27:06,247 - INFO - Processing Odwalla – Half Moon Bay
+2024-12-06 01:27:07,325 - INFO - Processing Otis Spunkmeyer – San Leandro
+2024-12-06 01:27:08,356 - INFO - Processing Peet's Coffee & Tea – Emeryville
+2024-12-06 01:27:09,432 - INFO - Processing Point Reyes Farmstead Cheese Company – Point Reyes Station
+2024-12-06 01:27:10,461 - INFO - Processing PowerBar – Berkeley
+2024-12-06 01:27:11,498 - INFO - Processing R. Torre & Company, Inc. – San Leandro
+2024-12-06 01:27:12,532 - INFO - Processing See's Candies – South San Francisco
+2024-12-06 01:27:13,581 - INFO - Processing Shasta – Hayward
+2024-12-06 01:27:14,623 - INFO - Processing Takaki Bakery (Andersen Institute of Bread and Life) – Hayward
+2024-12-06 01:27:15,658 - INFO - Processing Togo's – San Jose
+2024-12-06 01:27:16,704 - INFO - Processing Verve Coffee Roasters – Santa Cruz
+2024-12-06 01:27:17,788 - INFO - Processing Castlight Health – San Francisco
+2024-12-06 01:27:18,818 - INFO - Processing Eargo – Mountain Valley
+2024-12-06 01:27:19,856 - INFO - Processing Kaiser Permanente – Oakland
+2024-12-06 01:27:20,947 - INFO - Processing One Medical – San Francisco
+2024-12-06 01:27:21,998 - INFO - Processing Palo Alto Medical Foundation – Palo Alto
+2024-12-06 01:27:23,031 - INFO - Processing Airbnb – San Francisco
+2024-12-06 01:27:24,221 - INFO - Processing Alphabet Inc. (11) – Mountain View
+2024-12-06 01:27:25,369 - INFO - Processing Ask.com – Oakland
+2024-12-06 01:27:26,420 - INFO - Processing Box – Redwood City
+2024-12-06 01:27:27,479 - INFO - Processing Cisco (64) – San Jose
+2024-12-06 01:27:28,691 - INFO - Processing Craigslist – San Francisco
+2024-12-06 01:27:29,778 - INFO - Processing DoorDash – San Francisco
+2024-12-06 01:27:30,859 - INFO - Processing Dropbox – San Francisco
+2024-12-06 01:27:32,048 - INFO - Processing Ebates – San Francisco
+2024-12-06 01:27:33,086 - INFO - Processing eBay (295) – San Jose
+2024-12-06 01:27:34,228 - INFO - Processing Evernote – Redwood City
+2024-12-06 01:27:35,294 - INFO - Processing Fandom – San Francisco
+2024-12-06 01:27:36,460 - INFO - Processing Glassdoor – Mill Valley
+2024-12-06 01:27:37,504 - INFO - Processing Google – Mountain View – subsidiary of Alphabet Inc.
+2024-12-06 01:27:38,893 - INFO - Processing Instacart – San Francisco
+2024-12-06 01:27:39,975 - INFO - Processing LinkedIn – Sunnyvale
+2024-12-06 01:27:41,215 - INFO - Processing Lyft – San Francisco
+2024-12-06 01:27:42,296 - INFO - Processing Meta (46) – Menlo Park
+2024-12-06 01:27:43,459 - INFO - Processing Pinterest – San Francisco
+2024-12-06 01:27:44,626 - INFO - Processing Poll Everywhere – San Francisco
+2024-12-06 01:27:45,653 - INFO - Processing Poshmark – Redwood City
+2024-12-06 01:27:46,685 - INFO - Processing Postmates – San Francisco
+2024-12-06 01:27:47,735 - INFO - Processing Quora – Mountain View
+2024-12-06 01:27:48,840 - INFO - Processing Rubrik – Palo Alto
+2024-12-06 01:27:49,874 - INFO - Processing Salesforce.com (190) – San Francisco
+2024-12-06 01:27:50,987 - INFO - Processing Slack Technologies – San Francisco
+2024-12-06 01:27:52,109 - INFO - Processing SurveyMonkey – San Mateo
+2024-12-06 01:27:53,155 - INFO - Processing Tripping.com – San Francisco
+2024-12-06 01:27:54,187 - INFO - Processing Twitch – San Francisco
+2024-12-06 01:27:55,403 - INFO - Processing Uber (228) – San Francisco
+2024-12-06 01:27:56,569 - INFO - Processing Wikimedia Foundation – San Francisco
+2024-12-06 01:27:57,732 - INFO - Processing Workday – Pleasanton
+2024-12-06 01:27:58,798 - INFO - Processing Yelp – San Francisco
+2024-12-06 01:28:00,013 - INFO - Processing YouTube – San Bruno – subsidiary of Alphabet Inc.
+2024-12-06 01:28:01,384 - INFO - Processing Yummly – Palo Alto – subsidiary of Whirlpool Corporation
+2024-12-06 01:28:02,424 - INFO - Processing Zendesk – San Francisco
+2024-12-06 01:28:03,498 - INFO - Processing Zoom Video Communications – San Jose
+2024-12-06 01:28:04,582 - INFO - Processing Zoosk – San Francisco
+2024-12-06 01:28:05,619 - INFO - Processing Communication Arts – Menlo Park
+2024-12-06 01:28:06,646 - INFO - Processing Complex – San Francisco
+2024-12-06 01:28:07,793 - INFO - Processing Daily Review – Hayward
+2024-12-06 01:28:08,827 - INFO - Processing Dwell – San Francisco
+2024-12-06 01:28:09,867 - INFO - Processing Future US – South San Francisco
+2024-12-06 01:28:10,916 - INFO - Processing POPSUGAR Inc. – San Francisco
+2024-12-06 01:28:11,947 - INFO - Processing San Francisco Chronicle – San Francisco
+2024-12-06 01:28:13,007 - INFO - Processing San Jose Mercury News – San Jose
+2024-12-06 01:28:14,099 - INFO - Processing University of California Press – Berkeley
+2024-12-06 01:28:15,143 - INFO - Processing Bleacher Report – San Francisco
+2024-12-06 01:28:16,254 - INFO - Processing MobiTV – Emeryville
+2024-12-06 01:28:17,300 - INFO - Processing TubeMogul – Emeryville
+2024-12-06 01:28:18,366 - INFO - Processing Dunlop Manufacturing – Benicia
+2024-12-06 01:28:19,394 - INFO - Processing E-mu Systems – Scotts Valley
+2024-12-06 01:28:20,433 - INFO - Processing Saga Musical Instruments – South San Francisco
+2024-12-06 01:28:21,464 - INFO - Processing Santa Cruz Guitar Company – Santa Cruz
+2024-12-06 01:28:22,512 - INFO - Processing Universal Audio – Scotts Valley
+2024-12-06 01:28:23,540 - INFO - Processing A10 Networks – San Jose
+2024-12-06 01:28:24,575 - INFO - Processing Arista Networks – Santa Clara
+2024-12-06 01:28:25,630 - INFO - Processing Aryaka Networks – Milpitas
+2024-12-06 01:28:26,656 - INFO - Processing Barefoot Networks (Intel) – Palo Alto
+2024-12-06 01:28:27,740 - INFO - Processing Brocade Communications (Broadcom) – San Jose
+2024-12-06 01:28:28,804 - INFO - Processing Cisco (64) – San Jose
+2024-12-06 01:28:29,965 - INFO - Processing Ericsson – Santa Clara
+2024-12-06 01:28:31,121 - INFO - Processing Extreme Networks – San Jose
+2024-12-06 01:28:32,155 - INFO - Processing F5 Networks – San Jose
+2024-12-06 01:28:33,211 - INFO - Processing Fortinet – Sunnyvale
+2024-12-06 01:28:34,286 - INFO - Processing Juniper Networks – Sunnyvale
+2024-12-06 01:28:35,393 - INFO - Processing Minerva Networks – San Jose
+2024-12-06 01:28:36,417 - INFO - Processing NETGEAR – San Jose
+2024-12-06 01:28:37,463 - INFO - Processing Palo Alto Networks – Santa Clara
+2024-12-06 01:28:38,579 - INFO - Processing Digital Realty – San Francisco
+2024-12-06 01:28:39,620 - INFO - Processing Jay Paul Company – San Francisco
+2024-12-06 01:28:40,646 - INFO - Processing LiquidSpace – San Francisco
+2024-12-06 01:28:41,675 - INFO - Processing Prologis – San Francisco
+2024-12-06 01:28:42,735 - INFO - Processing Trulia – San Francisco
+2024-12-06 01:28:43,778 - INFO - Processing BevMo! – Concord
+2024-12-06 01:28:44,818 - INFO - Processing California Closets – Richmond
+2024-12-06 01:28:45,847 - INFO - Processing Cost Plus Inc. – Alameda
+2024-12-06 01:28:46,882 - INFO - Processing Gap.com – San Francisco
+2024-12-06 01:28:48,044 - INFO - Processing Grocery Outlet – Emeryville
+2024-12-06 01:28:49,104 - INFO - Processing Gymboree – San Francisco
+2024-12-06 01:28:50,139 - INFO - Processing Jos. A. Bank – Fremont
+2024-12-06 01:28:51,172 - INFO - Processing Levi's – San Francisco
+2024-12-06 01:28:52,242 - INFO - Processing Macys.com – San Francisco
+2024-12-06 01:28:53,346 - INFO - Processing Minted – San Francisco
+2024-12-06 01:28:54,374 - INFO - Processing Pottery Barn – San Francisco
+2024-12-06 01:28:55,410 - INFO - Processing Restoration Hardware – Corte Madera
+2024-12-06 01:28:56,531 - INFO - Processing Ross Stores (412) – Dublin
+2024-12-06 01:28:57,570 - INFO - Processing Safeway – Pleasanton – subsidiary of [Albertsons]
+2024-12-06 01:28:58,676 - INFO - Processing Sephora – San Francisco
+2024-12-06 01:28:59,746 - INFO - Processing Shutterfly – Redwood City
+2024-12-06 01:29:00,800 - INFO - Processing Timbuk2  – San Francisco
+2024-12-06 01:29:01,830 - INFO - Processing Walmart.com – San Bruno
+2024-12-06 01:29:03,259 - INFO - Processing West Marine – Watsonville
+2024-12-06 01:29:04,287 - INFO - Processing Williams-Sonoma, Inc. (489) – San Francisco
+2024-12-06 01:29:05,342 - INFO - Processing Zazzle – Redwood City
+2024-12-06 01:29:06,381 - INFO - Processing Adobe Inc. (285) – San Jose
+2024-12-06 01:29:07,505 - INFO - Processing AppDynamics – San Francisco
+2024-12-06 01:29:08,533 - INFO - Processing Autodesk – San Rafael
+2024-12-06 01:29:09,733 - INFO - Processing Box – Redwood City
+2024-12-06 01:29:10,795 - INFO - Processing Business Objects – San Jose
+2024-12-06 01:29:11,833 - INFO - Processing Cloudera – Palo Alto
+2024-12-06 01:29:12,877 - INFO - Processing DocuSign – San Francisco
+2024-12-06 01:29:13,956 - INFO - Processing Dropbox – San Francisco
+2024-12-06 01:29:15,145 - INFO - Processing Genesys – Daly City
+2024-12-06 01:29:16,188 - INFO - Processing GitHub – San Francisco
+2024-12-06 01:29:17,316 - INFO - Processing Imperva – San Mateo
+2024-12-06 01:29:18,350 - INFO - Processing Intuit (445)– Mountain View
+2024-12-06 01:29:18,351 - WARNING - Could not parse company entry: Intuit (445)– Mountain View
+2024-12-06 01:29:18,351 - INFO - Processing Malwarebytes – Santa Clara
+2024-12-06 01:29:19,406 - INFO - Processing McAfee – Santa Clara
+2024-12-06 01:29:20,556 - INFO - Processing Medallia – Palo Alto
+2024-12-06 01:29:21,591 - INFO - Processing Mozilla – Mountain View
+2024-12-06 01:29:22,704 - INFO - Processing Neo4j – San Mateo
+2024-12-06 01:29:23,753 - INFO - Processing New Relic – San Francisco
+2024-12-06 01:29:24,796 - INFO - Processing North Beach Games – San Rafael[4]
+2024-12-06 01:29:25,890 - INFO - Processing Nutanix – San Jose
+2024-12-06 01:29:26,992 - INFO - Processing Objectivity, Inc. – San Jose
+2024-12-06 01:29:28,022 - INFO - Processing Palantir Technologies – Palo Alto
+2024-12-06 01:29:29,137 - INFO - Processing People Power Company – Palo Alto
+2024-12-06 01:29:30,176 - INFO - Processing Piggybackr – San Francisco
+2024-12-06 01:29:31,212 - INFO - Processing Pivotal Software (VMware) – San Francisco
+2024-12-06 01:29:32,248 - INFO - Processing Qualys – Foster City
+2024-12-06 01:29:33,305 - INFO - Processing Sage Intacct – San Jose
+2024-12-06 01:29:34,344 - INFO - Processing SAP – Palo Alto
+2024-12-06 01:29:35,531 - INFO - Processing ServiceNow – Santa Clara
+2024-12-06 01:29:36,582 - INFO - Processing Splunk – San Francisco
+2024-12-06 01:29:37,655 - INFO - Processing Sybase (SAP) – Dublin
+2024-12-06 01:29:38,691 - INFO - Processing Symantec (461) – Mountain View
+2024-12-06 01:29:39,801 - INFO - Processing TeleNav – Santa Clara
+2024-12-06 01:29:40,891 - INFO - Processing TIBCO Software – Palo Alto
+2024-12-06 01:29:41,943 - INFO - Processing Trimble – Sunnyvale
+2024-12-06 01:29:42,974 - INFO - Processing VMware – Palo Alto
+2024-12-06 01:29:44,091 - INFO - Processing 24 Hour Fitness – San Ramon
+2024-12-06 01:29:45,128 - INFO - Processing All Pro Wrestling – Hayward
+2024-12-06 01:29:46,185 - INFO - Processing Bay Area Panthers – San Jose
+2024-12-06 01:29:47,243 - INFO - Processing Fox Racing Shox – Scotts Valley
+2024-12-06 01:29:48,342 - INFO - Processing Giro – Santa Cruz
+2024-12-06 01:29:49,387 - INFO - Processing Golden State Warriors – San Francisco
+2024-12-06 01:29:50,605 - INFO - Processing GoPro – San Mateo
+2024-12-06 01:29:51,786 - INFO - Processing JumpSport – San Jose
+2024-12-06 01:29:52,816 - INFO - Processing Kestrel USA – Santa Cruz
+2024-12-06 01:29:53,847 - INFO - Processing Oakland A's – Oakland
+2024-12-06 01:29:54,994 - INFO - Processing Pac-12 Conference – Walnut Creek
+2024-12-06 01:29:56,234 - INFO - Processing San Francisco 49ers – Santa Clara
+2024-12-06 01:29:57,556 - INFO - Processing San Francisco Giants – San Francisco
+2024-12-06 01:29:58,735 - INFO - Processing San Jose Barracuda – San Jose
+2024-12-06 01:29:59,888 - INFO - Processing San Jose Earthquakes – San Jose
+2024-12-06 01:30:01,112 - INFO - Processing San Jose Sharks – San Jose
+2024-12-06 01:30:02,324 - INFO - Processing Santa Cruz Bicycles – Santa Cruz
+2024-12-06 01:30:03,372 - INFO - Processing Santa Cruz Skateboards – Santa Cruz
+2024-12-06 01:30:04,400 - INFO - Processing Santa Cruz Warriors – Santa Cruz
+2024-12-06 01:30:05,464 - INFO - Processing Specialized Bicycle Components – Morgan Hill
+2024-12-06 01:30:06,526 - INFO - Processing TRX System – San Francisco
+2024-12-06 01:30:07,552 - INFO - Processing Avaya – Santa Clara
+2024-12-06 01:30:08,692 - INFO - Processing Pacific Telemanagement Services – San Leandro
+2024-12-06 01:30:09,716 - INFO - Processing Gillig Corporation – Livermore
+2024-12-06 01:30:10,779 - INFO - Processing Lime – San Francisco
+2024-12-06 01:30:11,844 - INFO - Processing Lyft – San Francisco
+2024-12-06 01:30:12,926 - INFO - Processing Uber – San Francisco
+2024-12-06 01:30:14,085 - INFO - Processing Bank of America (9) – relocated to Charlotte, North Carolina
+2024-12-06 01:30:15,251 - INFO - Processing Bare Escentuals – purchased by Shiseido, now headquarters in Rutherford, New Jersey
+2024-12-06 01:30:16,324 - INFO - Processing Bechtel – relocated to Reston, Virginia
+2024-12-06 01:30:17,538 - INFO - Processing Best Manufacturing Company – San Leandro (defunct)
+2024-12-06 01:30:18,568 - INFO - Processing Calpine Corporation (318) – relocated to Houston, Texas
+2024-12-06 01:30:19,603 - INFO - Processing Caterpillar Inc. (50) – relocated to Peoria, Illinois
+2024-12-06 01:30:20,780 - INFO - Processing Chaosium – formerly based in Oakland, then Hayward, now based in Ann Arbor, Michigan
+2024-12-06 01:30:21,880 - INFO - Processing Charles Schwab Corporation (271) – San Francisco – moved to Westlake, TX
+2024-12-06 01:30:22,940 - INFO - Processing Charlotte Russe – acquired by YM Inc.
+2024-12-06 01:30:23,971 - INFO - Processing ComputerLand – Hayward (defunct)
+2024-12-06 01:30:25,003 - INFO - Processing Esprit – relocated to Ratingen, Germany and Hong Kong, China
+2024-12-06 01:30:26,040 - INFO - Processing Etec Systems, Inc. – Hayward (defunct)
+2024-12-06 01:30:27,070 - INFO - Processing Excite@Home – purchased by Ask.com
+2024-12-06 01:30:28,125 - INFO - Processing Flickr – acquired by Yahoo!
+2024-12-06 01:30:29,240 - INFO - Processing FMC Corporation (Farm Machinery Corp, Farm Machinery and Chemical Corp) – moved headquarters from San Jose to Chicago; subsequently moved to Philadelphia
+2024-12-06 01:30:30,365 - INFO - Processing Folgers Coffee – acquired by The J.M. Smucker Co.
+2024-12-06 01:30:31,410 - INFO - Processing Friden, Inc. – San Leandro (defunct)
+2024-12-06 01:30:32,439 - INFO - Processing Hambrecht & Quist, LLC – purchased by Chase Manhattan Bank, later folded into JP Morgan Securities following Chase's purchase of JPM
+2024-12-06 01:30:33,469 - INFO - Processing Hearst Corporation – relocated to New York City
+2024-12-06 01:30:34,561 - INFO - Processing Hills Brothers Coffee – purchased by Massimo Zanetti Beverage USA
+2024-12-06 01:30:35,607 - INFO - Processing Hunt Brothers Cannery – moved from Hayward
+2024-12-06 01:30:36,641 - INFO - Processing JanSport – Alameda acquired by VF Corporation
+2024-12-06 01:30:37,684 - INFO - Processing Jamba Juice – moved from Emeryville to Frisco, Texas
+2024-12-06 01:30:38,739 - INFO - Processing Knight-Ridder – purchased by The McClatchy Company
+2024-12-06 01:30:39,863 - INFO - Processing Leslie Salt – purchased by Cargill in 1978
+2024-12-06 01:30:40,906 - INFO - Processing Maxtor – Milpitas – acquired by Seagate
+2024-12-06 01:30:41,951 - INFO - Processing McKesson Corporation – moved from San Francisco to Irving, Texas
+2024-12-06 01:30:43,023 - INFO - Processing Mervyn's – Hayward (defunct)
+2024-12-06 01:30:44,067 - INFO - Processing Montgomery Securities – purchased by NationsBank Corporation on June 30, 1997
+2024-12-06 01:30:45,097 - INFO - Processing National Semiconductor – Santa Clara – acquired by Texas Instruments
+2024-12-06 01:30:46,150 - INFO - Processing NUMMI – automobile manufacturer (defunct)
+2024-12-06 01:30:47,271 - INFO - Processing Oracle (82) – moved headquarters from Redwood City to Austin, Texas
+2024-12-06 01:30:48,441 - INFO - Processing Pacific Telesis – acquired by SBC Communications, which became AT&T when it purchased AT&T Corporation
+2024-12-06 01:30:49,487 - INFO - Processing Pegasus Aviation Finance Company – acquired by AWAS
+2024-12-06 01:30:50,521 - INFO - Processing Peterbilt Motors – relocated to Denton, Texas
+2024-12-06 01:30:51,682 - INFO - Processing Pier 1 – started in San Mateo, now headquartered in Fort Worth, Texas
+2024-12-06 01:30:52,728 - INFO - Processing Qume – Hayward (defunct)
+2024-12-06 01:30:53,759 - INFO - Processing Robertson Stephens – closed by its parent company FleetBoston in July 2002
+2024-12-06 01:30:54,799 - INFO - Processing Rolling Stone – relocated to New York City, New York
+2024-12-06 01:30:55,970 - INFO - Processing SanDisk – Milpitas – acquired by Western Digital
+2024-12-06 01:30:57,026 - INFO - Processing Scharffen Berger Chocolate Maker – acquired by The Hershey Company
+2024-12-06 01:30:58,065 - INFO - Processing The Sharper Image
+2024-12-06 01:30:58,065 - WARNING - Could not parse company entry: The Sharper Image
+2024-12-06 01:30:58,065 - INFO - Processing Six Apart – moved to Tokyo
+2024-12-06 01:30:59,192 - INFO - Processing Southern Pacific – acquired by Union Pacific Railroad
+2024-12-06 01:31:00,273 - INFO - Processing Swensen's Ice Cream – acquired by International Franchise Corp (IFC) of Markham, Ontario, Canada
+2024-12-06 01:31:01,304 - INFO - Processing Tesla (124) – moved to Austin, TX
+2024-12-06 01:31:02,748 - INFO - Processing Transamerica – purchased by Aegon
+2024-12-06 01:31:03,790 - INFO - Processing United Commercial Bank – acquired by East West Bank
+2024-12-06 01:31:04,821 - INFO - Processing URS Corporation – San Francisco – acquired by AECOM
+2024-12-06 01:31:05,861 - INFO - Processing Victoria's Secret – started in Palo Alto, now headquartered in Reynoldsburg, Ohio
+2024-12-06 01:31:07,149 - INFO - Processing Virgin America – Burlingame – acquired by Alaska Airlines
+2024-12-06 01:31:08,231 - INFO - Processing X Corp. – moved to Bastrop, TX
+2024-12-06 01:31:09,300 - INFO - Processing Yahoo! (353) – Sunnyvale- acquired by Verizon Media
+2024-12-06 01:31:10,454 - INFO - Processing San Francisco Bay Area portal
+2024-12-06 01:31:10,454 - WARNING - Could not parse company entry: San Francisco Bay Area portal
+2024-12-06 01:31:10,454 - INFO - Processing List of California companies
+2024-12-06 01:31:10,454 - WARNING - Could not parse company entry: List of California companies
+2024-12-06 01:31:10,454 - INFO - Processing List of companies based in Berkeley, California (subset, mostly included in this list)
+2024-12-06 01:31:10,454 - WARNING - Could not parse company entry: List of companies based in Berkeley, California (subset, mostly included in this list)
+2024-12-06 01:31:10,454 - INFO - Processing List of companies based in Hayward, California (subset, mostly included in this list)
+2024-12-06 01:31:10,455 - WARNING - Could not parse company entry: List of companies based in Hayward, California (subset, mostly included in this list)
+2024-12-06 01:31:10,455 - INFO - Processing List of companies based in Oakland, California (subset, mostly included in this list)
+2024-12-06 01:31:10,455 - WARNING - Could not parse company entry: List of companies based in Oakland, California (subset, mostly included in this list)
+2024-12-06 01:31:10,455 - INFO - Processing Companies based in the San Francisco Bay Area
+2024-12-06 01:31:10,455 - WARNING - Could not parse company entry: Companies based in the San Francisco Bay Area
+2024-12-06 01:31:10,455 - INFO - Processing Lists of companies based in California
+2024-12-06 01:31:10,455 - WARNING - Could not parse company entry: Lists of companies based in California
+2024-12-06 01:31:10,455 - INFO - Processing San Francisco Bay Area-related lists
+2024-12-06 01:31:10,455 - WARNING - Could not parse company entry: San Francisco Bay Area-related lists
+2024-12-06 01:31:10,456 - INFO - Processing Articles with short description
+2024-12-06 01:31:10,456 - WARNING - Could not parse company entry: Articles with short description
+2024-12-06 01:31:10,456 - INFO - Processing Short description is different from Wikidata
+2024-12-06 01:31:10,456 - WARNING - Could not parse company entry: Short description is different from Wikidata
+2024-12-06 01:31:10,456 - INFO - Processing Dynamic lists
+2024-12-06 01:31:10,456 - WARNING - Could not parse company entry: Dynamic lists
+2024-12-06 01:31:10,456 - INFO - Processing This page was last edited on 14 September 2024, at 16:53 (UTC).
+2024-12-06 01:31:10,456 - WARNING - Could not parse company entry: This page was last edited on 14 September 2024, at 16:53 (UTC).
+2024-12-06 01:31:10,456 - INFO - Processing Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+2024-12-06 01:31:10,456 - WARNING - Could not parse company entry: Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+2024-12-06 01:31:10,457 - INFO - Processing Privacy policy
+2024-12-06 01:31:10,457 - WARNING - Could not parse company entry: Privacy policy
+2024-12-06 01:31:10,457 - INFO - Processing About Wikipedia
+2024-12-06 01:31:10,457 - WARNING - Could not parse company entry: About Wikipedia
+2024-12-06 01:31:10,457 - INFO - Processing Disclaimers
+2024-12-06 01:31:10,457 - WARNING - Could not parse company entry: Disclaimers
+2024-12-06 01:31:10,457 - INFO - Processing Contact Wikipedia
+2024-12-06 01:31:10,457 - WARNING - Could not parse company entry: Contact Wikipedia
+2024-12-06 01:31:10,457 - INFO - Processing Code of Conduct
+2024-12-06 01:31:10,458 - WARNING - Could not parse company entry: Code of Conduct
+2024-12-06 01:31:10,458 - INFO - Processing Developers
+2024-12-06 01:31:10,458 - WARNING - Could not parse company entry: Developers
+2024-12-06 01:31:10,458 - INFO - Processing Statistics
+2024-12-06 01:31:10,458 - WARNING - Could not parse company entry: Statistics
+2024-12-06 01:31:10,458 - INFO - Processing Cookie statement
+2024-12-06 01:31:10,458 - WARNING - Could not parse company entry: Cookie statement
+2024-12-06 01:31:10,458 - INFO - Processing Mobile view
+2024-12-06 01:31:10,458 - WARNING - Could not parse company entry: Mobile view
+2024-12-06 01:31:10,458 - INFO - Processing 
+2024-12-06 01:31:10,459 - WARNING - Could not parse company entry: 
+2024-12-06 01:31:10,459 - INFO - Processing 
+2024-12-06 01:31:10,459 - WARNING - Could not parse company entry: 
+2024-12-06 01:31:10,470 - INFO - 
+Saved 428 companies to bay_area_companies.csv
+2024-12-06 01:31:10,470 - INFO - 
+=== Dataset Statistics ===
+2024-12-06 01:31:10,470 - INFO - Total Companies: 428
+2024-12-06 01:31:10,470 - INFO - 
+Top Industries:
+2024-12-06 01:31:10,471 - INFO - industry
+Retail                                                    17
+Companies formerly based in the San Francisco Bay Area    16
+Sports                                                    16
+Software                                                  15
+Internet                                                  13
+Name: count, dtype: int64
+2024-12-06 01:31:10,472 - INFO - 
+Total Employees: 5,001
+2024-12-06 01:31:10,472 - INFO - Average Employees: 556
+2024-12-06 01:31:10,473 - INFO - 
+Fortune 500 Companies: 47
+2024-12-06 01:33:22,749 - INFO - Processing (Top)
+2024-12-06 01:33:22,749 - WARNING - Could not parse company entry: (Top)
+2024-12-06 01:33:22,749 - INFO - Processing 1
+Companies currently based in the San Francisco Bay Area
+
+
+
+
+Toggle Companies currently based in the San Francisco Bay Area subsection
+
+
+
+
+
+1.1
+Aerospace/defense
+
+
+
+
+
+
+
+
+1.2
+Apparel
+
+
+
+
+
+
+
+
+1.3
+Automotive
+
+
+
+
+
+
+
+
+1.4
+Biotechnology
+
+
+
+
+
+
+
+
+1.5
+Consumer goods
+
+
+
+
+
+
+
+
+1.6
+Creative/design
+
+
+
+
+
+
+
+
+1.7
+Education
+
+
+
+
+
+
+
+
+1.8
+Electronics
+
+
+
+
+
+
+
+
+1.9
+Energy
+
+
+
+
+
+
+
+
+1.10
+Engineering and construction
+
+
+
+
+
+
+
+
+1.11
+Entertainment
+
+
+
+
+
+
+
+
+1.12
+Financial
+
+
+
+
+
+
+
+
+1.13
+Food and drink
+
+
+
+
+
+
+
+
+1.14
+Healthcare
+
+
+
+
+
+
+
+
+1.15
+Internet
+
+
+
+
+
+
+
+
+1.16
+Media
+
+
+
+
+
+
+
+
+1.17
+Mobile media
+
+
+
+
+
+
+
+
+1.18
+Musical instruments and accessories
+
+
+
+
+
+
+
+
+1.19
+Networking
+
+
+
+
+
+
+
+
+1.20
+Real estate
+
+
+
+
+
+
+
+
+1.21
+Retail
+
+
+
+
+
+
+
+
+1.22
+Software
+
+
+
+
+
+
+
+
+1.23
+Sports
+
+
+
+
+
+
+
+
+1.24
+Telecommunications
+
+
+
+
+
+
+
+
+1.25
+Transportation and logistics
+2024-12-06 01:33:22,751 - WARNING - Could not parse company entry: 1
+Companies currently based in the San Francisco Bay Area
+
+
+
+
+Toggle Companies currently based in the San Francisco Bay Area subsection
+
+
+
+
+
+1.1
+Aerospace/defense
+
+
+
+
+
+
+
+
+1.2
+Apparel
+
+
+
+
+
+
+
+
+1.3
+Automotive
+
+
+
+
+
+
+
+
+1.4
+Biotechnology
+
+
+
+
+
+
+
+
+1.5
+Consumer goods
+
+
+
+
+
+
+
+
+1.6
+Creative/design
+
+
+
+
+
+
+
+
+1.7
+Education
+
+
+
+
+
+
+
+
+1.8
+Electronics
+
+
+
+
+
+
+
+
+1.9
+Energy
+
+
+
+
+
+
+
+
+1.10
+Engineering and construction
+
+
+
+
+
+
+
+
+1.11
+Entertainment
+
+
+
+
+
+
+
+
+1.12
+Financial
+
+
+
+
+
+
+
+
+1.13
+Food and drink
+
+
+
+
+
+
+
+
+1.14
+Healthcare
+
+
+
+
+
+
+
+
+1.15
+Internet
+
+
+
+
+
+
+
+
+1.16
+Media
+
+
+
+
+
+
+
+
+1.17
+Mobile media
+
+
+
+
+
+
+
+
+1.18
+Musical instruments and accessories
+
+
+
+
+
+
+
+
+1.19
+Networking
+
+
+
+
+
+
+
+
+1.20
+Real estate
+
+
+
+
+
+
+
+
+1.21
+Retail
+
+
+
+
+
+
+
+
+1.22
+Software
+
+
+
+
+
+
+
+
+1.23
+Sports
+
+
+
+
+
+
+
+
+1.24
+Telecommunications
+
+
+
+
+
+
+
+
+1.25
+Transportation and logistics
+2024-12-06 01:33:22,753 - INFO - Processing 1.1
+Aerospace/defense
+2024-12-06 01:33:22,753 - WARNING - Could not parse company entry: 1.1
+Aerospace/defense
+2024-12-06 01:33:22,753 - INFO - Processing 1.2
+Apparel
+2024-12-06 01:33:22,753 - WARNING - Could not parse company entry: 1.2
+Apparel
+2024-12-06 01:33:22,753 - INFO - Processing 1.3
+Automotive
+2024-12-06 01:33:22,754 - WARNING - Could not parse company entry: 1.3
+Automotive
+2024-12-06 01:33:22,754 - INFO - Processing 1.4
+Biotechnology
+2024-12-06 01:33:22,754 - WARNING - Could not parse company entry: 1.4
+Biotechnology
+2024-12-06 01:33:22,754 - INFO - Processing 1.5
+Consumer goods
+2024-12-06 01:33:22,754 - WARNING - Could not parse company entry: 1.5
+Consumer goods
+2024-12-06 01:33:22,755 - INFO - Processing 1.6
+Creative/design
+2024-12-06 01:33:22,755 - WARNING - Could not parse company entry: 1.6
+Creative/design
+2024-12-06 01:33:22,755 - INFO - Processing 1.7
+Education
+2024-12-06 01:33:22,755 - WARNING - Could not parse company entry: 1.7
+Education
+2024-12-06 01:33:22,755 - INFO - Processing 1.8
+Electronics
+2024-12-06 01:33:22,755 - WARNING - Could not parse company entry: 1.8
+Electronics
+2024-12-06 01:33:22,756 - INFO - Processing 1.9
+Energy
+2024-12-06 01:33:22,756 - WARNING - Could not parse company entry: 1.9
+Energy
+2024-12-06 01:33:22,756 - INFO - Processing 1.10
+Engineering and construction
+2024-12-06 01:33:22,756 - WARNING - Could not parse company entry: 1.10
+Engineering and construction
+2024-12-06 01:33:22,756 - INFO - Processing 1.11
+Entertainment
+2024-12-06 01:33:22,756 - WARNING - Could not parse company entry: 1.11
+Entertainment
+2024-12-06 01:33:22,756 - INFO - Processing 1.12
+Financial
+2024-12-06 01:33:22,757 - WARNING - Could not parse company entry: 1.12
+Financial
+2024-12-06 01:33:22,757 - INFO - Processing 1.13
+Food and drink
+2024-12-06 01:33:22,757 - WARNING - Could not parse company entry: 1.13
+Food and drink
+2024-12-06 01:33:22,757 - INFO - Processing 1.14
+Healthcare
+2024-12-06 01:33:22,757 - WARNING - Could not parse company entry: 1.14
+Healthcare
+2024-12-06 01:33:22,757 - INFO - Processing 1.15
+Internet
+2024-12-06 01:33:22,758 - WARNING - Could not parse company entry: 1.15
+Internet
+2024-12-06 01:33:22,758 - INFO - Processing 1.16
+Media
+2024-12-06 01:33:22,758 - WARNING - Could not parse company entry: 1.16
+Media
+2024-12-06 01:33:22,758 - INFO - Processing 1.17
+Mobile media
+2024-12-06 01:33:22,758 - WARNING - Could not parse company entry: 1.17
+Mobile media
+2024-12-06 01:33:22,758 - INFO - Processing 1.18
+Musical instruments and accessories
+2024-12-06 01:33:22,758 - WARNING - Could not parse company entry: 1.18
+Musical instruments and accessories
+2024-12-06 01:33:22,758 - INFO - Processing 1.19
+Networking
+2024-12-06 01:33:22,758 - WARNING - Could not parse company entry: 1.19
+Networking
+2024-12-06 01:33:22,759 - INFO - Processing 1.20
+Real estate
+2024-12-06 01:33:22,759 - WARNING - Could not parse company entry: 1.20
+Real estate
+2024-12-06 01:33:22,759 - INFO - Processing 1.21
+Retail
+2024-12-06 01:33:22,759 - WARNING - Could not parse company entry: 1.21
+Retail
+2024-12-06 01:33:22,759 - INFO - Processing 1.22
+Software
+2024-12-06 01:33:22,759 - WARNING - Could not parse company entry: 1.22
+Software
+2024-12-06 01:33:22,759 - INFO - Processing 1.23
+Sports
+2024-12-06 01:33:22,759 - WARNING - Could not parse company entry: 1.23
+Sports
+2024-12-06 01:33:22,760 - INFO - Processing 1.24
+Telecommunications
+2024-12-06 01:33:22,760 - WARNING - Could not parse company entry: 1.24
+Telecommunications
+2024-12-06 01:33:22,760 - INFO - Processing 1.25
+Transportation and logistics
+2024-12-06 01:33:22,760 - WARNING - Could not parse company entry: 1.25
+Transportation and logistics
+2024-12-06 01:33:22,760 - INFO - Processing 2
+Companies formerly based in the San Francisco Bay Area
+2024-12-06 01:33:22,760 - WARNING - Could not parse company entry: 2
+Companies formerly based in the San Francisco Bay Area
+2024-12-06 01:33:22,760 - INFO - Processing 3
+See also
+2024-12-06 01:33:22,760 - WARNING - Could not parse company entry: 3
+See also
+2024-12-06 01:33:22,760 - INFO - Processing 4
+References
+2024-12-06 01:33:22,761 - WARNING - Could not parse company entry: 4
+References
+2024-12-06 01:33:22,761 - INFO - Processing 1.1
+Aerospace/defense
+2024-12-06 01:33:22,761 - WARNING - Could not parse company entry: 1.1
+Aerospace/defense
+2024-12-06 01:33:22,761 - INFO - Processing 1.2
+Apparel
+2024-12-06 01:33:22,761 - WARNING - Could not parse company entry: 1.2
+Apparel
+2024-12-06 01:33:22,762 - INFO - Processing 1.3
+Automotive
+2024-12-06 01:33:22,762 - WARNING - Could not parse company entry: 1.3
+Automotive
+2024-12-06 01:33:22,762 - INFO - Processing 1.4
+Biotechnology
+2024-12-06 01:33:22,762 - WARNING - Could not parse company entry: 1.4
+Biotechnology
+2024-12-06 01:33:22,762 - INFO - Processing 1.5
+Consumer goods
+2024-12-06 01:33:22,762 - WARNING - Could not parse company entry: 1.5
+Consumer goods
+2024-12-06 01:33:22,762 - INFO - Processing 1.6
+Creative/design
+2024-12-06 01:33:22,763 - WARNING - Could not parse company entry: 1.6
+Creative/design
+2024-12-06 01:33:22,763 - INFO - Processing 1.7
+Education
+2024-12-06 01:33:22,763 - WARNING - Could not parse company entry: 1.7
+Education
+2024-12-06 01:33:22,763 - INFO - Processing 1.8
+Electronics
+2024-12-06 01:33:22,763 - WARNING - Could not parse company entry: 1.8
+Electronics
+2024-12-06 01:33:22,763 - INFO - Processing 1.9
+Energy
+2024-12-06 01:33:22,763 - WARNING - Could not parse company entry: 1.9
+Energy
+2024-12-06 01:33:22,764 - INFO - Processing 1.10
+Engineering and construction
+2024-12-06 01:33:22,764 - WARNING - Could not parse company entry: 1.10
+Engineering and construction
+2024-12-06 01:33:22,764 - INFO - Processing 1.11
+Entertainment
+2024-12-06 01:33:22,764 - WARNING - Could not parse company entry: 1.11
+Entertainment
+2024-12-06 01:33:22,764 - INFO - Processing 1.12
+Financial
+2024-12-06 01:33:22,764 - WARNING - Could not parse company entry: 1.12
+Financial
+2024-12-06 01:33:22,764 - INFO - Processing 1.13
+Food and drink
+2024-12-06 01:33:22,764 - WARNING - Could not parse company entry: 1.13
+Food and drink
+2024-12-06 01:33:22,765 - INFO - Processing 1.14
+Healthcare
+2024-12-06 01:33:22,765 - WARNING - Could not parse company entry: 1.14
+Healthcare
+2024-12-06 01:33:22,765 - INFO - Processing 1.15
+Internet
+2024-12-06 01:33:22,765 - WARNING - Could not parse company entry: 1.15
+Internet
+2024-12-06 01:33:22,765 - INFO - Processing 1.16
+Media
+2024-12-06 01:33:22,765 - WARNING - Could not parse company entry: 1.16
+Media
+2024-12-06 01:33:22,765 - INFO - Processing 1.17
+Mobile media
+2024-12-06 01:33:22,765 - WARNING - Could not parse company entry: 1.17
+Mobile media
+2024-12-06 01:33:22,765 - INFO - Processing 1.18
+Musical instruments and accessories
+2024-12-06 01:33:22,766 - WARNING - Could not parse company entry: 1.18
+Musical instruments and accessories
+2024-12-06 01:33:22,766 - INFO - Processing 1.19
+Networking
+2024-12-06 01:33:22,766 - WARNING - Could not parse company entry: 1.19
+Networking
+2024-12-06 01:33:22,766 - INFO - Processing 1.20
+Real estate
+2024-12-06 01:33:22,766 - WARNING - Could not parse company entry: 1.20
+Real estate
+2024-12-06 01:33:22,766 - INFO - Processing 1.21
+Retail
+2024-12-06 01:33:22,766 - WARNING - Could not parse company entry: 1.21
+Retail
+2024-12-06 01:33:22,766 - INFO - Processing 1.22
+Software
+2024-12-06 01:33:22,766 - WARNING - Could not parse company entry: 1.22
+Software
+2024-12-06 01:33:22,767 - INFO - Processing 1.23
+Sports
+2024-12-06 01:33:22,767 - WARNING - Could not parse company entry: 1.23
+Sports
+2024-12-06 01:33:22,767 - INFO - Processing 1.24
+Telecommunications
+2024-12-06 01:33:22,767 - WARNING - Could not parse company entry: 1.24
+Telecommunications
+2024-12-06 01:33:22,767 - INFO - Processing 1.25
+Transportation and logistics
+2024-12-06 01:33:22,767 - WARNING - Could not parse company entry: 1.25
+Transportation and logistics
+2024-12-06 01:33:22,767 - INFO - Processing Article
+2024-12-06 01:33:22,767 - WARNING - Could not parse company entry: Article
+2024-12-06 01:33:22,768 - INFO - Processing Talk
+2024-12-06 01:33:22,768 - WARNING - Could not parse company entry: Talk
+2024-12-06 01:33:22,768 - INFO - Processing Read
+2024-12-06 01:33:22,768 - WARNING - Could not parse company entry: Read
+2024-12-06 01:33:22,768 - INFO - Processing Edit
+2024-12-06 01:33:22,768 - WARNING - Could not parse company entry: Edit
+2024-12-06 01:33:22,768 - INFO - Processing View history
+2024-12-06 01:33:22,768 - WARNING - Could not parse company entry: View history
+2024-12-06 01:33:22,768 - INFO - Processing Read
+2024-12-06 01:33:22,768 - WARNING - Could not parse company entry: Read
+2024-12-06 01:33:22,769 - INFO - Processing Edit
+2024-12-06 01:33:22,769 - WARNING - Could not parse company entry: Edit
+2024-12-06 01:33:22,769 - INFO - Processing View history
+2024-12-06 01:33:22,769 - WARNING - Could not parse company entry: View history
+2024-12-06 01:33:22,769 - INFO - Processing What links here
+2024-12-06 01:33:22,769 - WARNING - Could not parse company entry: What links here
+2024-12-06 01:33:22,769 - INFO - Processing Related changes
+2024-12-06 01:33:22,769 - WARNING - Could not parse company entry: Related changes
+2024-12-06 01:33:22,770 - INFO - Processing Upload file
+2024-12-06 01:33:22,770 - WARNING - Could not parse company entry: Upload file
+2024-12-06 01:33:22,770 - INFO - Processing Special pages
+2024-12-06 01:33:22,770 - WARNING - Could not parse company entry: Special pages
+2024-12-06 01:33:22,770 - INFO - Processing Permanent link
+2024-12-06 01:33:22,770 - WARNING - Could not parse company entry: Permanent link
+2024-12-06 01:33:22,770 - INFO - Processing Page information
+2024-12-06 01:33:22,770 - WARNING - Could not parse company entry: Page information
+2024-12-06 01:33:22,770 - INFO - Processing Cite this page
+2024-12-06 01:33:22,771 - WARNING - Could not parse company entry: Cite this page
+2024-12-06 01:33:22,771 - INFO - Processing Get shortened URL
+2024-12-06 01:33:22,771 - WARNING - Could not parse company entry: Get shortened URL
+2024-12-06 01:33:22,771 - INFO - Processing Download QR code
+2024-12-06 01:33:22,771 - WARNING - Could not parse company entry: Download QR code
+2024-12-06 01:33:22,771 - INFO - Processing Download as PDF
+2024-12-06 01:33:22,771 - WARNING - Could not parse company entry: Download as PDF
+2024-12-06 01:33:22,771 - INFO - Processing Printable version
+2024-12-06 01:33:22,771 - WARNING - Could not parse company entry: Printable version
+2024-12-06 01:33:22,772 - INFO - Processing Wikidata item
+2024-12-06 01:33:22,772 - WARNING - Could not parse company entry: Wikidata item
+2024-12-06 01:33:22,772 - INFO - Processing L3 Technologies – Menlo Park (Randtron), San Leandro (Applied Technologies), Santa Rosa (Sonoma EO)
+2024-12-06 01:33:23,827 - INFO - Processing Lawrence Livermore National Laboratory – Livermore
+2024-12-06 01:33:24,925 - INFO - Processing Lockheed Martin Space Systems – Palo Alto, Sunnyvale
+2024-12-06 01:33:26,006 - INFO - Processing Redwire Space – Mountain View
+2024-12-06 01:33:27,056 - INFO - Processing NASA Ames Research Center – Moffett Field
+2024-12-06 01:33:28,133 - INFO - Processing Sandia National Laboratories – Livermore
+2024-12-06 01:33:29,210 - INFO - Processing Space Systems Loral – Palo Alto
+2024-12-06 01:33:30,250 - INFO - Processing Allbirds – San Francisco
+2024-12-06 01:33:31,324 - INFO - Processing Bebe – Brisbane
+2024-12-06 01:33:32,364 - INFO - Processing Betabrand – San Francisco
+2024-12-06 01:33:33,446 - INFO - Processing Dolls Kill – San Francisco
+2024-12-06 01:33:34,483 - INFO - Processing Everlane – San Francisco
+2024-12-06 01:33:35,517 - INFO - Processing Gap Inc. (199) – San Francisco
+2024-12-06 01:33:36,618 - INFO - Processing Jos. A. Bank – Fremont
+2024-12-06 01:33:37,650 - INFO - Processing Levi Strauss & Co. (495) – San Francisco
+2024-12-06 01:33:38,720 - INFO - Processing Marmot – Rohnert Park
+2024-12-06 01:33:39,757 - INFO - Processing ModCloth – San Francisco
+2024-12-06 01:33:40,857 - INFO - Processing Mountain Hardwear – Richmond
+2024-12-06 01:33:41,884 - INFO - Processing O'Neill – Santa Cruz
+2024-12-06 01:33:42,926 - INFO - Processing Poshmark – Redwood City
+2024-12-06 01:33:43,959 - INFO - Processing Ross Stores (202) – Dublin
+2024-12-06 01:33:45,000 - INFO - Processing Stitch Fix – San Francisco
+2024-12-06 01:33:46,038 - INFO - Processing Tea Collection – San Francisco
+2024-12-06 01:33:47,069 - INFO - Processing Zazzle – Redwood City
+2024-12-06 01:33:48,116 - INFO - Processing Byton – Santa Clara
+2024-12-06 01:33:49,186 - INFO - Processing Cruise – San Francisco
+2024-12-06 01:33:50,291 - INFO - Processing Lucid Motors – Newark
+2024-12-06 01:33:51,416 - INFO - Processing Motiv Power Systems[2] – Hayward
+2024-12-06 01:33:52,450 - INFO - Processing Nio – San Jose
+2024-12-06 01:33:53,560 - INFO - Processing Rivian – Palo Alto
+2024-12-06 01:33:54,702 - INFO - Processing Uber – San Francisco
+2024-12-06 01:33:55,868 - INFO - Processing Waymo – Mountain View
+2024-12-06 01:33:56,990 - INFO - Processing Zoox – San Carlos
+2024-12-06 01:33:58,038 - INFO - Processing 23andMe – Mountain View
+2024-12-06 01:33:59,202 - INFO - Processing Anthera Pharmaceuticals – Hayward
+2024-12-06 01:34:00,238 - INFO - Processing Bio-Rad Laboratories – Hercules
+2024-12-06 01:34:01,299 - INFO - Processing BioMarin Pharmaceutical – San Rafael
+2024-12-06 01:34:02,364 - INFO - Processing Buck Institute for Age Research – Novato
+2024-12-06 01:34:03,414 - INFO - Processing Calico – South San Francisco
+2024-12-06 01:34:04,498 - INFO - Processing Chiron – Emeryville
+2024-12-06 01:34:05,546 - INFO - Processing Genentech – South San Francisco
+2024-12-06 01:34:06,652 - INFO - Processing Gilead Sciences (140) – Foster City
+2024-12-06 01:34:07,767 - INFO - Processing Intuitive Surgical – Sunnyvale
+2024-12-06 01:34:08,817 - INFO - Processing Mendel Biotechnology, Inc. – Hayward
+2024-12-06 01:34:09,845 - INFO - Processing Nektar Therapeutics – San Francisco
+2024-12-06 01:34:10,876 - INFO - Processing Roche Molecular Systems – Belmont
+2024-12-06 01:34:11,972 - INFO - Processing Signature BioScience – San Francisco
+2024-12-06 01:34:13,056 - INFO - Processing Verily Life Sciences – Mountain View
+2024-12-06 01:34:14,101 - INFO - Processing Benefit Cosmetics – San Francisco
+2024-12-06 01:34:15,145 - INFO - Processing Bianchi USA – Hayward
+2024-12-06 01:34:16,210 - INFO - Processing CamelBak – Petaluma
+2024-12-06 01:34:17,244 - INFO - Processing Clorox (474) – Oakland
+2024-12-06 01:34:18,314 - INFO - Processing GoPro – San Mateo
+2024-12-06 01:34:19,495 - INFO - Processing Method – San Francisco
+2024-12-06 01:34:20,539 - INFO - Processing Sephora – San Francisco
+2024-12-06 01:34:21,609 - INFO - Processing Specialized Bicycle Components – Morgan Hill
+2024-12-06 01:34:22,673 - INFO - Processing Ammunition – San Francisco
+2024-12-06 01:34:23,703 - INFO - Processing fuseproject – San Francisco
+2024-12-06 01:34:24,737 - INFO - Processing IDEO – San Francisco
+2024-12-06 01:34:25,785 - INFO - Processing Landor Associates – San Francisco
+2024-12-06 01:34:26,819 - INFO - Processing Traction – San Francisco
+2024-12-06 01:34:27,855 - INFO - Processing Chegg – Santa Clara
+2024-12-06 01:34:28,965 - INFO - Processing Course Hero – Redwood City
+2024-12-06 01:34:30,005 - INFO - Processing Coursera – Mountain View
+2024-12-06 01:34:31,067 - INFO - Processing Khan Academy – Mountain View
+2024-12-06 01:34:32,123 - INFO - Processing Magoosh – Berkeley
+2024-12-06 01:34:33,194 - INFO - Processing Quizlet – San Francisco
+2024-12-06 01:34:34,234 - INFO - Processing Remind – San Francisco
+2024-12-06 01:34:35,268 - INFO - Processing Udacity – Mountain View
+2024-12-06 01:34:36,319 - INFO - Processing Adaptec – Milpitas
+2024-12-06 01:34:37,355 - INFO - Processing Advanced Micro Devices (AMD) (448) – Sunnyvale
+2024-12-06 01:34:38,621 - INFO - Processing Agilent Technologies (547) – Santa Clara
+2024-12-06 01:34:39,688 - INFO - Processing Altera (Intel) – San Jose
+2024-12-06 01:34:40,784 - INFO - Processing Antec – Fremont
+2024-12-06 01:34:41,837 - INFO - Processing Apple Inc. (4) – Cupertino
+2024-12-06 01:34:43,247 - INFO - Processing Applied Materials (218) – Santa Clara
+2024-12-06 01:34:44,303 - INFO - Processing Asus – Fremont
+2024-12-06 01:34:45,423 - INFO - Processing Barracuda Networks – Campbell
+2024-12-06 01:34:46,485 - INFO - Processing Broadcom Inc. (138) – San Jose
+2024-12-06 01:34:47,629 - INFO - Processing Brocade Communications Systems – Santa Clara
+2024-12-06 01:34:48,693 - INFO - Processing Cisco Systems (64) – San Jose
+2024-12-06 01:34:49,850 - INFO - Processing Digidesign – Daly City
+2024-12-06 01:34:50,889 - INFO - Processing Dust Networks – Hayward
+2024-12-06 01:34:51,918 - INFO - Processing E-mu Systems – Scotts Valley
+2024-12-06 01:34:52,958 - INFO - Processing Fairchild Semiconductor – San Jose
+2024-12-06 01:34:54,099 - INFO - Processing Fitbit – San Francisco
+2024-12-06 01:34:55,211 - INFO - Processing Fujitsu Computer Products of America – Sunnyvale
+2024-12-06 01:34:56,246 - INFO - Processing Genesis Microchip – Santa Clara
+2024-12-06 01:34:57,275 - INFO - Processing Hewlett Packard (58) – Palo Alto
+2024-12-06 01:34:58,459 - INFO - Processing Hewlett Packard Enterprise (109) – San Jose
+2024-12-06 01:34:59,567 - INFO - Processing Hitachi Data Systems – Santa Clara
+2024-12-06 01:35:00,643 - INFO - Processing Hitachi Global Storage Technologies – San Jose
+2024-12-06 01:35:01,708 - INFO - Processing Integrated Device Technology – San Jose
+2024-12-06 01:35:02,750 - INFO - Processing Intel (45) – Santa Clara
+2024-12-06 01:35:04,124 - INFO - Processing Jawbone – San Francisco
+2024-12-06 01:35:04,124 - INFO - Processing JDS Uniphase – Milpitas
+2024-12-06 01:35:05,164 - INFO - Processing Juniper Networks – Sunnyvale
+2024-12-06 01:35:06,277 - INFO - Processing Keysight – Santa Rosa
+2024-12-06 01:35:07,373 - INFO - Processing KLA Tencor – Milpitas
+2024-12-06 01:35:08,426 - INFO - Processing Lam Research (331) – Fremont
+2024-12-06 01:35:09,483 - INFO - Processing Logitech – Newark
+2024-12-06 01:35:10,551 - INFO - Processing Marvell – Santa Clara
+2024-12-06 01:35:11,658 - INFO - Processing Maxim Integrated – San Jose
+2024-12-06 01:35:12,705 - INFO - Processing Microchip Technology – San Jose
+2024-12-06 01:35:13,859 - INFO - Processing Monster Cable Products – Brisbane
+2024-12-06 01:35:14,923 - INFO - Processing Nest Labs – Palo Alto
+2024-12-06 01:35:16,075 - INFO - Processing NetApp (478) – Sunnyvale
+2024-12-06 01:35:17,171 - INFO - Processing Nvidia (292) – Santa Clara
+2024-12-06 01:35:18,416 - INFO - Processing Philips Lumileds Lighting Company – San Jose
+2024-12-06 01:35:19,449 - INFO - Processing Plantronics (Now Poly) – Santa Cruz
+2024-12-06 01:35:20,504 - INFO - Processing Rambus – Los Altos
+2024-12-06 01:35:21,595 - INFO - Processing Sanmina-SCI (385) – San Jose
+2024-12-06 01:35:22,638 - INFO - Processing Seagate Technology (174) – Cupertino
+2024-12-06 01:35:23,823 - INFO - Processing Silicon Graphics – Fremont (acquired by Rackable Systems)
+2024-12-06 01:35:24,938 - INFO - Processing Silicon Image – Sunnyvale
+2024-12-06 01:35:25,979 - INFO - Processing Solectron Corporation – Milpitas
+2024-12-06 01:35:27,012 - INFO - Processing Sony Optiarc America Inc. – San Jose
+2024-12-06 01:35:28,051 - INFO - Processing Supermicro – San Jose
+2024-12-06 01:35:29,110 - INFO - Processing Synnex (130) – Fremont
+2024-12-06 01:35:30,146 - INFO - Processing Synopsys – Mountain View
+2024-12-06 01:35:31,268 - INFO - Processing TDK – San Jose
+2024-12-06 01:35:32,330 - INFO - Processing Terayon – Santa Clara
+2024-12-06 01:35:33,357 - INFO - Processing THX – San Rafael
+2024-12-06 01:35:34,420 - INFO - Processing Touchstone Semiconductor – Milpitas
+2024-12-06 01:35:35,447 - INFO - Processing Western Digital (198) – San Jose
+2024-12-06 01:35:36,556 - INFO - Processing Xilinx – San Jose
+2024-12-06 01:35:37,763 - INFO - Processing Bloom Energy  – Sunnyvale
+2024-12-06 01:35:38,831 - INFO - Processing Chevron (15) – San Ramon
+2024-12-06 01:35:39,989 - INFO - Processing Cupertino Electric – San Jose
+2024-12-06 01:35:41,020 - INFO - Processing Energy Recovery Inc. – San Leandro
+2024-12-06 01:35:42,108 - INFO - Processing Mosaic Inc. – Oakland (solar power crowdfunding)
+2024-12-06 01:35:43,151 - INFO - Processing PG&E (189) – Oakland
+2024-12-06 01:35:44,343 - INFO - Processing Rosendin Electric – San Jose
+2024-12-06 01:35:45,373 - INFO - Processing SolarCity – San Mateo
+2024-12-06 01:35:46,519 - INFO - Processing SunEdison – Belmont
+2024-12-06 01:35:47,595 - INFO - Processing Sungevity – Oakland
+2024-12-06 01:35:48,637 - INFO - Processing SunPower – San Jose
+2024-12-06 01:35:49,693 - INFO - Processing Sunrun – San Francisco
+2024-12-06 01:35:50,735 - INFO - Processing DPR Construction – Redwood City
+2024-12-06 01:35:51,832 - INFO - Processing Granite Construction – Watsonville
+2024-12-06 01:35:52,859 - INFO - Processing Katerra – Menlo Park
+2024-12-06 01:35:53,908 - INFO - Processing Swinerton – San Francisco
+2024-12-06 01:35:54,937 - INFO - Processing Webcor Builders – San Francisco
+2024-12-06 01:35:56,040 - INFO - Processing American Zoetrope – San Francisco[3]
+2024-12-06 01:35:57,132 - INFO - Processing Capcom U.S.A. – San Francisco
+2024-12-06 01:35:58,247 - INFO - Processing Crunchyroll – San Francisco
+2024-12-06 01:35:59,551 - INFO - Processing Dolby Laboratories – San Francisco
+2024-12-06 01:36:00,641 - INFO - Processing Electronic Arts – Redwood City
+2024-12-06 01:36:01,809 - INFO - Processing Industrial Light & Magic – San Francisco
+2024-12-06 01:36:03,105 - INFO - Processing Kerner Optical – San Rafael
+2024-12-06 01:36:04,147 - INFO - Processing Lucasfilm Animation – San Rafael (Lucas Valley)
+2024-12-06 01:36:05,276 - INFO - Processing Netflix (164) – Los Gatos
+2024-12-06 01:36:06,663 - INFO - Processing Niantic – San Francisco
+2024-12-06 01:36:07,747 - INFO - Processing Pandora Radio – Oakland
+2024-12-06 01:36:08,822 - INFO - Processing Philo – San Francisco
+2024-12-06 01:36:09,878 - INFO - Processing Pixar – Emeryville
+2024-12-06 01:36:11,194 - INFO - Processing Roblox Corporation – San Mateo
+2024-12-06 01:36:12,255 - INFO - Processing Sega of America –  San Francisco
+2024-12-06 01:36:13,542 - INFO - Processing Skywalker Sound – San Rafael (Lucas Valley)
+2024-12-06 01:36:14,610 - INFO - Processing Sony Interactive Entertainment (PlayStation) – San Mateo
+2024-12-06 01:36:15,787 - INFO - Processing Ubisoft – San Francisco
+2024-12-06 01:36:16,952 - INFO - Processing Zynga – San Francisco
+2024-12-06 01:36:18,168 - INFO - Processing Bill.com – San Jose
+2024-12-06 01:36:19,197 - INFO - Processing Block, Inc. – San Francisco
+2024-12-06 01:36:20,293 - INFO - Processing Brex – San Francisco
+2024-12-06 01:36:21,324 - INFO - Processing Calypso Technology – San Francisco
+2024-12-06 01:36:22,353 - INFO - Processing Coinbase – San Francisco
+2024-12-06 01:36:23,445 - INFO - Processing FICO (Fair Isaac Corporation) – San Jose and San Rafael
+2024-12-06 01:36:24,491 - INFO - Processing Fireman's Fund Insurance Company – Novato (now Allianz Global Corporate & Specialty)
+2024-12-06 01:36:25,611 - INFO - Processing First Republic Bank – San Francisco
+2024-12-06 01:36:26,668 - INFO - Processing Fisher Investments – Woodside
+2024-12-06 01:36:27,702 - INFO - Processing Franklin Templeton Investments (493) – San Mateo
+2024-12-06 01:36:28,757 - INFO - Processing Lending Club – San Francisco
+2024-12-06 01:36:29,831 - INFO - Processing Patelco Credit Union – Dublin
+2024-12-06 01:36:30,857 - INFO - Processing PayPal (182) – San Jose
+2024-12-06 01:36:32,083 - INFO - Processing Robert Half International (482) – Menlo Park
+2024-12-06 01:36:33,122 - INFO - Processing Robinhood – Menlo Park
+2024-12-06 01:36:34,211 - INFO - Processing SigFig – San Francisco
+2024-12-06 01:36:35,238 - INFO - Processing Silicon Valley Bank – Santa Clara
+2024-12-06 01:36:36,323 - INFO - Processing SoFi – San Francisco
+2024-12-06 01:36:37,450 - INFO - Processing TPG Sixth Street Partners – San Francisco
+2024-12-06 01:36:38,491 - INFO - Processing Visa, Inc. (137) – San Francisco
+2024-12-06 01:36:39,623 - INFO - Processing Wells Fargo Bank (30) – San Francisco
+2024-12-06 01:36:40,804 - INFO - Processing Yodlee – Redwood City
+2024-12-06 01:36:41,833 - INFO - Processing 21st Amendment Brewery – San Leandro
+2024-12-06 01:36:42,868 - INFO - Processing Anchor Brewers & Distillers, LLC – San Francisco
+2024-12-06 01:36:43,934 - INFO - Processing Annabelle Candy Company – Hayward
+2024-12-06 01:36:44,961 - INFO - Processing Annie's Homegrown – Berkeley
+2024-12-06 01:36:45,994 - INFO - Processing Black Angus Steakhouse – Los Altos
+2024-12-06 01:36:47,025 - INFO - Processing Blue Bottle Coffee – Oakland – subsidiary of Nestle
+2024-12-06 01:36:48,076 - INFO - Processing C&H Pure Cane Sugar – Crockett
+2024-12-06 01:36:49,109 - INFO - Processing Clif Bar – Emeryville
+2024-12-06 01:36:50,162 - INFO - Processing Columbus Salame – Hayward
+2024-12-06 01:36:51,266 - INFO - Processing Dreyer's Grand Ice Cream – Oakland
+2024-12-06 01:36:52,320 - INFO - Processing Extreme Pizza – San Francisco
+2024-12-06 01:36:53,365 - INFO - Processing F'real - Emeryville
+2024-12-06 01:36:53,366 - INFO - Processing Ghirardelli Chocolate Company – San Leandro
+2024-12-06 01:36:54,411 - INFO - Processing Häagen-Dazs – Oakland
+2024-12-06 01:36:55,490 - INFO - Processing Il Fornaio – Corte Madera
+2024-12-06 01:36:56,522 - INFO - Processing Impossible Foods – Redwood City
+2024-12-06 01:36:57,575 - INFO - Processing Jelly Belly – Fairfield
+2024-12-06 01:36:58,624 - INFO - Processing Martinelli's – Watsonville
+2024-12-06 01:36:59,651 - INFO - Processing Mountain Mike's Pizza – Hayward
+2024-12-06 01:37:00,734 - INFO - Processing Odwalla – Half Moon Bay
+2024-12-06 01:37:01,806 - INFO - Processing Otis Spunkmeyer – San Leandro
+2024-12-06 01:37:02,862 - INFO - Processing Peet's Coffee & Tea – Emeryville
+2024-12-06 01:37:03,932 - INFO - Processing Point Reyes Farmstead Cheese Company – Point Reyes Station
+2024-12-06 01:37:04,965 - INFO - Processing PowerBar – Berkeley
+2024-12-06 01:37:05,997 - INFO - Processing R. Torre & Company, Inc. – San Leandro
+2024-12-06 01:37:07,024 - INFO - Processing See's Candies – South San Francisco
+2024-12-06 01:37:08,069 - INFO - Processing Shasta – Hayward
+2024-12-06 01:37:09,109 - INFO - Processing Takaki Bakery (Andersen Institute of Bread and Life) – Hayward
+2024-12-06 01:37:10,139 - INFO - Processing Togo's – San Jose
+2024-12-06 01:37:11,186 - INFO - Processing Verve Coffee Roasters – Santa Cruz
+2024-12-06 01:37:12,264 - INFO - Processing Castlight Health – San Francisco
+2024-12-06 01:37:13,295 - INFO - Processing Eargo – Mountain Valley
+2024-12-06 01:37:14,332 - INFO - Processing Kaiser Permanente – Oakland
+2024-12-06 01:37:15,416 - INFO - Processing One Medical – San Francisco
+2024-12-06 01:37:16,463 - INFO - Processing Palo Alto Medical Foundation – Palo Alto
+2024-12-06 01:37:17,495 - INFO - Processing Airbnb – San Francisco
+2024-12-06 01:37:18,683 - INFO - Processing Alphabet Inc. (11) – Mountain View
+2024-12-06 01:37:19,808 - INFO - Processing Ask.com – Oakland
+2024-12-06 01:37:20,856 - INFO - Processing Box – Redwood City
+2024-12-06 01:37:21,912 - INFO - Processing Cisco (64) – San Jose
+2024-12-06 01:37:23,116 - INFO - Processing Craigslist – San Francisco
+2024-12-06 01:37:24,194 - INFO - Processing DoorDash – San Francisco
+2024-12-06 01:37:25,281 - INFO - Processing Dropbox – San Francisco
+2024-12-06 01:37:26,461 - INFO - Processing Ebates – San Francisco
+2024-12-06 01:37:27,497 - INFO - Processing eBay (295) – San Jose
+2024-12-06 01:37:28,627 - INFO - Processing Evernote – Redwood City
+2024-12-06 01:37:29,693 - INFO - Processing Fandom – San Francisco
+2024-12-06 01:37:30,843 - INFO - Processing Glassdoor – Mill Valley
+2024-12-06 01:37:31,884 - INFO - Processing Google – Mountain View – subsidiary of Alphabet Inc.
+2024-12-06 01:37:33,273 - INFO - Processing Instacart – San Francisco
+2024-12-06 01:37:34,350 - INFO - Processing LinkedIn – Sunnyvale
+2024-12-06 01:37:35,591 - INFO - Processing Lyft – San Francisco
+2024-12-06 01:37:36,668 - INFO - Processing Meta (46) – Menlo Park
+2024-12-06 01:37:37,819 - INFO - Processing Pinterest – San Francisco
+2024-12-06 01:37:38,977 - INFO - Processing Poll Everywhere – San Francisco
+2024-12-06 01:37:40,003 - INFO - Processing Poshmark – Redwood City
+2024-12-06 01:37:41,034 - INFO - Processing Postmates – San Francisco
+2024-12-06 01:37:42,085 - INFO - Processing Quora – Mountain View
+2024-12-06 01:37:43,187 - INFO - Processing Rubrik – Palo Alto
+2024-12-06 01:37:44,223 - INFO - Processing Salesforce.com (190) – San Francisco
+2024-12-06 01:37:45,328 - INFO - Processing Slack Technologies – San Francisco
+2024-12-06 01:37:46,468 - INFO - Processing SurveyMonkey – San Mateo
+2024-12-06 01:37:47,512 - INFO - Processing Tripping.com – San Francisco
+2024-12-06 01:37:48,541 - INFO - Processing Twitch – San Francisco
+2024-12-06 01:37:49,743 - INFO - Processing Uber (228) – San Francisco
+2024-12-06 01:37:50,905 - INFO - Processing Wikimedia Foundation – San Francisco
+2024-12-06 01:37:52,057 - INFO - Processing Workday – Pleasanton
+2024-12-06 01:37:53,117 - INFO - Processing Yelp – San Francisco
+2024-12-06 01:37:54,300 - INFO - Processing YouTube – San Bruno – subsidiary of Alphabet Inc.
+2024-12-06 01:37:55,651 - INFO - Processing Yummly – Palo Alto – subsidiary of Whirlpool Corporation
+2024-12-06 01:37:56,682 - INFO - Processing Zendesk – San Francisco
+2024-12-06 01:37:57,731 - INFO - Processing Zoom Video Communications – San Jose
+2024-12-06 01:37:58,817 - INFO - Processing Zoosk – San Francisco
+2024-12-06 01:37:59,854 - INFO - Processing Communication Arts – Menlo Park
+2024-12-06 01:38:00,884 - INFO - Processing Complex – San Francisco
+2024-12-06 01:38:02,022 - INFO - Processing Daily Review – Hayward
+2024-12-06 01:38:03,085 - INFO - Processing Dwell – San Francisco
+2024-12-06 01:38:04,116 - INFO - Processing Future US – South San Francisco
+2024-12-06 01:38:05,162 - INFO - Processing POPSUGAR Inc. – San Francisco
+2024-12-06 01:38:06,195 - INFO - Processing San Francisco Chronicle – San Francisco
+2024-12-06 01:38:07,252 - INFO - Processing San Jose Mercury News – San Jose
+2024-12-06 01:38:08,338 - INFO - Processing University of California Press – Berkeley
+2024-12-06 01:38:09,380 - INFO - Processing Bleacher Report – San Francisco
+2024-12-06 01:38:10,491 - INFO - Processing MobiTV – Emeryville
+2024-12-06 01:38:11,533 - INFO - Processing TubeMogul – Emeryville
+2024-12-06 01:38:12,594 - INFO - Processing Dunlop Manufacturing – Benicia
+2024-12-06 01:38:13,623 - INFO - Processing E-mu Systems – Scotts Valley
+2024-12-06 01:38:14,661 - INFO - Processing Saga Musical Instruments – South San Francisco
+2024-12-06 01:38:15,689 - INFO - Processing Santa Cruz Guitar Company – Santa Cruz
+2024-12-06 01:38:16,737 - INFO - Processing Universal Audio – Scotts Valley
+2024-12-06 01:38:17,773 - INFO - Processing A10 Networks – San Jose
+2024-12-06 01:38:18,804 - INFO - Processing Arista Networks – Santa Clara
+2024-12-06 01:38:19,865 - INFO - Processing Aryaka Networks – Milpitas
+2024-12-06 01:38:20,894 - INFO - Processing Barefoot Networks (Intel) – Palo Alto
+2024-12-06 01:38:21,986 - INFO - Processing Brocade Communications (Broadcom) – San Jose
+2024-12-06 01:38:23,048 - INFO - Processing Cisco (64) – San Jose
+2024-12-06 01:38:24,207 - INFO - Processing Ericsson – Santa Clara
+2024-12-06 01:38:25,363 - INFO - Processing Extreme Networks – San Jose
+2024-12-06 01:38:26,397 - INFO - Processing F5 Networks – San Jose
+2024-12-06 01:38:27,449 - INFO - Processing Fortinet – Sunnyvale
+2024-12-06 01:38:28,521 - INFO - Processing Juniper Networks – Sunnyvale
+2024-12-06 01:38:29,623 - INFO - Processing Minerva Networks – San Jose
+2024-12-06 01:38:30,647 - INFO - Processing NETGEAR – San Jose
+2024-12-06 01:38:31,691 - INFO - Processing Palo Alto Networks – Santa Clara
+2024-12-06 01:38:32,814 - INFO - Processing Digital Realty – San Francisco
+2024-12-06 01:38:33,853 - INFO - Processing Jay Paul Company – San Francisco
+2024-12-06 01:38:34,880 - INFO - Processing LiquidSpace – San Francisco
+2024-12-06 01:38:35,908 - INFO - Processing Prologis – San Francisco
+2024-12-06 01:38:36,980 - INFO - Processing Trulia – San Francisco
+2024-12-06 01:38:38,021 - INFO - Processing BevMo! – Concord
+2024-12-06 01:38:39,064 - INFO - Processing California Closets – Richmond
+2024-12-06 01:38:40,096 - INFO - Processing Cost Plus Inc. – Alameda
+2024-12-06 01:38:41,127 - INFO - Processing Gap.com – San Francisco
+2024-12-06 01:38:42,278 - INFO - Processing Grocery Outlet – Emeryville
+2024-12-06 01:38:43,333 - INFO - Processing Gymboree – San Francisco
+2024-12-06 01:38:44,367 - INFO - Processing Jos. A. Bank – Fremont
+2024-12-06 01:38:45,401 - INFO - Processing Levi's – San Francisco
+2024-12-06 01:38:46,468 - INFO - Processing Macys.com – San Francisco
+2024-12-06 01:38:47,570 - INFO - Processing Minted – San Francisco
+2024-12-06 01:38:48,597 - INFO - Processing Pottery Barn – San Francisco
+2024-12-06 01:38:49,634 - INFO - Processing Restoration Hardware – Corte Madera
+2024-12-06 01:38:50,751 - INFO - Processing Ross Stores (412) – Dublin
+2024-12-06 01:38:51,789 - INFO - Processing Safeway – Pleasanton – subsidiary of [Albertsons]
+2024-12-06 01:38:52,886 - INFO - Processing Sephora – San Francisco
+2024-12-06 01:38:53,956 - INFO - Processing Shutterfly – Redwood City
+2024-12-06 01:38:55,010 - INFO - Processing Timbuk2  – San Francisco
+2024-12-06 01:38:56,041 - INFO - Processing Walmart.com – San Bruno
+2024-12-06 01:38:57,478 - INFO - Processing West Marine – Watsonville
+2024-12-06 01:38:58,506 - INFO - Processing Williams-Sonoma, Inc. (489) – San Francisco
+2024-12-06 01:38:59,563 - INFO - Processing Zazzle – Redwood City
+2024-12-06 01:39:00,603 - INFO - Processing Adobe Inc. (285) – San Jose
+2024-12-06 01:39:01,726 - INFO - Processing AppDynamics – San Francisco
+2024-12-06 01:39:02,756 - INFO - Processing Autodesk – San Rafael
+2024-12-06 01:39:03,968 - INFO - Processing Box – Redwood City
+2024-12-06 01:39:05,025 - INFO - Processing Business Objects – San Jose
+2024-12-06 01:39:06,061 - INFO - Processing Cloudera – Palo Alto
+2024-12-06 01:39:07,102 - INFO - Processing DocuSign – San Francisco
+2024-12-06 01:39:08,165 - INFO - Processing Dropbox – San Francisco
+2024-12-06 01:39:09,378 - INFO - Processing Genesys – Daly City
+2024-12-06 01:39:10,418 - INFO - Processing GitHub – San Francisco
+2024-12-06 01:39:11,538 - INFO - Processing Imperva – San Mateo
+2024-12-06 01:39:12,571 - INFO - Processing Intuit (445)– Mountain View
+2024-12-06 01:39:12,571 - WARNING - Could not parse company entry: Intuit (445)– Mountain View
+2024-12-06 01:39:12,571 - INFO - Processing Malwarebytes – Santa Clara
+2024-12-06 01:39:13,623 - INFO - Processing McAfee – Santa Clara
+2024-12-06 01:39:14,765 - INFO - Processing Medallia – Palo Alto
+2024-12-06 01:39:15,797 - INFO - Processing Mozilla – Mountain View
+2024-12-06 01:39:16,912 - INFO - Processing Neo4j – San Mateo
+2024-12-06 01:39:17,958 - INFO - Processing New Relic – San Francisco
+2024-12-06 01:39:18,997 - INFO - Processing North Beach Games – San Rafael[4]
+2024-12-06 01:39:20,087 - INFO - Processing Nutanix – San Jose
+2024-12-06 01:39:21,195 - INFO - Processing Objectivity, Inc. – San Jose
+2024-12-06 01:39:22,223 - INFO - Processing Palantir Technologies – Palo Alto
+2024-12-06 01:39:23,329 - INFO - Processing People Power Company – Palo Alto
+2024-12-06 01:39:24,370 - INFO - Processing Piggybackr – San Francisco
+2024-12-06 01:39:25,405 - INFO - Processing Pivotal Software (VMware) – San Francisco
+2024-12-06 01:39:26,439 - INFO - Processing Qualys – Foster City
+2024-12-06 01:39:27,491 - INFO - Processing Sage Intacct – San Jose
+2024-12-06 01:39:28,528 - INFO - Processing SAP – Palo Alto
+2024-12-06 01:39:29,695 - INFO - Processing ServiceNow – Santa Clara
+2024-12-06 01:39:30,742 - INFO - Processing Splunk – San Francisco
+2024-12-06 01:39:31,814 - INFO - Processing Sybase (SAP) – Dublin
+2024-12-06 01:39:32,848 - INFO - Processing Symantec (461) – Mountain View
+2024-12-06 01:39:33,952 - INFO - Processing TeleNav – Santa Clara
+2024-12-06 01:39:35,044 - INFO - Processing TIBCO Software – Palo Alto
+2024-12-06 01:39:36,093 - INFO - Processing Trimble – Sunnyvale
+2024-12-06 01:39:37,124 - INFO - Processing VMware – Palo Alto
+2024-12-06 01:39:38,232 - INFO - Processing 24 Hour Fitness – San Ramon
+2024-12-06 01:39:39,269 - INFO - Processing All Pro Wrestling – Hayward
+2024-12-06 01:39:40,323 - INFO - Processing Bay Area Panthers – San Jose
+2024-12-06 01:39:41,379 - INFO - Processing Fox Racing Shox – Scotts Valley
+2024-12-06 01:39:42,478 - INFO - Processing Giro – Santa Cruz
+2024-12-06 01:39:43,522 - INFO - Processing Golden State Warriors – San Francisco
+2024-12-06 01:39:44,728 - INFO - Processing GoPro – San Mateo
+2024-12-06 01:39:45,901 - INFO - Processing JumpSport – San Jose
+2024-12-06 01:39:46,932 - INFO - Processing Kestrel USA – Santa Cruz
+2024-12-06 01:39:47,961 - INFO - Processing Oakland A's – Oakland
+2024-12-06 01:39:49,104 - INFO - Processing Pac-12 Conference – Walnut Creek
+2024-12-06 01:39:50,343 - INFO - Processing San Francisco 49ers – Santa Clara
+2024-12-06 01:39:51,665 - INFO - Processing San Francisco Giants – San Francisco
+2024-12-06 01:39:52,844 - INFO - Processing San Jose Barracuda – San Jose
+2024-12-06 01:39:53,999 - INFO - Processing San Jose Earthquakes – San Jose
+2024-12-06 01:39:55,209 - INFO - Processing San Jose Sharks – San Jose
+2024-12-06 01:39:56,408 - INFO - Processing Santa Cruz Bicycles – Santa Cruz
+2024-12-06 01:39:57,457 - INFO - Processing Santa Cruz Skateboards – Santa Cruz
+2024-12-06 01:39:58,486 - INFO - Processing Santa Cruz Warriors – Santa Cruz
+2024-12-06 01:39:59,552 - INFO - Processing Specialized Bicycle Components – Morgan Hill
+2024-12-06 01:40:00,614 - INFO - Processing TRX System – San Francisco
+2024-12-06 01:40:01,641 - INFO - Processing Avaya – Santa Clara
+2024-12-06 01:40:02,779 - INFO - Processing Pacific Telemanagement Services – San Leandro
+2024-12-06 01:40:03,803 - INFO - Processing Gillig Corporation – Livermore
+2024-12-06 01:40:04,862 - INFO - Processing Lime – San Francisco
+2024-12-06 01:40:05,923 - INFO - Processing Lyft – San Francisco
+2024-12-06 01:40:07,004 - INFO - Processing Uber – San Francisco
+2024-12-06 01:40:08,160 - INFO - Processing Bank of America (9) – relocated to Charlotte, North Carolina
+2024-12-06 01:40:09,317 - INFO - Processing Bare Escentuals – purchased by Shiseido, now headquarters in Rutherford, New Jersey
+2024-12-06 01:40:10,388 - INFO - Processing Bechtel – relocated to Reston, Virginia
+2024-12-06 01:40:11,595 - INFO - Processing Best Manufacturing Company – San Leandro (defunct)
+2024-12-06 01:40:12,624 - INFO - Processing Calpine Corporation (318) – relocated to Houston, Texas
+2024-12-06 01:40:13,660 - INFO - Processing Caterpillar Inc. (50) – relocated to Peoria, Illinois
+2024-12-06 01:40:14,826 - INFO - Processing Chaosium – formerly based in Oakland, then Hayward, now based in Ann Arbor, Michigan
+2024-12-06 01:40:15,920 - INFO - Processing Charles Schwab Corporation (271) – San Francisco – moved to Westlake, TX
+2024-12-06 01:40:16,979 - INFO - Processing Charlotte Russe – acquired by YM Inc.
+2024-12-06 01:40:18,009 - INFO - Processing ComputerLand – Hayward (defunct)
+2024-12-06 01:40:19,041 - INFO - Processing Esprit – relocated to Ratingen, Germany and Hong Kong, China
+2024-12-06 01:40:20,076 - INFO - Processing Etec Systems, Inc. – Hayward (defunct)
+2024-12-06 01:40:21,106 - INFO - Processing Excite@Home – purchased by Ask.com
+2024-12-06 01:40:22,161 - INFO - Processing Flickr – acquired by Yahoo!
+2024-12-06 01:40:23,267 - INFO - Processing FMC Corporation (Farm Machinery Corp, Farm Machinery and Chemical Corp) – moved headquarters from San Jose to Chicago; subsequently moved to Philadelphia
+2024-12-06 01:40:24,403 - INFO - Processing Folgers Coffee – acquired by The J.M. Smucker Co.
+2024-12-06 01:40:25,446 - INFO - Processing Friden, Inc. – San Leandro (defunct)
+2024-12-06 01:40:26,474 - INFO - Processing Hambrecht & Quist, LLC – purchased by Chase Manhattan Bank, later folded into JP Morgan Securities following Chase's purchase of JPM
+2024-12-06 01:40:27,516 - INFO - Processing Hearst Corporation – relocated to New York City
+2024-12-06 01:40:28,604 - INFO - Processing Hills Brothers Coffee – purchased by Massimo Zanetti Beverage USA
+2024-12-06 01:40:29,647 - INFO - Processing Hunt Brothers Cannery – moved from Hayward
+2024-12-06 01:40:30,678 - INFO - Processing JanSport – Alameda acquired by VF Corporation
+2024-12-06 01:40:31,719 - INFO - Processing Jamba Juice – moved from Emeryville to Frisco, Texas
+2024-12-06 01:40:32,770 - INFO - Processing Knight-Ridder – purchased by The McClatchy Company
+2024-12-06 01:40:33,892 - INFO - Processing Leslie Salt – purchased by Cargill in 1978
+2024-12-06 01:40:34,935 - INFO - Processing Maxtor – Milpitas – acquired by Seagate
+2024-12-06 01:40:35,981 - INFO - Processing McKesson Corporation – moved from San Francisco to Irving, Texas
+2024-12-06 01:40:37,048 - INFO - Processing Mervyn's – Hayward (defunct)
+2024-12-06 01:40:38,091 - INFO - Processing Montgomery Securities – purchased by NationsBank Corporation on June 30, 1997
+2024-12-06 01:40:39,122 - INFO - Processing National Semiconductor – Santa Clara – acquired by Texas Instruments
+2024-12-06 01:40:40,176 - INFO - Processing NUMMI – automobile manufacturer (defunct)
+2024-12-06 01:40:41,294 - INFO - Processing Oracle (82) – moved headquarters from Redwood City to Austin, Texas
+2024-12-06 01:40:42,447 - INFO - Processing Pacific Telesis – acquired by SBC Communications, which became AT&T when it purchased AT&T Corporation
+2024-12-06 01:40:43,490 - INFO - Processing Pegasus Aviation Finance Company – acquired by AWAS
+2024-12-06 01:40:44,523 - INFO - Processing Peterbilt Motors – relocated to Denton, Texas
+2024-12-06 01:40:45,654 - INFO - Processing Pier 1 – started in San Mateo, now headquartered in Fort Worth, Texas
+2024-12-06 01:40:46,693 - INFO - Processing Qume – Hayward (defunct)
+2024-12-06 01:40:47,723 - INFO - Processing Robertson Stephens – closed by its parent company FleetBoston in July 2002
+2024-12-06 01:40:48,757 - INFO - Processing Rolling Stone – relocated to New York City, New York
+2024-12-06 01:40:49,907 - INFO - Processing SanDisk – Milpitas – acquired by Western Digital
+2024-12-06 01:40:50,956 - INFO - Processing Scharffen Berger Chocolate Maker – acquired by The Hershey Company
+2024-12-06 01:40:51,994 - INFO - Processing The Sharper Image
+2024-12-06 01:40:51,995 - WARNING - Could not parse company entry: The Sharper Image
+2024-12-06 01:40:51,995 - INFO - Processing Six Apart – moved to Tokyo
+2024-12-06 01:40:53,087 - INFO - Processing Southern Pacific – acquired by Union Pacific Railroad
+2024-12-06 01:40:54,169 - INFO - Processing Swensen's Ice Cream – acquired by International Franchise Corp (IFC) of Markham, Ontario, Canada
+2024-12-06 01:40:55,199 - INFO - Processing Tesla (124) – moved to Austin, TX
+2024-12-06 01:40:56,618 - INFO - Processing Transamerica – purchased by Aegon
+2024-12-06 01:40:57,665 - INFO - Processing United Commercial Bank – acquired by East West Bank
+2024-12-06 01:40:58,695 - INFO - Processing URS Corporation – San Francisco – acquired by AECOM
+2024-12-06 01:40:59,733 - INFO - Processing Victoria's Secret – started in Palo Alto, now headquartered in Reynoldsburg, Ohio
+2024-12-06 01:41:00,982 - INFO - Processing Virgin America – Burlingame – acquired by Alaska Airlines
+2024-12-06 01:41:02,061 - INFO - Processing X Corp. – moved to Bastrop, TX
+2024-12-06 01:41:03,149 - INFO - Processing Yahoo! (353) – Sunnyvale- acquired by Verizon Media
+2024-12-06 01:41:04,353 - INFO - Processing San Francisco Bay Area portal
+2024-12-06 01:41:04,354 - WARNING - Could not parse company entry: San Francisco Bay Area portal
+2024-12-06 01:41:04,354 - INFO - Processing List of California companies
+2024-12-06 01:41:04,354 - WARNING - Could not parse company entry: List of California companies
+2024-12-06 01:41:04,354 - INFO - Processing List of companies based in Berkeley, California (subset, mostly included in this list)
+2024-12-06 01:41:04,354 - WARNING - Could not parse company entry: List of companies based in Berkeley, California (subset, mostly included in this list)
+2024-12-06 01:41:04,354 - INFO - Processing List of companies based in Hayward, California (subset, mostly included in this list)
+2024-12-06 01:41:04,355 - WARNING - Could not parse company entry: List of companies based in Hayward, California (subset, mostly included in this list)
+2024-12-06 01:41:04,355 - INFO - Processing List of companies based in Oakland, California (subset, mostly included in this list)
+2024-12-06 01:41:04,355 - WARNING - Could not parse company entry: List of companies based in Oakland, California (subset, mostly included in this list)
+2024-12-06 01:41:04,355 - INFO - Processing Companies based in the San Francisco Bay Area
+2024-12-06 01:41:04,355 - WARNING - Could not parse company entry: Companies based in the San Francisco Bay Area
+2024-12-06 01:41:04,355 - INFO - Processing Lists of companies based in California
+2024-12-06 01:41:04,355 - WARNING - Could not parse company entry: Lists of companies based in California
+2024-12-06 01:41:04,355 - INFO - Processing San Francisco Bay Area-related lists
+2024-12-06 01:41:04,355 - WARNING - Could not parse company entry: San Francisco Bay Area-related lists
+2024-12-06 01:41:04,356 - INFO - Processing Articles with short description
+2024-12-06 01:41:04,356 - WARNING - Could not parse company entry: Articles with short description
+2024-12-06 01:41:04,356 - INFO - Processing Short description is different from Wikidata
+2024-12-06 01:41:04,356 - WARNING - Could not parse company entry: Short description is different from Wikidata
+2024-12-06 01:41:04,356 - INFO - Processing Dynamic lists
+2024-12-06 01:41:04,356 - WARNING - Could not parse company entry: Dynamic lists
+2024-12-06 01:41:04,356 - INFO - Processing This page was last edited on 14 September 2024, at 16:53 (UTC).
+2024-12-06 01:41:04,356 - WARNING - Could not parse company entry: This page was last edited on 14 September 2024, at 16:53 (UTC).
+2024-12-06 01:41:04,356 - INFO - Processing Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+2024-12-06 01:41:04,357 - WARNING - Could not parse company entry: Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+2024-12-06 01:41:04,357 - INFO - Processing Privacy policy
+2024-12-06 01:41:04,357 - WARNING - Could not parse company entry: Privacy policy
+2024-12-06 01:41:04,357 - INFO - Processing About Wikipedia
+2024-12-06 01:41:04,357 - WARNING - Could not parse company entry: About Wikipedia
+2024-12-06 01:41:04,357 - INFO - Processing Disclaimers
+2024-12-06 01:41:04,357 - WARNING - Could not parse company entry: Disclaimers
+2024-12-06 01:41:04,357 - INFO - Processing Contact Wikipedia
+2024-12-06 01:41:04,357 - WARNING - Could not parse company entry: Contact Wikipedia
+2024-12-06 01:41:04,357 - INFO - Processing Code of Conduct
+2024-12-06 01:41:04,358 - WARNING - Could not parse company entry: Code of Conduct
+2024-12-06 01:41:04,358 - INFO - Processing Developers
+2024-12-06 01:41:04,358 - WARNING - Could not parse company entry: Developers
+2024-12-06 01:41:04,358 - INFO - Processing Statistics
+2024-12-06 01:41:04,358 - WARNING - Could not parse company entry: Statistics
+2024-12-06 01:41:04,358 - INFO - Processing Cookie statement
+2024-12-06 01:41:04,358 - WARNING - Could not parse company entry: Cookie statement
+2024-12-06 01:41:04,358 - INFO - Processing Mobile view
+2024-12-06 01:41:04,358 - WARNING - Could not parse company entry: Mobile view
+2024-12-06 01:41:04,358 - INFO - Processing 
+2024-12-06 01:41:04,359 - WARNING - Could not parse company entry: 
+2024-12-06 01:41:04,359 - INFO - Processing 
+2024-12-06 01:41:04,359 - WARNING - Could not parse company entry: 
+2024-12-06 01:41:04,376 - INFO - 
+Saved 428 companies to bay_area_companies.csv
+2024-12-06 01:41:04,376 - INFO - 
+=== Dataset Statistics ===
+2024-12-06 01:41:04,376 - INFO - Total Companies: 428
+2024-12-06 01:41:04,377 - INFO - 
+Top Industries:
+2024-12-06 01:41:04,378 - INFO - industry
+Retail                                                    17
+Companies formerly based in the San Francisco Bay Area    16
+Sports                                                    16
+Software                                                  15
+Internet                                                  13
+Name: count, dtype: int64
+2024-12-06 01:41:04,379 - INFO - 
+Total Employees: 5,001
+2024-12-06 01:41:04,379 - INFO - Average Employees: 556
+2024-12-06 01:41:04,379 - INFO - 
+Fortune 500 Companies: 47

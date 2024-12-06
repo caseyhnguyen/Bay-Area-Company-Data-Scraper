@@ -1,0 +1,545 @@
+name,description,industries,location,company_size,founded_year,investors,latest_funding,valuation,website,latest_funding_in_millions,latest_funding_original_unit,valuation_in_millions,valuation_original_unit
+Kong,,"Enterprise Software, SaaS",,350,2017,Andreessen Horowitz,$175M Series E in 2024,$2.0B valuation,https://konghq.com/,175.0,M,2000.0,B
+Cresta,,", Artificial Intelligence, Sales, Enterprise Software",,350,2017,"Sequoia, Andreessen Horowitz",$125M Series D in 2024,,http://cresta.com/,125.0,M,,
+Infinitus,,"Health, Artificial Intelligence",,150,2019,"Andreessen Horowitz, Kleiner Perkins",$51M Series C in 2024,,https://www.infinitus.ai/,51.0,M,,
+Nooks,,"Artificial Intelligence, Sales",,75,2020,Kleiner Perkins,$43M Series B in 2024,,https://www.nooks.ai/,43.0,M,,
+Decagon,,"Artificial Intelligence, Enterprise Software",,30,2023,"Andreessen Horowitz, Accel",$65M Series B in 2024,,https://decagon.ai/,65.0,M,,
+Numeric,,"Enterprise Software, FinTech, Accounting",,30,2021,"Founders Fund, Menlo VC, IVP",$28M Series A in 2024,,https://www.numeric.io/,28.0,M,,
+Fay,,"Enterprise Software, Consumer, E-Commerce, Healthcare",,30,2022,"General Catalyst, Forerunner",$26M Series A in 2023,,https://www.faynutrition.com/,26.0,M,,
+World Labs,,Artificial Intelligence,,30,2023,Andreessen Horowitz,$230M Series A in 2024,$1.0B valuation,https://www.worldlabs.ai/,230.0,M,1000.0,B
+Safe Superintelligence,,Artificial Intelligence,,5,2024,"Sequoia, Andreessen Horowitz",$1B Series A in 2024,,https://ssi.inc/,1000.0,B,,
+Harmonic,,Artificial Intelligence,,30,2023,Sequoia,$75M Series A in 2024,,https://harmonic.fun/index/,75.0,M,,
+Atlys,,"Immigration, Travel",,30,2020,"Andreessen Horowitz, Sequoia, Accel",$20M Series B in 2024,,https://www.atlys.com/,20.0,M,,
+Cortex,,"Enterprise Software, Developer Tools",,150,2019,Sequoia,$60M Series C in 2024,,https://www.cortex.io/,60.0,M,,
+Glean,,"Enterprise Software, SaaS, Artificial Intelligence",,350,2019,"Sequoia, Kleiner Perkins",$260M Series E in 2024,$4.6B valuation,https://www.glean.com/,260.0,M,4600.0,B
+Codeium,,"Artificial Intelligence, SaaS",,150,2021,Kleiner Perkins,$150M Series C in 2024,$1.2B valuation,https://codeium.com/,150.0,M,1200.0,B
+Allium,,"Artificial Intelligence, Crypto",,5,2021,Kleiner Perkins,$21M Series A in 2024,,https://www.allium.so/,21.0,M,,
+Ema,,"Artificial Intelligence, Enterprise Software",,75,2023,Accel,$50M Series A in 2024,,https://www.ema.co/,50.0,M,,
+Harvey,,"Artificial Intelligence, Legal",,75,2021,"Sequoia, Kleiner Perkins",$100M Series C in 2024,$1.5B valuation,https://www.harvey.ai/,100.0,M,1500.0,B
+Astranis,,"Space, Hardware",,350,2015,"Andreessen Horowitz, Y Combinator",$200M Series D in 2024,$1.4B valuation,http://www.astranis.com/,200.0,M,1400.0,B
+Vanta,,", , Cybersecurity, Software",,350,2017,"Sequoia, Y Combinator",$150M Series C in 2024,$2.5B valuation,http://www.vanta.com/,150.0,M,2500.0,B
+Caldera,,Crypto,,30,2022,"Sequoia, Founders Fund",$15M Series A in 2024,,https://www.caldera.xyz/,15.0,M,,
+xAI,,Artificial Intelligence,,150,2023,"Sequoia, Andreessen Horowitz",$6B Series B in 2024,$24.0B valuation,https://x.ai/,6000.0,B,24000.0,B
+Alkira,,Cybersecurity,,75,2018,Sequoia,$54M Series C in 2024,,http://www.alkira.com/,54.0,M,,
+Together,,Artificial Intelligence,,75,2022,Kleiner Perkins,$106M Series A in 2024,$1.2B valuation,https://www.together.ai/,106.0,M,1200.0,B
+HeyGen,,Artificial Intelligence,,30,2020,Benchmark,$60M Series B in 2024,,https://www.heygen.com/,60.0,M,,
+Fireworks AI,,Artificial Intelligence,,30,2022,Benchmark,$25M Series A in 2024,,https://fireworks.ai/,25.0,M,,
+Pomelo,,"FinTech, Consumer",,30,2020,Founders Fund,$40M Series B in 2024,,https://www.pomelo.com/,40.0,M,,
+Cognition,,"Artificial Intelligence, Developer Tools",,30,2023,Founders Fund,$21M Series A in 2024,,https://www.cognition-labs.com/,21.0,M,,
+Rippling,,"Enterprise Software, SaaS, Human Resources, ",,3000,2016,"Kleiner Perkins, Founders Fund, Y Combinator, Sequoia",$200M Series F in 2024,$13.5B valuation,http://www.rippling.com/,200.0,M,13500.0,B
+Varda,,", Manufacturing, Space",,30,2020,"Khosla Ventures, Founders Fund",$90M Series B in 2024,,http://varda.com/,90.0,M,,
+Vocode,,"Artificial Intelligence, SaaS",,5,2023,"Accel, Y Combinator",$3M Seed in 2024,,https://www.vocode.dev/,3.0,M,,
+Ambience,,"Artificial Intelligence, Healthcare",,30,2020,Kleiner Perkins,$70M Series B in 2024,,https://www.ambiencehealthcare.com/,70.0,M,,
+LangChain,,"Artificial Intelligence, Developer Tools",,30,2022,"Sequoia, Benchmark",$25M Series A in 2024,$200M valuation,https://www.langchain.com/,25.0,M,200.0,M
+Watershed,,"Sustainability, Enterprise Software",,150,2019,"Sequoia, Kleiner Perkins",$100M Series C in 2024,$1.8B valuation,https://watershedclimate.com,100.0,M,1800.0,B
+Instawork,,"Recruiting, Artificial Intelligence",,350,2015,"Benchmark, Y Combinator",$60M Series D in 2024,$760M valuation,http://www.instawork.com,60.0,M,760.0,M
+BioAge Labs,,Biotech,,75,2015,Andreessen Horowitz,$170M Series D in 2024,,http://bioagelabs.com/,170.0,M,,
+Freenome,,"Personal Healthcare, Biotech",,350,2014,"Andreessen Horowitz, Founders Fund",$254M Series E in 2024,$2.6B valuation,http://www.freenome.com,254.0,M,2600.0,B
+Zum,,"Transportation, Ride Sharing, Child Care",,150,2017,Sequoia,$140M Series E in 2024,$1.3B valuation,http://ridezum.com,140.0,M,1300.0,B
+Forward,,"Healthcare, SaaS",,350,2016,"Khosla Ventures, Founders Fund",$100M Series E in 2023,,http://goforward.com,100.0,M,,
+Pika,,"Artificial Intelligence, Consumer",,5,2023,Lightspeed,$35M Series A in 2023,$200M valuation,https://pika.art/,35.0,M,200.0,M
+Air Space Intelligence,,"Artificial Intelligence, Space, Defense",,75,2018,Andreessen Horowitz,$34M Series B in 2023,$300M valuation,https://www.airspace-intelligence.com/,34.0,M,300.0,M
+Squint,,"Artificial Intelligence, Augmented Reality, Enterprise Software",,30,2021,Sequoia,$13M Series A in 2023,,https://www.squint.ai/,13.0,M,,
+Instabase,,Software,,350,2015,Andreessen Horowitz,$45M Series C in 2023,$2.0B valuation,http://instabase.com,45.0,M,2000.0,B
+OpenAI,,"Artificial Intelligence, SaaS, Consumer",,750,2015,"Y Combinator, Raised $300M in 2023",,$29.0B valuation,http://www.openai.com/blog/,,,29000.0,B
+Replit,,"SaaS, Developer Tools, EdTech",,30,2016,"Y Combinator, Andreessen Horowitz",$97M Series B in 2023,$1.2B valuation,http://repl.it/,97.0,M,1200.0,B
+Semgrep,,"Cybersecurity, SaaS",,150,2017,Sequoia,$53M Series C in 2023,,https://semgrep.dev/,53.0,M,,
+Memora Health,,"Healthcare, Artificial Intelligence",,150,2017,Andreessen Horowitz,$30M Series B in 2023,,https://www.memorahealth.com/,30.0,M,,
+Mojo Vision,,"Consumer Electronics, Wearables, AR, Hardware",,150,2015,Khosla Ventures,$22M Series C in 2023,,http://mojo.vision,22.0,M,,
+dashbot.io,,"Analytics, Messaging, Chat, SaaS",,30,2016,Bessemer,$6M Series A in 2023,,http://www.dashbot.io/,6.0,M,,
+Graphiant,,Networking,,75,2020,Sequoia,$62M Series B in 2023,,http://www.graphiant.com/,62.0,M,,
+Stripe,,"FinTech, Payments, SaaS",,5000,2010,"Sequoia, Andreessen Horowitz",$6B Series I in 2023,$50.0B valuation,https://stripe.com/,6000.0,B,50000.0,B
+Shef,,"Marketplaces, Food & Drinks",,150,2019,"Y Combinator, Andreessen Horowitz",$66M Series B in 2023,,http://shef.com/,66.0,M,,
+Skydio,,"Space, Drones, Hardware",,350,2014,"Andreessen Horowitz, Accel",$230M Series E in 2023,$2.2B valuation,http://www.skydio.com/,230.0,M,2200.0,B
+Light Field Lab,,"Entertainment, Hardware, Software",,30,2017,Khosla Ventures,$50M Series B in 2023,,http://lightfieldlab.com,50.0,M,,
+MindsDB,,"Artificial Intelligence, Data Science",,30,2017,Benchmark,$16M Series A in 2023,,https://mindsdb.com/,16.0,M,,
+IgGenix,,", Biotech",,30,2019,Khosla Ventures,$40M Series B in 2023,,http://iggenix.com/,40.0,M,,
+Forward Networks,,"Networking, Enterprise Software, Hardware",,75,2013,Andreessen Horowitz,$50M Series D in 2023,,http://forwardnetworks.com,50.0,M,,
+Mad Street Den,,", Artificial Intelligence, Computer Vision",,350,2013,Sequoia,$30M Series C in 2023,,http://www.madstreetden.com,30.0,M,,
+Fathom,,"Artificial Intelligence, Healthcare",,30,2017,Founders Fund,$46M Series B in 2022,,https://fathomhealth.com,46.0,M,,
+Atmos,,"Construction, Real Estate, Marketplaces",,30,2019,Khosla Ventures,$12M Series A in 2022,,https://www.buildatmos.com/,12.0,M,,
+TripActions,,"Business Travel, Enterprise Software",,3000,2015,Andreessen Horowitz,$145M Series G in 2022,$9.2B valuation,http://tripactions.com/,145.0,M,9200.0,B
+Golden,,"Artificial Intelligence, EdTech",,30,2017,"Andreessen Horowitz, Founders Fund",$40M Series B in 2022,,http://golden.com/,40.0,M,,
+Workstream,,", SaaS, Recruiting",,350,2017,Founders Fund,$60M Series B in 2022,$500M valuation,http://www.workstream.us/,60.0,M,500.0,M
+Kumo,,"SaaS, Artificial Intelligence, Enterprise Software",,30,2021,Sequoia,$18M Series B in 2022,,https://kumo.ai/,18.0,M,,
+Verkada,,"Cybersecurity, Hardware",,3000,2016,Sequoia,$205M Series D in 2022,$3.2B valuation,http://www.verkada.com/,205.0,M,3200.0,B
+Patch,,"Sustainability, Renewable Energies, Enterprise Software",,75,2020,Andreessen Horowitz,$55M Series B in 2022,,http://www.patch.io/,55.0,M,,
+Isovalent,,", SaaS, Cybersecurity, , , ",,75,2017,Andreessen Horowitz,$40M Series B in 2022,,http://isovalent.com/,40.0,M,,
+Incredible Health,,"Recruiting, Nurses",,150,2017,Andreessen Horowitz,$80M Series B in 2022,,http://www.incrediblehq.com,80.0,M,,
+AliveCor,,"Healthcare, Hardware, Medical Devices",,150,2010,Khosla Ventures,$128M Series F in 2022,,http://alivecor.com,128.0,M,,
+Truework,,", Human Resources, SaaS",,150,2017,"Sequoia, Khosla Ventures",$50M Series C in 2022,,http://www.truework.com,50.0,M,,
+Aisera,,", , Artificial Intelligence, Sales Automation",,150,2017,Khosla Ventures,$90M Series D in 2022,,http://aisera.com/,90.0,M,,
+Sprig,,"Analytics, Survey Tools, SaaS",,150,2018,"Andreessen Horowitz, Accel",$30M Series B in 2022,,https://sprig.com/,30.0,M,,
+Retool,,", SaaS, Developer Tools, Enterprise Software",,350,2017,"Sequoia, Y Combinator",$45M Series C in 2022,$3.2B valuation,http://retool.com/,45.0,M,3200.0,B
+Tecton.AI,,"Enterprise Software, ML Infrastructure, Artificial Intelligence",,75,2019,"Sequoia, Andreessen Horowitz, Kleiner Perkins",$100M Series C in 2022,,http://www.tecton.ai,100.0,M,,
+Front App,,", SaaS, Collaboration, Email, ",,350,2013,Sequoia,$65M Series D in 2022,$1.7B valuation,http://www.frontapp.com,65.0,M,1700.0,B
+Pave,,"Human Resources, Compensation, Enterprise Software",,150,2019,"Andreessen Horowitz, Bessemer, Y Combinator",$100M Series C in 2022,$1.6B valuation,http://pave.com,100.0,M,1600.0,B
+Courier,,"App Development, Developer APIs, SaaS",,150,2019,"Bessemer, Y Combinator",$35M Series B in 2022,,http://www.courier.com/,35.0,M,,
+Fountain,,"SaaS, Recruiting, Enterprise Software",,150,2012,Y Combinator,$100M Series C in 2022,$1.0B valuation,https://www.fountain.com/,100.0,M,1000.0,B
+Middesk,,"SaaS, Enterprise Software",,75,2018,"Sequoia, Accel, Y Combinator",$57M Series B in 2022,,https://www.middesk.com/,57.0,M,,
+Cambly,,"EdTech, Video Chat, Tutoring",,3000,2012,"Benchmark, Y Combinator, Bessemer",$60M Series C in 2022,$250M valuation,http://cambly.com,60.0,M,250.0,M
+Metawave,,"Electronics, Wireless, Communications",,30,2017,Khosla Ventures,$26M Series A in 2022,,http://www.metawave.co,26.0,M,,
+Belong,,"Consumer, Real Estate",,150,2019,Andreessen Horowitz,$80M Series C in 2022,,https://belonghome.com/,80.0,M,,
+SpotOn,,"FinTech, Payments, Point of Sale",,3000,2017,Andreessen Horowitz,$300M Series F in 2022,$3.6B valuation,http://www.spoton.com/,300.0,M,3600.0,B
+Mirvie,,"Biotech, Healthcare",,30,2018,Khosla Ventures,$45M Series B in 2022,$155M valuation,https://www.mirvie.com/,45.0,M,155.0,M
+Vivun,,"Sales and Marketing, Enterprise Software",,150,2018,Accel,$75M Series C in 2022,,http://www.vivun.com/,75.0,M,,
+Instabug,,"Enterprise Software, SaaS, Developer Tools",,150,2013,Accel,$46M Series B in 2022,,http://www.instabug.com,46.0,M,,
+Imply,,"Enterprise Software, Analytics, Data Science",,350,2015,"Khosla Ventures, Andreessen Horowitz, Bessemer",$100M Series D in 2022,$1.1B valuation,http://imply.io/,100.0,M,1100.0,B
+Faire,,"E-Commerce, , Marketplaces, Retail",,750,2017,"Sequoia, Khosla Ventures, Founders Fund, Y Combinator",$416M Series G in 2022,$12.6B valuation,https://faire.com/,416.0,M,12600.0,B
+Sentry,,"Enterprise Software, SaaS, Analytics",,350,2012,Accel,$90M Series E in 2022,$3.0B valuation,http://getsentry.com,90.0,M,3000.0,B
+Primer,,"SaaS, EdTech",,30,2019,"Founders Fund, Khosla Ventures",$15M Series A in 2022,,https://primer.com/,15.0,M,,
+Doppler,,"SaaS, Developer Tools, Enterprise Software",,30,2018,"Sequoia, Kleiner Perkins, Y Combinator",$20M Series A in 2022,,https://www.doppler.com/,20.0,M,,
+Mutiny,,"SaaS, Marketing, Sales",,30,2018,"Sequoia, Y Combinator",$50M Series B in 2022,$600M valuation,http://www.mutinyhq.com/,50.0,M,600.0,M
+Playbook,,"SaaS, Collaboration, Productivity Software",,30,2020,Founders Fund,$18M Series A in 2022,,http://www.playbook.com/,18.0,M,,
+Valar Labs,,"Healthcare, Medical",,5,2021,Andreessen Horowitz,$4M Seed in 2022,,https://www.valarlabs.com/,4.0,M,,
+Newfront,,"FinTech, Insurance",,750,2017,"Founders Fund, Y Combinator",$200M Series D in 2022,$2.2B valuation,https://www.newfront.com/,200.0,M,2200.0,B
+Built Robotics,,"Robotics, Hardware, Artificial Intelligence, Construction",,30,2016,Founders Fund,$64M Series C in 2022,,http://www.builtrobotics.com/,64.0,M,,
+Viz,,", Artificial Intelligence, Healthcare",,350,2016,Kleiner Perkins,$100M Series D in 2022,$1.2B valuation,https://www.viz.ai/,100.0,M,1200.0,B
+Lilt,,"Artificial Intelligence, Enterprise Software",,350,2015,Sequoia,$55M Series C in 2022,$110M valuation,http://www.lilt.com,55.0,M,110.0,M
+Skiff,,"SaaS, Collaboration",,30,2020,Sequoia,$10M Series A in 2022,,https://skiff.org/,10.0,M,,
+HackerRank,,", SaaS, Recruiting, ",,3000,2012,Khosla Ventures,$60M Series D in 2022,$500M valuation,http://www.hackerrank.com,60.0,M,500.0,M
+RapidAPI,,Developer API,,150,2014,Andreessen Horowitz,$150M Series D in 2022,$1.0B valuation,http://www.rapidapi.com,150.0,M,1000.0,B
+Deepcell,,"Healthcare, Biotech, Artificial Intelligence",,75,2017,Andreessen Horowitz,$73M Series B in 2022,,http://www.deepcellbio.com/,73.0,M,,
+Webflow,,"Consumer, Web Development, SaaS",,750,2012,"Accel, Y Combinator",$120M Series C in 2022,$4.0B valuation,http://webflow.com,120.0,M,4000.0,B
+SmithRx,,Healthcare,,75,2016,Founders Fund,$20M Series B in 2022,$100M valuation,http://smithrx.com,20.0,M,100.0,M
+Roofstock,,"Real Estate, Marketplaces, Rental, FinTech",,350,2015,Khosla Ventures,$240M Series E in 2022,$1.9B valuation,http://www.roofstock.com/,240.0,M,1900.0,B
+Disco,,"E-Commerce, Sales",,30,2020,"Bessemer, Shopify",$20M Series A in 2022,,https://www.disconetwork.com/,20.0,M,,
+Apollo.io,,"Lead Generation, Sales Automation, Enterprise Software",,150,2015,"Y Combinator, Sequoia",$110M Series C in 2022,$900M valuation,https://www.apollo.io/,110.0,M,900.0,M
+BillionToOne,,"Healthcare, Medical, Biotech",,350,2016,Y Combinator,$125M Series C in 2022,,http://www.billiontoone.com/,125.0,M,,
+Qventus,,"Predictive Analytics, Healthcare",,150,2012,"Bessemer, Y Combinator",$50M Series B in 2022,,http://www.qventus.com/,50.0,M,,
+Promise,,"FinTech, Government, Payments, ",,75,2017,Y Combinator,$25M Series B in 2022,,http://joinpromise.com/,25.0,M,,
+AnyRoad,,"Enterprise Software, SaaS, Marketing",,150,2014,Andreessen Horowitz,$47M Series B in 2022,,https://www.anyroad.com/,47.0,M,,
+Secureframe,,"SaaS, Cybersecurity",,75,2020,Kleiner Perkins,$56M Series B in 2022,,https://secureframe.com/,56.0,M,,
+WorkWhile,,Recruiting,,30,2019,Khosla Ventures,$13M Series A in 2022,,http://www.workwhilejobs.com/,13.0,M,,
+Flutterwave,,"FinTech, Payments, Software",,350,2016,Y Combinator,$250M Series D in 2022,$3.0B valuation,http://flutterwave.com,250.0,M,3000.0,B
+Helium,,"Crypto, Hardware, Internet of Things",,150,2013,"Andreessen Horowitz, Khosla Ventures",$200M Series D in 2022,$1.2B valuation,http://www.helium.com,200.0,M,1200.0,B
+PopSQL,,", , Collaboration, Enterprise Software, Developer Tools",,30,2017,Y Combinator,$14M Series A in 2022,,http://popsql.com/,14.0,M,,
+Homebound,,"Home Renovation, Construction",,150,2017,Khosla Ventures,$75M Series C in 2022,,http://www.homebound.com/,75.0,M,,
+Branch,,"SaaS, Mobile App Marketing",,750,2014,Founders Fund,$300M Series F in 2022,$4.0B valuation,https://branch.io/,300.0,M,4000.0,B
+Salt Security,,"Cybersecurity, Artificial Intelligence, , API",,150,2016,"Sequoia, Y Combinator",$140M Series D in 2022,$1.4B valuation,http://salt.security/,140.0,M,1400.0,B
+Alchemy,,"Developer Platform, Blockchain, Crypto",,75,2017,Andreessen Horowitz,$200M Series C in 2022,$10.2B valuation,https://www.alchemy.com/,200.0,M,10200.0,B
+Flexport,,", Logistics, E-Commerce, , Freight, Supply Chain",,3000,2013,"Andreessen Horowitz, Founders Fund, Y Combinator",$935M Series E in 2022,$8.0B valuation,http://Flexport.com,935.0,M,8000.0,B
+Census,,"Analytics, SaaS",,30,2018,"Sequoia, Andreessen Horowitz",$60M Series B in 2022,$630M valuation,http://getcensus.com/,60.0,M,630.0,M
+Mos,,"FinTech, EdTech",,75,2017,Sequoia,$40M Series B in 2022,$400M valuation,https://www.mos.com/,40.0,M,400.0,M
+ProductBoard,,"Collaboration, Enterprise Software, SaaS, Research",,350,2014,"Sequoia, Kleiner Perkins, Bessemer",$125M Series D in 2022,$1.7B valuation,http://www.productboard.com/,125.0,M,1700.0,B
+Phantom,,Crypto,,30,2021,"Andreessen Horowitz, Solana",$109M Series B in 2022,$1.2B valuation,https://phantom.app/,109.0,M,1200.0,B
+Vesta,,"SaaS, Mortgage",,30,2020,Andreessen Horowitz,$30M Series A in 2022,,https://www.usevesta.com/,30.0,M,,
+Compound Financial,,FinTech,,30,2019,Y Combinator,$25M Series B in 2022,,https://withcompound.com/,25.0,M,,
+CoinTracker,,"FinTech, Crypto",,75,2017,"Accel, Y Combinator",$100M Series A in 2022,$1.3B valuation,http://www.cointracker.io,100.0,M,1300.0,B
+Supermove,,SaaS,,30,2019,"Founders Fund, Andreessen Horowitz",$18M Series A in 2022,,https://supermove.co/,18.0,M,,
+CaptivateIQ,,"Sales, Enterprise Software",,350,2018,"Sequoia, Accel",$100M Series C in 2022,$1.2B valuation,http://www.captivateiq.com/,100.0,M,1200.0,B
+Scratchpad,,"SaaS, Sales",,75,2019,Accel,$33M Series B in 2022,,https://scratchpad.com/,33.0,M,,
+Pavilion Data,,"Data Center, Hardware, Software",,150,2013,Kleiner Perkins,$45M Series D in 2022,,http://paviliondata.com,45.0,M,,
+Handshake,,"College Recruiting, Career Planning",,750,2013,Kleiner Perkins,$200M Series F in 2022,$1.5B valuation,https://joinhandshake.com/,200.0,M,1500.0,B
+Smartcar,,"Transportation, Vehicles, Developer Tools",,75,2015,Andreessen Horowitz,$24M Series B in 2022,,http://smartcar.com,24.0,M,,
+Lattice,,"SaaS, Enterprise Software, ",,750,2015,"Khosla Ventures, Founders Fund, Y Combinator",$175M Series F in 2022,$3.0B valuation,http://lattice.com,175.0,M,3000.0,B
+Clari,,"Enterprise Software, Analytics, , Sales Tools",,750,2012,Sequoia,$225M Series F in 2022,$2.6B valuation,http://www.clari.com/,225.0,M,2600.0,B
+Clockwise,,"SaaS, Enterprise Software, Productivity",,75,2016,Accel,$45M Series C in 2022,,https://www.getclockwise.com/,45.0,M,,
+Ironclad,,"Enterprise Software, Legal Tech",,350,2014,"Sequoia, Y Combinator, Accel",$150M Series E in 2022,$3.2B valuation,http://ironcladapp.com,150.0,M,3200.0,B
+Merit,,"GovTech, Software",,75,2016,Andreessen Horowitz,$50M Series B in 2022,,https://www.merits.com/,50.0,M,,
+Wonderschool,,"EdTech, Kids",,75,2016,Andreessen Horowitz,$25M Series B in 2022,$99M valuation,http://www.wonderschool.com,25.0,M,99.0,M
+Envoy,,", SaaS, Enterprise Software, Office Administration",,350,2013,Andreessen Horowitz,$111M Series C in 2022,$1.4B valuation,http://envoy.com,111.0,M,1400.0,B
+Labelbox,,"Enterprise Software, ML Infrastructure, Artificial Intelligence",,150,2018,"Andreessen Horowitz, Kleiner Perkins",$110M Series D in 2022,$900M valuation,http://www.labelbox.com/,110.0,M,900.0,M
+Miro,,"SaaS, Design, Collaboration, Productivity Software, Enterprise Software",,3000,2011,Accel,$400M Series C in 2022,$17.5B valuation,https://miro.com/,400.0,M,17500.0,B
+Pyka,,"Hardware, Robotics, Space",,30,2016,Y Combinator,$37M Series A in 2022,,http://flypyka.com,37.0,M,,
+BigPanda,,", SaaS, IT, Developer Tools",,350,2012,Sequoia,$190M Series D in 2022,$1.2B valuation,http://www.bigpanda.io,190.0,M,1200.0,B
+Searchlight,,"SaaS, Enterprise Software, Hiring",,30,2018,"Accel, Founders Fund, Y Combinator",$17M Series A in 2021,,https://www.searchlight.ai/,17.0,M,,
+Sysdig,,"Cloud Computing, Software, Open Source",,350,2013,Accel,$350M Series G in 2021,$2.5B valuation,http://www.sysdig.com,350.0,M,2500.0,B
+Anchorage,,"FinTech, Crypto",,350,2017,"Khosla Ventures, Andreessen Horowitz",$350M Series D in 2021,$3.0B valuation,http://anchorage.com/,350.0,M,3000.0,B
+Mixhalo,,"Music, Media, Enterprise Software",,30,2016,Founders Fund,$24M Series B in 2021,,http://www.mixhalo.com/,24.0,M,,
+Airtable,,"SaaS, Productivity Software, Collaboration, Databases",,750,2012,Benchmark,$735M Series F in 2021,$11.7B valuation,http://www.airtable.com,735.0,M,11700.0,B
+Robust Intelligence,,"Artificial Intelligence, SaaS, Enterprise Software",,30,2019,Sequoia,$30M Series B in 2021,,https://www.robustintelligence.com/,30.0,M,,
+Anyscale,,"Developer Platform, Software",,150,2019,Andreessen Horowitz,$100M Series C in 2021,$1.0B valuation,http://anyscale.io/,100.0,M,1000.0,B
+Mezmo (fka LogDNA),,"Cloud Computing, Enterprise Software",,150,2013,Y Combinator,$50M Series D in 2021,,https://www.mezmo.com/,50.0,M,,
+CyCognito,,"Cybersecurity, SaaS, Enterprise Software",,150,2017,Accel,$100M Series C in 2021,$800M valuation,http://cycognito.com/,100.0,M,800.0,M
+SnapLogic,,"Enterprise Software, SaaS",,350,2006,Andreessen Horowitz,$165M Series G in 2021,$1.0B valuation,http://www.snaplogic.com,165.0,M,1000.0,B
+CloudTrucks,,"Transportation, Logistics",,75,2019,Khosla Ventures,$115M Series B in 2021,$850M valuation,http://cloudtrucks.com/,115.0,M,850.0,M
+Iron Fish,,"Crypto, Blockchain",,5,2019,"Sequoia, Andreessen Horowitz",$28M Series A in 2021,,https://ironfish.network/,28.0,M,,
+Quince,,E-Commerce,,75,2018,Founders Fund,$50M Series A in 2021,,https://www.onequince.com/,50.0,M,,
+Fundbox,,"FinTech, Small Businesses",,350,2013,Khosla Ventures,$100M Series D in 2021,$1.1B valuation,http://www.fundbox.com,100.0,M,1100.0,B
+Simplified,,"SaaS, Design, Collaboration",,30,2020,Khosla Ventures,$8M Seed in 2021,,http://simplified.co/,8.0,M,,
+Vercel,,"Developer Tools, SaaS",,150,2015,Accel,$150M Series D in 2021,$2.5B valuation,http://vercel.com/,150.0,M,2500.0,B
+Niantic,,"Gaming, AR/VR",,750,2011,Founders Fund,$300M Series D in 2021,$9.0B valuation,http://www.nianticlabs.com,300.0,M,9000.0,B
+Zuma,,"Sales, SaaS, Artificial Intelligence",,30,2020,"Y Combinator, Andreessen Horowitz",$7M Seed in 2021,,https://www.getzuma.com/,7.0,M,,
+Stytch,,"Developer APIs, SaaS, Cybersecurity",,30,2020,Benchmark,$90M Series B in 2021,$1.0B valuation,https://stytch.com/,90.0,M,1000.0,B
+Fountain Therapeutics,,", Biotech, Healthcare, Medical",,30,2018,Khosla Ventures,$15M Series A in 2021,,http://fountaintx.com/,15.0,M,,
+HighTouch.io,,"Marketing, Enterprise Software, SaaS, Sales",,30,2018,Y Combinator,$40M Series B in 2021,$450M valuation,http://www.hightouch.io/,40.0,M,450.0,M
+Netlify,,", Web Hosting, Developer Tools, SaaS",,350,2015,"Andreessen Horowitz, Kleiner Perkins, Bessemer",$105M Series D in 2021,$2.0B valuation,http://www.netlify.com/,105.0,M,2000.0,B
+Benchling,,"Healthcare, Biotech",,750,2012,"Sequoia, Andreessen Horowitz, Benchmark, Y Combinator",$100M Series F in 2021,$6.1B valuation,http://www.benchling.com,100.0,M,6100.0,B
+PlanetScale,,"Enterprise Software, Open Source, Databases",,75,2018,Andreessen Horowitz,$50M Series C in 2021,$80M valuation,http://planetscale.com,50.0,M,80.0,M
+Netography,,"Cybersecurity, Enterprise Software, SaaS",,30,2018,"Andreessen Horowitz, Bessemer",$45M Series A in 2021,,http://netography.com/,45.0,M,,
+ThoughtSpot,,"SaaS, Enterprise Software, Analytics",,750,2012,Khosla Ventures,$120M Series F in 2021,$4.2B valuation,http://www.thoughtspot.com,120.0,M,4200.0,B
+Orderful,,"Enterprise Software, SaaS, Logistics",,30,2016,Andreessen Horowitz,$19M Series B in 2021,,http://orderful.com/,19.0,M,,
+Applied Intuition,,"Enterprise Software, Autonomous Vehicles",,30,2017,Andreessen Horowitz,$175M Series D in 2021,$3.6B valuation,https://www.appliedintuition.com/,175.0,M,3600.0,B
+Density,,"Analytics, Sensor, Enterprise Software",,150,2014,"Kleiner Perkins, Founders Fund",$125M Series D in 2021,$1.0B valuation,http://www.density.io/,125.0,M,1000.0,B
+VergeSense,,"SaaS, Artificial Intelligence, Sensors, Hardware",,75,2017,Y Combinator,$60M Series C in 2021,,http://vergesense.com/,60.0,M,,
+Blotout,,"Enterprise Software, Analytics, SaaS",,30,2020,Y Combinator,$3M Seed in 2021,,http://blotout.io/,3.0,M,,
+Everlaw,,"Document Management, Legal Tech",,350,2010,Andreessen Horowitz,$202M Series D in 2021,$2.0B valuation,http://www.everlaw.com/,202.0,M,2000.0,B
+Zeit Medical,,"Biotech, Healthcare, Medical Device",,5,2019,Y Combinator,$2M Seed in 2021,,http://www.zeitmedical.com/,2.0,M,,
+Drip Capital,,"FinTech, Lending",,350,2014,"Sequoia, Accel",$40M Series C in 2021,$62M valuation,http://dripcapital.com,40.0,M,62.0,M
+Truepill,,"Healthcare, Pharmaceuticals",,350,2016,Y Combinator,$142M Series D in 2021,$1.6B valuation,http://www.truepill.com/,142.0,M,1600.0,B
+Deel,,"FinTech, Human Resources, Enterprise Software",,750,2018,"Andreessen Horowitz, Y Combinator",$200M Series D in 2021,$5.5B valuation,http://www.letsdeel.com/,200.0,M,5500.0,B
+Matik,,"SaaS, Sales, Enterprise Software",,30,2019,Andreessen Horowitz,$20M Series A in 2021,,http://matik.io/,20.0,M,,
+Sprinter Health,,"Healthcare, Medical",,30,2021,"Andreessen Horowitz, Accel",$33M Series A in 2021,,http://www.sprinterhealth.com/,33.0,M,,
+All Day Kitchens,,"Food & Drinks, Delivery, Restaurants, Logistics",,75,2018,"Founders Fund, Andreessen Horowitz, Khosla Ventures",$65M Series C in 2021,,http://www.virtualkitchen.co/,65.0,M,,
+Wonolo,,", SaaS, Recruiting, ",,750,2013,Sequoia,$140M Series D in 2021,,http://www.wonolo.com,140.0,M,,
+Ripple Foods,,Food & Drinks,,75,2014,Khosla Ventures,$60M Series E in 2021,$357M valuation,http://www.ripplefoods.com,60.0,M,357.0,M
+Osaro,,"Data Science, ML, Robotics, Hardware, Artificial Intelligence",,75,2015,Founders Fund,$30M Series C in 2021,$120M valuation,http://www.osaro.com/,30.0,M,120.0,M
+Superhuman,,"Email, SaaS",,150,2015,Andreessen Horowitz,$75M Series C in 2021,$825M valuation,http://superhuman.com/,75.0,M,825.0,M
+Arevo,,"Manufacturing, Robotics, Hardware",,75,2013,Khosla Ventures,$25M Series B in 2021,,http://www.arevolabs.com,25.0,M,,
+WorkRamp,,"EdTech, Training, Enterprise Software",,150,2015,Y Combinator,$40M Series C in 2022,,http://www.workramp.com,40.0,M,,
+Elemeno Health,,"Healthcare, Medical, SaaS",,30,2016,Y Combinator,$7M Series A in 2022,,http://www.elemenohealth.com/,7.0,M,,
+Zenysis,,"Data Science, Software, Politics",,30,2015,Y Combinator,$13M Series B in 2022,,http://www.zenysis.com/,13.0,M,,
+HyperTrack,,"SaaS, Developer API",,30,2015,Founders Fund,$22M Series A in 2022,,http://hypertrack.com,22.0,M,,
+Nimble Pharmacy,,"Healthcare, Delivery",,75,2014,"Sequoia, Khosla Ventures, Y Combinator",$34M Series C in 2022,,http://www.nimblerx.com,34.0,M,,
+Notion,,"SaaS, Enterprise Software, Collaboration",,150,2013,Sequoia,$275M Series C in 2021,$10.0B valuation,http://www.notion.so/,275.0,M,10000.0,B
+Gem,,"Recruiting, Enterprise Software, SaaS",,350,2017,"Y Combinator, Accel",$37M Series C in 2021,$1.2B valuation,http://www.gem.com/,37.0,M,1200.0,B
+Forta,,"Cybersecurity, Crypto, Smart Contracts",,5,2021,"Andreessen Horowitz, Raised $23M in 2021",,$1.0B valuation,http://forta.org/,,,1000.0,B
+Loyal,,"Biotech, Pets, Healthcare",,30,2019,Khosla Ventures,$27M Series A in 2021,,http://loyalfordogs.com/,27.0,M,,
+Stardust,,"Gaming, Software, Crypto",,30,2018,Kleiner Perkins,$5M Series A in 2021,,http://www.stardust.gg/,5.0,M,,
+Beacons,,"Content Creators, Marketing",,30,2019,"Andreessen Horowitz, Y Combinator",$6M Seed in 2021,,http://beacons.ai/,6.0,M,,
+GenEdit,,"Healthcare, Biotech, Therapeutics",,30,2016,Sequoia,$26M Series A in 2021,,http://www.genedit.com/,26.0,M,,
+Persona,,"SaaS, Compliance, Fraud Detection, Enterprise Software",,150,2018,"Founders Fund, Index, Coatue, Bond",$150M Series C in 2021,$1.5B valuation,http://withpersona.com/,150.0,M,1500.0,B
+Zapier,,"SaaS, Data Integration",,750,2011,"Y Combinator, Sequoia, Bessemer, Raised $1M in 2021",,$5.0B valuation,http://zapier.com,,,5000.0,B
+Rapid Robotics,,"Robotics, Industrial Automation, Manufacturing, Hardware",,30,2019,Kleiner Perkins,$37M Series B in 2021,$192M valuation,https://www.rapidrobotics.com/,37.0,M,192.0,M
+Catch&Release,,"Image Recognition, Content, Artificial Intelligence",,75,2014,Accel,$14M Series A in 2021,,https://www.catchandrelease.com/,14.0,M,,
+Monad,,"Cybersecurity, Compliance, Developer Tools",,30,2020,Sequoia,$17M Series A in 2021,,https://www.monad.security/,17.0,M,,
+Aalto,,"Marketplace, Real Estate",,30,2018,Sequoia,$13M Series A in 2021,,https://aalto.com/,13.0,M,,
+Tabular Technologies,,"Cloud Computing, Enterprise Software",,5,2021,Andreessen Horowitz,Series A in 2021,,https://tabular.io/,,,,
+Firemaps,,Property Management,,5,2021,Andreessen Horowitz,$6M Seed in 2021,,https://www.firemaps.co/,6.0,M,,
+Robocorp,,"Cloud Infrastructure, SaaS, Open Source",,30,2019,Benchmark,$21M Series A in 2021,,https://robocorp.com/,21.0,M,,
+Dover,,"Human Resources, Recruiting, SaaS, Enterprise Software",,75,2019,"Founders Fund, Y Combinator",$20M Series A in 2021,,https://www.dover.com/,20.0,M,,
+Origin,,"Employee Benefits, Wellness, FinTech, Enterprise Software",,150,2018,Founders Fund,$56M Series B in 2021,$400M valuation,https://www.useorigin.com/,56.0,M,400.0,M
+Juno,,"Real Estate, Property Management",,30,2019,Khosla Ventures,$20M Series A in 2021,,http://juno.co/,20.0,M,,
+Hipcamp,,"Outdoor, Camping, Marketplace",,150,2013,"Benchmark, Andreessen Horowitz",$25M Series C in 2021,$300M valuation,http://hipcamp.com,25.0,M,300.0,M
+Doxel,,"Enterprise Software, Data Science, Computer Vision, Construction",,75,2016,Andreessen Horowitz,$40M Series B in 2021,,http://www.doxel.ai/,40.0,M,,
+PicsArt,,"Consumer Social, Photography, Media",,750,2011,Sequoia,$60M Series C in 2021,$1.0B valuation,http://www.picsart.com,60.0,M,1000.0,B
+SplashLearn,,EdTech,,350,2011,Accel,$18M Series C in 2021,,http://www.splashmath.com/,18.0,M,,
+Zomentum,,"Sales, SaaS, Enterprise Software",,75,2018,Accel,$4M Series A in 2021,,http://www.zomentum.com/,4.0,M,,
+unitQ,,"Analytics, Design, Enterprise Software",,30,2018,Accel,$11M Series B in 2021,,http://www.unitq.com/,11.0,M,,
+Shepherd,,", FinTech, Insurance, Construction",,5,2020,Y Combinator,$6M Seed in 2021,,http://withshepherd.com/,6.0,M,,
+Solv Health,,"Healthcare, Medical",,150,2016,Benchmark,$45M Series C in 2021,,http://www.solvhealth.com/,45.0,M,,
+Carta,,"FinTech, Equity, Enterprise Software, SaaS",,3000,2012,Andreessen Horowitz,$80M Series G in 2021,$7.4B valuation,http://carta.com/,80.0,M,7400.0,B
+Passport,,"Shipping, Logistics, E-Commerce",,75,2017,Kleiner Perkins,$15M Series A in 2021,,https://passportshipping.com/,15.0,M,,
+Moveworks,,"Cloud Computing, Artificial Intelligence",,350,2016,Kleiner Perkins,$75M Series C in 2021,$2.1B valuation,http://www.moveworks.com/,75.0,M,2100.0,B
+Bite Ninja,,"Recruiting, Software, Restaurants",,30,2020,Y Combinator,$675K Pre-Seed in 2021,,http://www.biteninja.com/,,,,
+Neuralink,,"Healthcare, Artificial Intelligence, Biotech",,150,2016,Founders Fund,$205M Series C in 2021,$500M valuation,http://neuralink.com,205.0,M,500.0,M
+MakersPlace,,"Consumer, Crypto, E-Commerce, Marketplaces",,30,2016,Bessemer,$30M Series A in 2021,,http://makersplace.com/,30.0,M,,
+Queenly,,"E-Commerce, Fashion, , Marketplaces",,5,2019,Andreessen Horowitz,$6M Seed in 2021,,http://queenly.com/,6.0,M,,
+SentiLink,,"Cybersecurity, , Enterprise Software, ",,30,2017,Andreessen Horowitz,$70M Series B in 2021,,http://www.sentilink.com,70.0,M,,
+Algolia,,"Search, Enterprise Software, Developer APIs, SaaS",,750,2012,Accel,$334M Series D in 2021,$2.2B valuation,http://www.algolia.com,334.0,M,2200.0,B
+Deserve,,"Credit Card, FinTech, Banking",,150,2012,Accel,$50M Series D in 2021,$500M valuation,http://www.selfscore.com/,50.0,M,500.0,M
+Netskope,,"Cybersecurity, Cloud Computing, Software, Enterprise Software",,3000,2012,Accel,$300M Series H in 2021,$7.5B valuation,http://www.netskope.com,300.0,M,7500.0,B
+Blameless,,"Developer Platforms, Enterprise Software",,75,2017,Accel,$36M Series B in 2021,,http://www.blameless.com/,36.0,M,,
+Slintel,,"Business Intelligence, Sales Enablement, SaaS, Enterprise Software",,150,2016,Accel,$26M Series A in 2021,,http://www.slintel.com/,26.0,M,,
+Human Interest,,"Employee Benefits, FinTech",,750,2015,Y Combinator,$200M Series D in 2021,$1.0B valuation,https://humaninterest.com/,200.0,M,1000.0,B
+Multiply Labs,,"Healthcare, Pharmaceuticals, Robotics, Hardware",,30,2016,Y Combinator,$20M Series A in 2021,,http://multiplylabs.com,20.0,M,,
+HiOperator,,"Artificial Intelligence, Customer Support",,75,2016,Y Combinator,$500K Pre-Seed in 2021,,http://hioperator.com,,,,
+Plate IQ,,"Marketing, Software, Small & Medium Businesses, Restaurants",,150,2014,Y Combinator,$160M Series B in 2021,,http://www.plateiq.com,160.0,M,,
+Lob,,"Developer APIs, SaaS",,350,2013,Y Combinator,$79M Series C in 2021,,http://lob.com,79.0,M,,
+Cofactor Genomics,,"Biotech, Healthcare, Clinical Trials, Diagnostics",,30,2008,Y Combinator,$7M Series A in 2021,,http://cofactorgenomics.com/,7.0,M,,
+SafetyWing,,"Freelancers, Insurance",,75,2017,Y Combinator,$12M Series A in 2021,,http://safetywing.com,12.0,M,,
+Checkr,,"Legal, Compliance, Enterprise Software, SaaS",,350,2014,"Y Combinator, Accel",$250M Series E in 2021,$4.6B valuation,http://www.checkr.io,250.0,M,4600.0,B
+"Bot, M.D.",,"Artificial Intelligence, Healthcare",,30,2018,Y Combinator,$5M Series A in 2021,$20M valuation,http://www.botmd.io/en/,5.0,M,20.0,M
+Prodigal,,"FinTech, Software",,30,2018,Y Combinator,$12M Series A in 2021,,http://prodigaltech.com/,12.0,M,,
+Standard AI,,", Artificial Intelligence, Hardware, Retail",,150,2017,Y Combinator,$150M Series C in 2021,$1.0B valuation,http://standard.ai,150.0,M,1000.0,B
+Phiar Technologies,,"Autonomous Vehicles, Data Science, Deep Learning, Artificial Intelligence",,30,2017,Y Combinator,$12M Series A in 2021,,http://www.phiar.net,12.0,M,,
+Roofr,,"Renovation, Construction",,30,2015,Y Combinator,$4M Seed in 2021,,http://roofr.com/,4.0,M,,
+SendBird,,"Messaging, Chat, API, SaaS, Enterprise Software",,350,2013,Y Combinator,$221M Series C in 2021,$1.0B valuation,https://sendbird.com/,221.0,M,1000.0,B
+AmpUp,,"Hardware, Software, Electric Vehicles",,30,2018,"Y Combinator, Raised $0 in 2021",,,http://ampup.io/,,,,
+Memfault,,"Electronics, Software",,30,2018,Y Combinator,$8M Series A in 2021,,http://memfault.com/,8.0,M,,
+Treasury Prime,,"FinTech, , Banking, API",,30,2017,Y Combinator,$29M Series B in 2021,,http://treasuryprime.com/,29.0,M,,
+"Warmly,",,"Feedback, SaaS, Collaboration",,30,2019,Y Combinator,$2M Seed in 2021,,http://warmly.ai/,2.0,M,,
+Forage,,"EdTech, Career Planning, Training",,350,2016,Y Combinator,$36M Series B in 2021,,http://www.insidesherpa.com/,36.0,M,,
+Outschool,,"EdTech, Marketplace, K-12",,3000,2015,Y Combinator,$320M Series C in 2021,$3.0B valuation,http://outschool.com/,320.0,M,3000.0,B
+Shogun,,"Web Development, Design, E-Commerce",,350,2015,Y Combinator,$37M Series C in 2021,$575M valuation,http://getshogun.com/,37.0,M,575.0,M
+Curtsy,,"E-Commerce, Apps, ",,75,2015,Y Combinator,$11M Series A in 2021,,http://www.curtsyapp.com/,11.0,M,,
+Landed,,"Recruiting, Video, Software",,30,2015,Y Combinator,$1M Series A in 2021,,http://www.gotlanded.com/,1.0,M,,
+CrowdAI,,"Image Recognition, Data Science, Hardware, Artificial Intelligence, Drones",,30,2016,Y Combinator,$8M Series A in 2021,,http://crowdai.com/,8.0,M,,
+LegionFarm,,"Coaching, Gaming",,75,2016,Y Combinator,$6M Series A in 2021,,http://legionfarm.com/,6.0,M,,
+Jerry,,"Auto Insurance, Artificial Intelligence",,350,2017,Y Combinator,$28M Series A in 2021,$450M valuation,http://getjerry.com/,28.0,M,450.0,M
+Gridware,,"Predictive Analytics, Energy",,30,2020,Y Combinator,$5M Seed in 2021,,https://gridware.io/,5.0,M,,
+Ditto,,"Collaboration, Design, Software",,5,2019,Y Combinator,$2M Seed in 2021,,https://www.dittowords.com/,2.0,M,,
+Holy Grail,,"Sustainability, Renewable Energies, Hardware",,30,2019,Y Combinator,$3M Seed in 2021,,http://www.holygrail.ai/,3.0,M,,
+Rootly,,"Software, Developer Tools",,5,2020,Y Combinator,$3M Seed in 2021,,http://rootly.io/,3.0,M,,
+Serverless Stack,,Developer Tools,,5,2017,Y Combinator,$1M Seed in 2021,,http://serverless-stack.com/,1.0,M,,
+Blend,,"FinTech, Mortgage, Software",,750,2012,"Founders Fund, Post-IPO",,$2.0B valuation,http://blendlabsinc.com,,,2000.0,B
+Voiceops,,"SaaS, Sales Automation",,30,2016,"Founders Fund, Y Combinator, Accel",$9M Series A in 2021,,http://www.voiceops.com,9.0,M,,
+Carrot Fertility,,"Healthcare, Fertility, Employee Benefits",,150,2016,"Founders Fund, Y Combinator",$75M Series C in 2021,,http://www.get-carrot.com/,75.0,M,,
+Collective Health,,"Healthcare, Software",,350,2013,Founders Fund,$280M Series F in 2021,$1.5B valuation,http://collectivehealth.com/,280.0,M,1500.0,B
+Virta Health,,"Healthcare, Medical",,350,2014,Founders Fund,$215M Series E in 2021,$1.1B valuation,http://virtahealth.com,215.0,M,1100.0,B
+Indee Labs,,"Biotech, Hardware",,5,2015,"Founders Fund, Y Combinator, Raised $3M in 2021",,,http://indeelabs.com,,,,
+Wild Earth,,"E-Commerce, Pet Food",,30,2004,Founders Fund,$23M Series A in 2021,,http://www.wildearthpets.com/,23.0,M,,
+Sundae,,"Marketplaces, Real Estate",,150,2018,Founders Fund,$80M Series C in 2021,,http://sundae.com/,80.0,M,,
+Turing,,"Recruiting, Freelancers, Developers",,750,2018,Founders Fund,$87M Series B in 2021,$1.1B valuation,http://turing.com/,87.0,M,1100.0,B
+Modern Health,,"Mental Healthcare, Employee Benefits",,750,2017,Founders Fund,$74M Series D in 2021,$1.2B valuation,http://www.joinmodernhealth.com/,74.0,M,1200.0,B
+Eco,,"FinTech, Crypto",,75,2018,"Founders Fund, Andreessen Horowitz",$26M Series B in 2021,,http://www.eco.com/,26.0,M,,
+Scale AI,,"Developer APIs, Artificial Intelligence, Developer Tools",,750,2016,"Founders Fund, Y Combinator, Accel",$473M Series E in 2021,$7.3B valuation,http://scale.com,473.0,M,7300.0,B
+Grabango,,"FinTech, Payments, Retail",,75,2016,Founders Fund,$39M Series B in 2021,,http://grabango.com/,39.0,M,,
+Brightwheel,,"SaaS, EdTech",,350,2014,Bessemer,$55M Series C in 2021,$600M valuation,http://www.mybrightwheel.com,55.0,M,600.0,M
+HashiCorp,,"Enterprise Software, Cloud Infrastructure",,3000,2010,"Bessemer, Post-IPO",,$4.4B valuation,http://www.hashicorp.com,,,4400.0,B
+Crosschq,,", , Artificial Intelligence, Recruiting, Enterprise Software",,75,2018,Bessemer,$30M Series A in 2021,$21M valuation,http://crosschq.com/,30.0,M,21.0,M
+LaunchDarkly,,", SaaS, Developer Tools",,350,2014,Bessemer,$200M Series D in 2021,$3.0B valuation,http://www.launchdarkly.com,200.0,M,3000.0,B
+Hinge Health,,"Healthcare, Medical",,750,2014,Bessemer,$600M Series E in 2021,$6.2B valuation,http://hingehealth.com,600.0,M,6200.0,B
+Shopmonkey,,", , SaaS, Automotive",,150,2016,Bessemer,$75M Series C in 2021,,http://www.shopmonkey.io/,75.0,M,,
+Sila Nanotechnologies,,", Manufacturing, Hardware, Nanotechnology",,350,2011,Bessemer,$590M Series F in 2021,$3.3B valuation,http://silanano.com,590.0,M,3300.0,B
+DroneDeploy,,"SaaS, , Drones",,150,2013,Bessemer,$50M Series F in 2021,,http://www.dronedeploy.com,50.0,M,,
+Shippo,,"Logistics, E-Commerce, Shipping",,350,2013,Bessemer,$45M Series D in 2021,$1.0B valuation,http://www.goshippo.com,45.0,M,1000.0,B
+MaintainX,,"Software, Manufacturing",,75,2018,Bessemer,$39M Series B in 2021,,https://www.getmaintainx.com/,39.0,M,,
+Hound Labs,,"Biotech, Cannabis Testing",,30,2014,Benchmark,$20M Series D in 2021,,http://www.houndlabs.com,20.0,M,,
+Discord,,"Consumer, Chat, Gaming, Video",,3000,2012,Benchmark,$500M Series H in 2021,$14.7B valuation,http://www.discordapp.com/,500.0,M,14700.0,B
+Good Eggs,,"Groceries, Delivery",,350,2011,Benchmark,$100M Series D in 2021,,http://www.goodeggs.com/welcome,100.0,M,,
+Manticore Games,,Gaming,,150,2016,Benchmark,$100M Series C in 2021,,http://www.manticoregames.com/,100.0,M,,
+Modern Treasury,,"FinTech, Payments",,150,2018,"Benchmark, Y Combinator",$48M Series C in 2021,$2.0B valuation,http://www.moderntreasury.com/,48.0,M,2000.0,B
+BetterWorks,,"Enterprise Software, SaaS",,150,2010,Kleiner Perkins,$65M Series B in 2021,,http://www.betterworks.com,65.0,M,,
+Kinsa,,"Healthcare, Hardware",,75,2012,Kleiner Perkins,$17M Series B in 2021,,http://www.kinsahealth.com,17.0,M,,
+InCorta,,"Analytics, Data Science, Enterprise Software",,350,2013,Kleiner Perkins,$120M Series D in 2021,,http://www.incorta.com/,120.0,M,,
+Helix,,"Healthcare, Biotech",,350,2015,Kleiner Perkins,$50M Series C in 2021,$1.0B valuation,http://www.helix.com/,50.0,M,1000.0,B
+Gusto,,", SaaS, Enterprise Software, Human Resources",,3000,2011,"Kleiner Perkins, Y Combinator",$175M Series E in 2021,$10.0B valuation,http://www.gusto.com,175.0,M,10000.0,B
+Audius,,"Crypto, Communities, Media, Music",,30,2018,Kleiner Perkins,$6M Series A in 2021,,http://audius.co,6.0,M,,
+AEye,,"Artificial Intelligence, Autonomous Vehicles, Hardware, Data Science",,150,2013,"Kleiner Perkins, Post-IPO",,$487M valuation,http://www.aeye.ai,,,487.0,M
+Brex,,"FinTech, , Credit Cards",,750,2017,"Kleiner Perkins, Y Combinator",$300M Series D in 2021,$12.3B valuation,http://brex.com,300.0,M,12300.0,B
+Comma.ai,,"Autonomous Vehicles, Hardware",,30,2018,Andreessen Horowitz,$5M Series A in 2021,,http://www.comma.ai,5.0,M,,
+Medium,,"Consumer, Media, Blogging",,3000,2012,Andreessen Horowitz,$132M Series C in 2021,,http://www.medium.com,132.0,M,,
+Illumio,,"Enterprise Software, Cybersecurity, ",,350,2013,"Andreessen Horowitz, Accel",$225M Series F in 2021,$2.8B valuation,http://www.illumio.com/,225.0,M,2800.0,B
+Descript,,"Audio Editor, SaaS",,75,2017,Andreessen Horowitz,$30M Series B in 2021,,http://www.descript.com,30.0,M,,
+Chia Network,,"FinTech, Crypto",,75,2017,Andreessen Horowitz,$70M Series D in 2021,$500M valuation,http://chia.network/,70.0,M,500.0,M
+Databricks,,"Artificial Intelligence, SaaS, Analytics, Data Science",,5000,2013,Andreessen Horowitz,$2B Series H in 2021,$38.0B valuation,http://databricks.com/,2000.0,B,38000.0,B
+Celo,,"FinTech, Crypto",,75,2017,"Andreessen Horowitz, Raised $20M in 2021",,$99M valuation,http://celo.org/,,,99.0,M
+People.ai,,"Artificial Intelligence, Enterprise Software",,350,2016,"Andreessen Horowitz, Y Combinator",$100M Series D in 2021,$1.1B valuation,http://people.ai/,100.0,M,1100.0,B
+Apollo,,", Developer Tools, Enterprise Software",,150,2016,Andreessen Horowitz,$130M Series D in 2021,$1.5B valuation,http://www.apollographql.com/,130.0,M,1500.0,B
+preset.io,,"Analytics, SaaS",,30,2019,Andreessen Horowitz,$36M Series B in 2021,,http://www.preset.io/,36.0,M,,
+Snackpass,,"Restaurants, E-Commerce",,150,2017,"Andreessen Horowitz, Y Combinator",$70M Series B in 2021,$400M valuation,http://www.snackpass.co/,70.0,M,400.0,M
+Komodo Health,,"Healthcare, Analytics",,350,2014,Andreessen Horowitz,$220M Series E in 2021,$3.0B valuation,http://www.komodohealth.com/,220.0,M,3000.0,B
+Workboard,,"Enterprise Software, SaaS",,350,2013,Andreessen Horowitz,$230M Series C in 2021,$800M valuation,http://www.workboard.com,230.0,M,800.0,M
+Alluxio,,"Software, OpenSource",,75,2015,Andreessen Horowitz,$50M Series C in 2021,,http://www.alluxio.com/,50.0,M,,
+insitro,,", Biotech, Healthcare",,150,2018,Andreessen Horowitz,$400M Series C in 2021,,http://www.insitro.com/,400.0,M,,
+Dialpad,,"SaaS, Artificial Intelligence, Call Center",,750,2014,Andreessen Horowitz,$170M Series F in 2021,$2.2B valuation,https://www.dialpad.com/,170.0,M,2200.0,B
+Honor,,"Healthcare, Elderly Care",,750,2014,Andreessen Horowitz,$70M Series E in 2021,$1.2B valuation,http://www.joinhonor.com,70.0,M,1200.0,B
+Divvy Homes,,Real Estate,,350,2017,Andreessen Horowitz,$110M Series C in 2021,$2.0B valuation,http://www.divvyhomes.com,110.0,M,2000.0,B
+AKASA,,"Healthcare, Artificial Intelligence",,150,2018,Andreessen Horowitz,$80M Series B in 2021,,https://akasa.com/,80.0,M,,
+Substack,,"Media, Publishing, Consumer",,150,2017,Andreessen Horowitz,$65M Series B in 2021,$650M valuation,http://substack.com/,65.0,M,650.0,M
+Mux,,"Video Streaming, SaaS, Analytics",,150,2015,"Andreessen Horowitz, Y Combinator, Accel",$154M Series D in 2021,$1.0B valuation,http://www.mux.com,154.0,M,1000.0,B
+Solana,,"Crypto, FinTech, Blockchain",,150,2018,Andreessen Horowitz,$314M Series A in 2021,,http://solana.com/,314.0,M,,
+Thesis,,Crypto,,30,2013,Andreessen Horowitz,$21M Series A in 2021,,http://thesis.co/,21.0,M,,
+Nobell Foods,,", Manufacturing, Food & Drinks",,30,2016,Andreessen Horowitz,$75M Series B in 2021,,https://www.nobellfoods.com/,75.0,M,,
+SingleStore,,"Enterprise Software, SaaS, Analytics",,350,2011,"Khosla Ventures, Accel",$80M Series F in 2021,$980M valuation,http://www.singlestore.com/,80.0,M,980.0,M
+Color,,"Healthcare, Biotech",,750,2015,Khosla Ventures,$100M Series E in 2021,$4.6B valuation,http://color.com,100.0,M,4600.0,B
+Cape Analytics,,"Artificial Intelligence, Real Estate, Analytics",,75,2014,Khosla Ventures,$44M Series C in 2021,,http://capeanalytics.com/,44.0,M,,
+SenseHQ,,", Recruiting, SaaS",,350,2016,"Khosla Ventures, Accel",$50M Series D in 2021,$500M valuation,https://www.sensehq.com/,50.0,M,500.0,M
+Kiddom,,"EdTech, Software",,75,2012,Khosla Ventures,$35M Series C in 2021,,http://www.kiddom.co/,35.0,M,,
+Homebase,,", Human Resources, Small & Medium Businesses, SaaS",,350,2014,Khosla Ventures,$70M Series C in 2021,,http://www.joinhomebase.com,70.0,M,,
+Bungalow,,"Consumer, Home Rental, Marketplaces",,150,2017,"Khosla Ventures, Founders Fund",$75M Series C in 2021,$600M valuation,http://bungalow.com/,75.0,M,600.0,M
+Rubrik,,", Databases, Cybersecurity, Enterprise Software",,3000,2014,Khosla Ventures,$553M Series E in 2021,$4.0B valuation,http://www.rubrik.com,553.0,M,4000.0,B
+Vectra AI,,"Cybersecurity, Artificial Intelligence",,750,2011,Khosla Ventures,$130M Series F in 2021,$1.2B valuation,http://vectra.ai/,130.0,M,1200.0,B
+Abacus.AI,,"Data Science, Artificial Intelligence, Research",,30,2019,Khosla Ventures,$50M Series C in 2021,,http://realityengines.ai/,50.0,M,,
+Inflammatix,,"Healthcare, Medical",,150,2016,Khosla Ventures,$102M Series D in 2021,,http://inflammatix.com/,102.0,M,,
+At-Bay,,"Cybersecurity, Enterprise Software",,150,2016,Khosla Ventures,$185M Series D in 2021,$1.4B valuation,http://www.at-bay.com/,185.0,M,1400.0,B
+Tempo,,"Healthcare, Fitness, , Artificial Intelligence, , Hardware",,350,2015,"Khosla Ventures, Founders Fund, Y Combinator",$220M Series C in 2021,$750M valuation,http://tempo.fit/,220.0,M,750.0,M
+Bitwise Asset Management,,Crypto,,75,2017,Khosla Ventures,$74M Series B in 2021,$500M valuation,http://www.bitwiseinvestments.com/,74.0,M,500.0,M
+Coda,,"SaaS, Collaboration, Productivity Software",,350,2014,"Khosla Ventures, Kleiner Perkins",$100M Series D in 2021,$1.4B valuation,http://coda.io/,100.0,M,1400.0,B
+Mighty Buildings,,"Hardware, 3D Tech, Construction",,150,2017,"Khosla Ventures, Y Combinator",$22M Series B in 2021,$150M valuation,http://www.mightybuildings.com/,22.0,M,150.0,M
+DevRev,,", , Development Platforms, Software",,75,2020,Khosla Ventures,$50M Seed in 2021,,http://devrev.ai/,50.0,M,,
+Gong.io,,", SaaS, Sales, Enterprise Software",,750,2015,Sequoia,$250M Series E in 2021,$7.2B valuation,http://www.gong.io/,250.0,M,7200.0,B
+Houzz,,"Home, Design",,3000,2009,Sequoia,$614M Series E in 2021,$4.0B valuation,http://www.houzz.com,614.0,M,4000.0,B
+Druva,,"Data Science, Storage, Enterprise Software, SaaS",,750,2008,Sequoia,$147M Series H in 2021,$2.0B valuation,http://www.druva.com/,147.0,M,2000.0,B
+LocoNav,,"Fleet Management, SaaS",,350,2015,Sequoia,$37M Series B in 2021,,http://www.loconav.com/,37.0,M,,
+Brii Biosciences,,"Healthcare, Biotech",,75,2018,"Sequoia, Post-IPO",,$10.0B valuation,http://www.briibio.com/,,,10000.0,B
+Reddit,,"Consumer, Social Media, Communities",,3000,2005,"Sequoia, Andreessen Horowitz",$700M Series F in 2021,$10.0B valuation,http://reddit.com,700.0,M,10000.0,B
+Pendulum Therapeutics,,"Biotech, Healthcare",,75,2014,"Sequoia, Khosla Ventures",$54M Series C in 2021,,http://www.wholebiome.com/,54.0,M,,
+Ethos Life,,"FinTech, Life Insurance",,350,2016,Sequoia,$100M Series D in 2021,$2.7B valuation,http://www.ethoslife.com/,100.0,M,2700.0,B
+Domino Data Lab,,"Artificial Intelligence, Data Science, Analytics, Enterprise Software",,350,2013,Sequoia,$100M Series F in 2021,$450M valuation,http://www.DominoDataLab.com,100.0,M,450.0,M
+mmhmm,,"Video Chat, SaaS",,75,2020,Sequoia,$100M Series B in 2021,,http://www.mmhmm.app/,100.0,M,,
+StrongDM,,"Cybersecurity, Infrastructure",,75,2012,Sequoia,$54M Series B in 2021,,http://strongdm.com,54.0,M,,
+Robinhood,,"FinTech, Trading",,3000,2013,"Sequoia, Andreessen Horowitz, Post-IPO",,$10.0B valuation,http://www.robinhood.com,,,10000.0,B
+Pilot.com,,"FinTech, , Accounting, SaaS",,350,2017,Sequoia,$60M Series C in 2021,$1.2B valuation,http://pilot.com/,60.0,M,1200.0,B
+Bigeye,,"Analytics, Data Science, Artificial Intelligence",,30,2019,Sequoia,$45M Series B in 2021,,http://www.bigeye.com/,45.0,M,,
+Releasehub,,"Developer Tools, Enterprise Software",,30,2019,"Sequoia, Y Combinator",$20M Series A in 2021,,https://releasehub.com/,20.0,M,,
+Loom,,"Collaboration, , Messaging, Video, SaaS",,350,2016,"Sequoia, Andreessen Horowitz, Kleiner Perkins",$130M Series C in 2021,$1.5B valuation,http://www.loom.com/,130.0,M,1500.0,B
+snapdocs,,"Real Estate, FinTech",,750,2012,"Sequoia, Founders Fund, Y Combinator",$150M Series D in 2021,$1.5B valuation,http://www.snapdocs.com,150.0,M,1500.0,B
+Forter,,"Cybersecurity, Retail",,350,2013,"Sequoia, Bessemer",$300M Series F in 2021,$3.0B valuation,http://www.forter.com/,300.0,M,3000.0,B
+Thumbtack,,"Home Services, Marketplaces",,3000,2008,Sequoia,$698M Series I in 2021,$3.2B valuation,https://www.thumbtack.com,698.0,M,3200.0,B
+Figma,,"Design, Collaboration, SaaS",,750,2012,"Sequoia, Andreessen Horowitz, Kleiner Perkins, Founders Fund",$200M Series E in 2021,$10.0B valuation,http://figma.com,200.0,M,10000.0,B
+StreamSets,,"Data Science, Enterprise Software",,150,2014,Accel,$68M Series C in 2020,,http://streamsets.com/,68.0,M,,
+Wakie,,"Consumer Social, Media",,30,2014,Y Combinator,$2M Seed in 2020,,http://www.wakie.com,2.0,M,,
+REVL,,"Artificial Intelligence, Motion Capture, Hardware",,30,2015,Y Combinator,$2M Series A in 2020,,https://revl.com/,2.0,M,,
+Nova Credit,,"FinTech, Credit, Data Science",,75,2015,Y Combinator,$66M Series B in 2020,,http://neednova.com/,66.0,M,,
+Aella Credit,,"FinTech, Credit",,30,2015,"Y Combinator, Raised $10M in 2020",,,http://www.aellacredit.com,,,,
+Petcube,,"Electronics, Hardware, Software, Pets",,30,2012,Y Combinator,$15M Series A in 2020,,http://www.petcube.com,15.0,M,,
+BloomTech (fka Lambda School),,EdTech,,750,2017,Y Combinator,$74M Series C in 2020,$150M valuation,https://www.bloomtech.com/,74.0,M,150.0,M
+Yoshi,,"SaaS, Transportation, ",,75,2016,Y Combinator,$23M Series B in 2020,,http://www.startyoshi.com,23.0,M,,
+Observe.AI,,"Artificial Intelligence, Sales, Enterprise Software",,350,2017,Y Combinator,$123M Series B in 2020,,http://observe.ai/,123.0,M,,
+MOMENTUS,,"Space, Hardware",,150,2017,"Y Combinator, Post-IPO",,$183M valuation,http://momentus.space/,,,183.0,M
+FidoCure,,"Healthcare, Pets",,30,2016,Y Combinator,$15M Series A in 2020,,http://www.theonehealthcompany.com/,15.0,M,,
+Meru Health,,"Mental Healthcare, Wellness, Employee Benefits",,30,2015,Y Combinator,$8M Series A in 2020,$30M valuation,http://www.meruhealth.com/,8.0,M,30.0,M
+Lets do this,,"Marketplace, Sports",,75,2017,"Y Combinator, Raised $0 in 2020",,,http://www.letsdothis.com/,,,,
+Datree,,"Enterprise Software, Developer Tools",,30,2017,Y Combinator,$11M Series A in 2020,,http://www.datree.io/,11.0,M,,
+Lilia,,"Healthcare, Fertility",,5,2019,Y Combinator,$1M Seed in 2020,,http://www.hellolilia.com/,1.0,M,,
+DeepSource,,"Code Review, Enterprise Software, ",,30,2019,Y Combinator,$3M Seed in 2020,,https://deepsource.io/,3.0,M,,
+Avo,,"Enterprise Software, SaaS, Analytics",,30,2017,Y Combinator,$3M Seed in 2020,,http://www.avo.app/,3.0,M,,
+Armory,,"Enterprise Software, Cloud Infrastructure",,150,2016,Y Combinator,$40M Series C in 2020,,http://www.armory.io/,40.0,M,,
+Nabis,,"Marketplace, Cannabis Wholesale",,75,2017,Y Combinator,$5M Series A in 2020,,http://www.nabis.com/,5.0,M,,
+Explo,,"Dashboards, Analytics, SaaS",,30,2019,Y Combinator,$2M Seed in 2020,,http://explo.co/,2.0,M,,
+Pair Team,,"Healthcare, Hospitals",,30,2019,Y Combinator,$3M Seed in 2020,,http://www.pairteam.com/,3.0,M,,
+Bunch,,"Consumer Social, Gaming, Video Chat",,30,2017,Founders Fund,$20M Series A in 2020,,http://bunch.live/,20.0,M,,
+Zinier,,", SaaS, Enterprise Software, Market Research",,150,2014,"Founders Fund, Accel",$90M Series C in 2020,$500M valuation,http://zinier.com,90.0,M,500.0,M
+Motherly,,"Communities, Content, Media",,75,2015,Founders Fund,$5M Series A in 2020,,http://www.mother.ly/,5.0,M,,
+Raise (formerly HelloOffice),,Commercial Real Estate,,75,2015,Founders Fund,$20M Series A in 2020,,http://www.hellooffice.com/,20.0,M,,
+AI Foundation,,", Artificial Intelligence, Nonprofit",,75,2017,Founders Fund,$27M Series B in 2020,,http://aifoundation.com,27.0,M,,
+Synthego,,"Hardware, Biotech",,350,2012,Founders Fund,$259M Series D in 2020,,http://Synthego.com,259.0,M,,
+Eden,,"SaaS, Real Estate, Office Administration",,75,2015,"Bessemer, Y Combinator",$25M Series B in 2020,,http://www.edentech.co/,25.0,M,,
+Okera,,Data Science,,75,2016,Bessemer,$27M Series B in 2020,,http://www.okera.com,27.0,M,,
+Netdata,,"Enterprise Software, IT Infrastructure",,75,2018,Bessemer,$14M Series A in 2020,,http://my-netdata.io/,14.0,M,,
+Earthly,,"SaaS, Small Businesses, Customer Lifecycle",,5,2020,Bessemer,$2M Seed in 2020,,http://www.earthly.dev/,2.0,M,,
+Streamloots,,"Video Streaming, Gaming, ESports",,30,2018,Bessemer,$6M Series A in 2020,,http://www.streamloots.com/,6.0,M,,
+GetAccept,,"Sales and Marketing, SaaS",,150,2015,"Bessemer, Y Combinator",$20M Series B in 2020,,http://www.getaccept.com/,20.0,M,,
+Iris Automation,,"Hardware, Artificial Intelligence, Space, Drones",,75,2015,Bessemer,$13M Series B in 2020,,http://www.irisonboard.com/,13.0,M,,
+Pachyderm,,"Enterprise Software, Data Science, ",,30,2014,"Benchmark, Y Combinator",$30M Series B in 2020,,http://www.pachyderm.com/,30.0,M,,
+Pixie,,"Artificial Intelligence, Developer Tools, Enterprise Software",,30,2018,Benchmark,$9M Series A in 2020,,http://pixielabs.ai/,9.0,M,,
+Proterra,,"Vehicles, , Sustainability",,750,2004,"Kleiner Perkins, Post-IPO",,$1.8B valuation,http://www.proterra.com,,,1800.0,B
+Coursera,,EdTech,,3000,2012,"Kleiner Perkins, Post-IPO",,$280M valuation,http://coursera.org,,,280.0,M
+Farmers Business Network,,"Data Science, Agriculture",,3000,2014,Kleiner Perkins,$250M Series F in 2020,$3.9B valuation,http://www.farmersbusinessnetwork.com/,250.0,M,3900.0,B
+Ripcord,,"Robotics, Hardware, SaaS",,150,2015,Kleiner Perkins,$45M Series B in 2020,,http://www.ripcord.com/,45.0,M,,
+Element Analytics,,"Data Science, Predictive Analytics, Industrial Automation",,75,2015,Kleiner Perkins,$18M Series B in 2020,,http://www.elementanalytics.com/,18.0,M,,
+UJET,,"Customer Service, Call Center, Enterprise Software",,150,2015,Kleiner Perkins,$55M Series C in 2020,,http://www.ujet.co/,55.0,M,,
+Zumper,,"Real Estate, Rental, Marketplace",,350,2012,Kleiner Perkins,$60M Series D in 2020,$400M valuation,http://www.zumper.com,60.0,M,400.0,M
+Veem,,"FinTech, Payments, Crypto, ",,150,2014,Kleiner Perkins,$31M Series C in 2020,,https://www.veem.com/,31.0,M,,
+Rigetti Computing,,"Hardware, Artificial intelligence",,150,2013,"Andreessen Horowitz, Bessemer",$79M Series C in 2020,,http://rigetti.com/,79.0,M,,
+Lime,,"Transportation, Ride Sharing",,3000,2017,Andreessen Horowitz,$523M Series D in 2020,,http://www.li.me/,523.0,M,,
+MakerDAO,,"Crypto, FinTech, ",,75,2014,"Andreessen Horowitz, Raised $12M in 2020",,$500M valuation,http://makerdao.com,,,500.0,M
+CodeCombat,,"Software, Gaming, EdTech",,30,2013,Andreessen Horowitz,$8M Series A in 2020,$25M valuation,http://www.codecombat.com,8.0,M,25.0,M
+Very Good Security,,"FinTech, Cybersecurity",,350,2015,Andreessen Horowitz,$60M Series C in 2020,,http://www.verygoodsecurity.com/,60.0,M,,
+Sleeper,,"Sports, Fantasy Sports, Gaming, Consumer",,30,2015,Andreessen Horowitz,$20M Series C in 2020,$400M valuation,http://sleeper.app/,20.0,M,400.0,M
+Run The World,,"Events, SaaS",,30,2019,"Andreessen Horowitz, Founders Fund",$11M Series A in 2020,,http://runtheworld.today/,11.0,M,,
+Nautilus Biotechnology,,", Biotech",,150,2016,"Andreessen Horowitz, Post-IPO",,$470M valuation,http://www.nautilus.bio/,,,470.0,M
+Drishti,,"Analytics, Artificial Intelligence, Software, ",,150,2017,Andreessen Horowitz,$25M Series B in 2020,,http://drishti.com/,25.0,M,,
+Fivetran,,"Analytics, Data Integration",,750,2012,Andreessen Horowitz,$565M Series D in 2020,$5.6B valuation,http://fivetran.com,565.0,M,5600.0,B
+Silo,,"Agriculture, Marketplace",,30,2018,Andreessen Horowitz,$12M Series A in 2020,,http://usesilo.com/,12.0,M,,
+Plaid,,"FinTech, API",,750,2012,Andreessen Horowitz,$425M Series D in 2020,$13.4B valuation,http://www.plaid.com,425.0,M,13400.0,B
+RideCell,,"Autonomous Vehicles, Fleet Management",,150,2008,Khosla Ventures,$45M Series C in 2020,$250M valuation,http://www.ridecell.com/,45.0,M,250.0,M
+Cafe X,,"Food & Drinks, Robotics, Hardware",,30,2015,Khosla Ventures,$9M Seed in 2020,$36M valuation,http://cafexapp.com,9.0,M,36.0,M
+Impossible Foods,,"Sustainability, Food & Drinks",,750,2011,Khosla Ventures,$872M Series G in 2020,$4.0B valuation,http://impossiblefoods.com,872.0,M,4000.0,B
+Modal,,"Automotive, E-Commerce",,75,2014,"Khosla Ventures, Y Combinator",$15M Series A in 2020,,http://www.drivemotors.com/,15.0,M,,
+Affirm,,"FinTech, , Lending, ",,3000,2012,"Khosla Ventures, Andreessen Horowitz, Founders Fund, Post-IPO",,$5.0B valuation,http://www.affirm.com,,,5000.0,B
+Bidgely,,"Artificial Intelligence, Energy",,150,2010,"Khosla Ventures, Raised $60M in 2020",,,http://www.bidgely.com/,,,,
+Akash Systems,,"Space, Hardware",,75,2016,"Khosla Ventures, Founders Fund",$15M Series A in 2020,,http://akashsystemsinc.com/,15.0,M,,
+Atomwise,,", Artificial Intelligence, Healthcare, Pharma",,75,2012,"Khosla Ventures, Y Combinator",$175M Series B in 2020,,http://atomwise.com,175.0,M,,
+Probably Genetic,,", Biotech, Healthcare, Medical",,5,2019,Khosla Ventures,$150K Seed in 2020,,http://www.probablygenetic.com/,,,,
+Q.bio,,", Biotech",,30,2015,"Khosla Ventures, Andreessen Horowitz, Founders Fund",$60M Series B in 2020,,http://www.q.bio/,60.0,M,,
+Karius,,"Biotech, Genetics, Healthcare",,150,2014,Khosla Ventures,$165M Series B in 2020,,http://kariusdx.com,165.0,M,,
+Yes Health,,Healthcare,,75,2014,Khosla Ventures,$6M Series A in 2020,,http://yeshealth.com,6.0,M,,
+VELO3D,,", Manufacturing, Hardware, 3D Tech",,150,2014,"Khosla Ventures, Post-IPO",,$1.4B valuation,http://www.velo3d.com/,,,1400.0,B
+HeartVista,,"Healthcare, Diagnostics",,30,2012,Khosla Ventures,$9M Series A in 2020,,http://www.heartvista.ai/,9.0,M,,
+Clear Labs,,"Biotech, Healthcare, Robotics, Hardware",,75,2014,Khosla Ventures,$58M Series C in 2020,,http://www.clearlabs.com/,58.0,M,,
+Zibo,,"Real Estate, FinTech, ",,30,2019,"Khosla Ventures, Raised $10M in 2020",,$53M valuation,http://www.zibo.co/,,,53.0,M
+Siolta Therapeutics,,", Biotech, Healthcare, Medical",,30,2016,Khosla Ventures,$30M Series B in 2020,$120M valuation,http://www.sioltatherapeutics.com/,30.0,M,120.0,M
+Siren Health,,"Healthcare, Medical Devices, Hardware",,30,2015,"Khosla Ventures, Founders Fund",$24M Series B in 2020,,http://siren.care/,24.0,M,,
+Curai Health,,", Healthcare, Artificial Intelligence, ",,75,2017,Khosla Ventures,$28M Series B in 2020,,http://curaihealth.com/,28.0,M,,
+Unity Technologies,,Gaming,,5000,2004,"Sequoia, Raised $1B in 2020",,$7.5B valuation,http://unity.com/,,,7500.0,B
+Strava,,"Consumer Social, Healthcare, Fitness",,350,2009,Sequoia,$110M Series F in 2020,$1.5B valuation,http://www.strava.com,110.0,M,1500.0,B
+Instacart,,"E-Commerce, Groceries, Delivery",,5000,2012,"Sequoia, Andreessen Horowitz, Kleiner Perkins",$2B Series H in 2020,$13.0B valuation,http://www.instacart.com,2000.0,B,13000.0,B
+Vivace Therapeutics,,", Biotech, Healthcare, Cancer",,5,2014,Sequoia,$30M Series C in 2020,,http://vivacetherapeutics.com,30.0,M,,
+TuneIn,,"Consumer Media, Music, News",,350,2002,Sequoia,$100M Series H in 2020,$500M valuation,http://tunein.com,100.0,M,500.0,M
+Pony.ai,,"Robotics, Artificial Intelligence, Autonomous Vehicles",,750,2016,Sequoia,$267M Series C in 2020,$8.5B valuation,http://www.pony.ai/,267.0,M,8500.0,B
+CleverTap,,"Enterprise Software, SaaS, Analytics, ",,350,2013,Sequoia,$35M Series C in 2020,$385M valuation,http://clevertap.com/,35.0,M,385.0,M
+Finix,,"FinTech, ",,150,2016,Sequoia,$30M Series B in 2020,,http://www.finixpayments.com/,30.0,M,,
+Empower,,"FinTech, , Banking, ",,75,2016,Sequoia,$20M Series A in 2020,,http://empower.me,20.0,M,,
+Cohesity,,"Analytics, Data Storage",,3000,2013,"Sequoia, Accel",$250M Series E in 2020,$3.7B valuation,http://www.cohesity.com,250.0,M,3700.0,B
+Confluent,,"Enterprise Software, Data Science, ",,3000,2014,"Sequoia, Benchmark, Post-IPO",,$6.0B valuation,http://confluent.io,,,6000.0,B
+Amplitude,,", SaaS, Business Intelligence, Analytics, ",,750,2012,"Sequoia, Benchmark, Post-IPO",,$2.2B valuation,http://www.amplitude.com,,,2200.0,B
+Rockset,,"Analytics, Software",,75,2016,Sequoia,$40M Series B in 2020,,http://rockset.com/,40.0,M,,
+Linear,,"Developer Tools, Software",,30,2019,Sequoia,$13M Series A in 2020,,https://linear.app/,13.0,M,,
+23andMe,,", Biotech, DNA Testing",,750,2006,"Sequoia, Post-IPO",,$1.9B valuation,http://www.23andme.com,,,1900.0,B
+Legalist,,"LegalTech, Analytics",,75,2016,"Y Combinator, Raised $120K in 2019",,,https://www.legalist.com/,,,,
+Swayable,,"Predictive Analytics, Data Science, Market Research",,30,2017,Y Combinator,$120K Seed in 2019,,http://swayable.com/,,,,
+Goodly,,"Employee Benefits, FinTech",,5,2018,Y Combinator,$1M Seed in 2019,,http://www.goodlyapp.com/,1.0,M,,
+College Pulse,,"Market Research, Surveys",,30,2016,Y Combinator,$2M Seed in 2019,,http://collegepulse.com/,2.0,M,,
+Confident Cannabis,,"SaaS, E-Commerce, Cannabis",,30,2015,Y Combinator,$12M Series A in 2019,,http://confidentcannabis.com,12.0,M,,
+Tara Intelligence,,"Enterprise Software, Product Development",,30,2014,Y Combinator,$10M Series A in 2019,$40M valuation,http://tara.ai/,10.0,M,40.0,M
+Tachyus,,"Enterprise Software, Data Science, Energy",,30,2013,Founders Fund,$15M Series B in 2019,$60M valuation,http://www.tachyus.com,15.0,M,60.0,M
+hims & hers,,"Wellness, SaaS",,350,2017,"Founders Fund, Post-IPO",,$865M valuation,http://forhims.com,,,865.0,M
+ManyChat,,"Messaging, E-Commerce, Sales",,150,2015,Bessemer,$18M Series A in 2019,,http://www.manychat.com/,18.0,M,,
+Blue Hexagon,,"Cybersecurity, Artificial Intelligence, ML",,30,2017,Benchmark,$31M Series B in 2019,,http://bluehexagon.ai/,31.0,M,,
+Terminal,,"Recruiting, Developers",,150,2017,Kleiner Perkins,$17M Series B in 2019,,http://terminal.io,17.0,M,,
+Kapwing,,"Social Media, Consumer, Marketing, Creative",,30,2017,Kleiner Perkins,$2M Series A in 2019,,http://www.kapwing.com,2.0,M,,
+Reputation.com,,"Enterprise Software, SaaS, Analytics, SEO",,750,2006,"Kleiner Perkins, Bessemer",$150M Series C in 2019,,http://www.reputation.com,150.0,M,,
+PagerDuty,,SaaS,,750,2009,"Andreessen Horowitz, Bessemer, Accel, Post-IPO",,$2.7B valuation,http://pagerduty.com,,,2700.0,B
+Branch International,,"FinTech, Apps",,150,2007,"Andreessen Horowitz, Raised $5M in 2019",,,http://www.branch.co/,,,,
+Castle,,"Cybersecurity, Fraud Detection, ",,30,2014,Khosla Ventures,$9M Series A in 2019,,http://castle.io/,9.0,M,,
+GitLab,,"SaaS, Developer Tools",,3000,2014,"Khosla Ventures, Y Combinator, Post-IPO",,$6.0B valuation,http://gitlab.com,,,6000.0,B
+Opendoor,,"Real Estate, Marketplaces",,3000,2014,"Khosla Ventures, Andreessen Horowitz, Post-IPO",,$1.0B valuation,http://www.opendoor.com,,,1000.0,B
+Neurotrack,,", , Healthcare, Biotech",,30,2012,"Khosla Ventures, Founders Fund",$21M Series C in 2019,$86M valuation,http://www.neurotrack.com,21.0,M,86.0,M
+Sumo Logic,,"Enterprise Software, SaaS, Analytics",,750,2010,"Sequoia, Post-IPO",,$1.3B valuation,http://www.sumologic.com/free,,,1300.0,B
+Orchid Labs,,Cybersecurity,,150,2017,"Sequoia, Andreessen Horowitz, Raised $12M in 2019",,,https://www.orchid.com/,,,,
+BridgeBio,,", Biotech, Life Sciences",,350,2014,"Sequoia, Post-IPO",,$1.1B valuation,http://bridgebio.com/,,,1100.0,B
+DoorDash,,"Food & Drinks, Delivery",,5000,2013,"Sequoia, Khosla Ventures, Kleiner Perkins, Y Combinator, Post-IPO",,$20.0B valuation,http://www.doordash.com,,,20000.0,B
+Cobalt Robotics,,"Cybersecurity, Hardware, Robotics",,75,2016,"Sequoia, Founders Fund",$35M Series B in 2019,,http://www.CobaltRobotics.com,35.0,M,,
+Carbon,,"3DTech, Manufacturing",,350,2013,Sequoia,$260M Series E in 2019,$2.5B valuation,http://carbon3d.com,260.0,M,2500.0,B
+Freshworks,,"SaaS, Enterprise Software",,3000,2010,"Sequoia, Post-IPO",,$3.5B valuation,http://www.freshworks.com/,,,3500.0,B
+Dolls Kill,,"E-Commerce, Fashion",,350,2012,Sequoia,$56M Series B in 2019,$440M valuation,http://www.dollskill.com/,56.0,M,440.0,M
+YapStone,,"FinTech, Payments, ",,350,1999,Accel,$184M Series C in 2018,$471M valuation,http://www.yapstone.com,184.0,M,471.0,M
+CrowdStrike,,"Crowdsourcing, Cybersecurity, SaaS, Enterprise Software",,3000,2011,"Accel, Post-IPO",,$29.0B valuation,http://www.crowdstrike.com,,,29000.0,B
+Oasis Labs,,"Crypto, Cloud Computing, Privacy, Blockchain",,30,2018,Accel,$45M Series A in 2018,,http://www.oasislabs.com/,45.0,M,,
+Narvar,,"E-Commerce, SaaS, Logistics, Shipping",,350,2012,Accel,$30M Series C in 2018,$315M valuation,http://www.narvar.com,30.0,M,315.0,M
+NuCypher,,", Cloud Computing, Cybersecurity, Enterprise Software",,30,2015,"Y Combinator, Raised $11M in 2018",,$317M valuation,http://www.nucypher.com/,,,317.0,M
+Robby Technologies,,"Robotics, Hardware, Delivery",,5,2015,Y Combinator,$6M Seed in 2018,,http://robby.io,6.0,M,,
+RankScience,,"Testing, Marketing, SEO, Enterprise Software",,5,2002,Y Combinator,$2M Seed in 2018,,http://www.rankscience.com,2.0,M,,
+Templarbit,,"Enterprise Software, Cybersecurity, ",,5,2017,Y Combinator,$3M Seed in 2018,,http://www.templarbit.com,3.0,M,,
+YouTeam,,"Marketplaces, Recruiting, Freelancers, Professional Services",,30,2016,Y Combinator,$345K Seed in 2018,,http://youteam.io/,,,,
+SpotAngels,,"Consumer, Vehicles, Parking",,30,2014,"Y Combinator, Raised $4M in 2018",,,http://www.spotangels.com/,,,,
+Supermedium,,"Web Browsers, Virtual Reality",,5,2017,Y Combinator,$1M Seed in 2018,,http://www.supermedium.com/,1.0,M,,
+SFOX,,"FinTech, Trading, Cryptocurrency",,30,2014,Y Combinator,$23M Series A in 2018,,http://www.sfox.com/,23.0,M,,
+Paladin Cyber,,"Cybersecurity, ",,30,2017,Y Combinator,$4M Seed in 2018,,http://www.meetpaladin.com/,4.0,M,,
+Wallarm,,"Cybersecurity, Enterprise Software",,75,2013,Y Combinator,$11M Series A in 2018,,http://wallarm.com/,11.0,M,,
+Bolt Threads,,"Hardware, Biotech",,150,2009,Founders Fund,$123M Series D in 2018,,http://www.boltthreads.com/,123.0,M,,
+UNITY Biotechnology,,", Biotech, Healthcare, Anti-aging",,75,2009,"Founders Fund, Post-IPO",,$55M valuation,http://unitybiotechnology.com/,,,55.0,M
+Naked Labs,,"Healthcare, Fitness, 3DTech",,30,2014,Founders Fund,$14M Series A in 2018,,https://nakedlabs.com/,14.0,M,,
+Asana,,", SaaS, Collaboration, Enterprise Software",,3000,2009,"Founders Fund, Post-IPO",,$3.3B valuation,http://www.asana.com,,,3300.0,B
+Smule,,"Consumer Social, Music, Apps",,350,2008,Bessemer,$188M Series H in 2018,$604M valuation,http://smule.com,188.0,M,604.0,M
+Rainforest QA,,"SaaS, Developer Tools, Testing, Enterprise Software",,150,2012,Bessemer,$41M Series B in 2018,,http://www.rainforestqa.com,41.0,M,,
+ScyllaDB,,"Enterprise Software, Databases",,150,2013,Bessemer,$26M Series C in 2018,,http://www.scylladb.com,26.0,M,,
+SoundHound,,"Artificial Intelligence, Speech Recognition, NLP",,350,2005,"Kleiner Perkins, Post-IPO",,$605M valuation,http://soundhound.com,,,605.0,M
+Intercom,,"SaaS, Messaging, Customer Service, Sales",,3000,2011,"Kleiner Perkins, Bessemer",$241M Series D in 2018,$1.2B valuation,http://www.intercom.io,241.0,M,1200.0,B
+YourMechanic,,"Marketplace, Auto Repair",,150,2011,Andreessen Horowitz,$36M Series B in 2018,,http://www.yourmechanic.com,36.0,M,,
+Samsara,,"SaaS, Sensors",,3000,2015,"Andreessen Horowitz, Post-IPO",,$5.0B valuation,http://www.samsara.com,,,5000.0,B
+Shift,,"Recruiting, EdTech, Training",,30,2016,Andreessen Horowitz,$4M Seed in 2018,,http://www.shift.org/,4.0,M,,
+Coinbase,,"FinTech, Trading, Crypto",,3000,2012,"Andreessen Horowitz, Y Combinator, Post-IPO",,$13.0B valuation,http://www.coinbase.com,,,13000.0,B
+Earnin,,"Employee Benefits, FinTech",,350,2012,Andreessen Horowitz,$190M Series C in 2018,$800M valuation,http://www.earnin.com/,190.0,M,800.0,M
+indeni,,"Enterprise Software, IT",,30,2009,Sequoia,$14M Series A in 2018,,http://www.indeni.com/,14.0,M,,
+Uber,,"Delivery, Apps, Ride Sharing",,5000,2009,"Sequoia, Post-IPO",,$48.0B valuation,http://www.uber.com,,,48000.0,B
+Quince Therapeutics,,"Alzheimers, Healthcare",,75,2012,"Sequoia, Post-IPO",,$130M valuation,http://www.cortexyme.com,,,130.0,M
+Amino,,"Healthcare, Employee Benefits",,30,2013,Accel,$44M Series C in 2017,,http://amino.com,44.0,M,,
+Atomist,,"Web Development, Developer Tools, Cybersecurity",,30,2015,Accel,$22M Series A in 2017,,http://www.atomist.com/,22.0,M,,
+Science Exchange,,"Marketplaces, R&D Outsourcing, Consulting",,75,2011,Y Combinator,$58M Series C in 2017,,http://www.scienceexchange.com,58.0,M,,
+Sourceress,,"Recruiting, Artificial Intelligence",,5,2016,Y Combinator,$4M Seed in 2017,,https://www.sourceress.com/,4.0,M,,
+Thematic,,"Customer Feedback, Analytics, SaaS, Enterprise Software",,30,2014,Y Combinator,$1M Seed in 2017,,http://www.getthematic.com/,1.0,M,,
+HOOKED,,"Consumer, Social Media, Apps",,30,2014,Founders Fund,$5M Series A in 2017,$15M valuation,http://bit.ly/hookedonreading,5.0,M,15.0,M
+Adentro (formerly Zenreach),,"Marketing Automation, CRM, Email Marketing",,75,2013,Founders Fund,$60M Series C in 2017,,https://adentro.com/,60.0,M,,
+Bastille,,"Cybersecurity, , , ",,75,2014,Bessemer,$27M Series B in 2017,,https://www.bastille.net/,27.0,M,,
+Nuna,,Healthcare,,150,2010,Kleiner Perkins,$90M Series B in 2017,,http://www.nuna.com/,90.0,M,,
+Health IQ,,Healthcare,,350,2014,Andreessen Horowitz,$35M Series C in 2017,,http://www.healthiq.com,35.0,M,,
+AirHelp,,"Travel, Legal",,350,2013,"Khosla Ventures, Raised $12M in 2017",,,http://www.getairhelp.com,,,,
+Upstart,,"FinTech, Lending",,3000,2012,"Khosla Ventures, Post-IPO",,$1.6B valuation,http://upstart.com,,,1600.0,B
+Creator,,"Hardware, Robotics, Restaurants",,75,2010,"Khosla Ventures, Raised $18M in 2017",,,http://momentummachines.com,,,,
+Gobble,,"Food & Drinks, Delivery",,75,2010,"Khosla Ventures, Andreessen Horowitz",$27M Series B in 2017,,http://gobble.com/,27.0,M,,
+Catalia Health,,"Artificial Intelligence, Healthcare, Robotics, Hardware",,30,2014,"Khosla Ventures, Raised $5M in 2017",,,http://cataliahealth.com,,,,
+Luka,,"Consumer, Artificial Intelligence",,30,2013,"Khosla Ventures, Y Combinator",$6M Series A in 2017,,http://replika.ai/,6.0,M,,
+Zoom,,"Enterprise Software, SaaS, Collaboration, Meeting Software",,5000,2011,"Sequoia, Post-IPO",,$23.0B valuation,http://zoom.us,,,23000.0,B
+Guardant Health,,"Biotech, Healthcare",,3000,2012,"Sequoia, Khosla Ventures, Post-IPO",,$5.0B valuation,http://www.guardanthealth.com,,,5000.0,B
+Filecoin,,", Cyptocurrency, ",,30,2014,"Sequoia, Andreessen Horowitz, Raised $257M in 2017",,,http://filecoin.io/,,,,
+Acalvio Technologies,,"Cybersecurity, Data Science, Machine Learning, Artificial Intelligence",,75,2015,"Accel, Raised $17M in 2016",,,http://www.acalvio.com,,,,
+LeadGenius,,"Enterprise Software, Sales and Marketing, Sales Automation",,30,2011,Y Combinator,$20M Series B in 2016,,http://www.leadgenius.com,20.0,M,,
+Vote.org,,"Nonprofit, Politics",,30,2016,Y Combinator,$120K Seed in 2016,,http://www.vote.org/,,,,
+Suiteness,,"Travel, Luxury",,5,2014,Y Combinator,$6M Series A in 2016,,http://www.suiteness.com,6.0,M,,
+Luminostics,,"Mobile Healthcare, Healthcare, Medical Devices, Diagnostics",,75,2014,"Y Combinator, Raised $120K in 2016",,,http://www.luminostics.com/,,,,
+ApolloShield,,"Drones, Cybersecurity, Hardware",,5,2015,"Y Combinator, Raised $0 in 2016",,,http://ApolloShield.com,,,,
+Indiegogo,,Crowdfunding,,150,2008,Kleiner Perkins,$74M Series C in 2016,,http://www.indiegogo.com,74.0,M,,
+Fond,,"SaaS, Employee Benefits, Loyalty Programs",,150,2013,Andreessen Horowitz,$26M Series A in 2016,,http://www.anyperk.com/,26.0,M,,
+Quartzy,,Enterprise Software,,75,2009,"Khosla Ventures, Y Combinator",$22M Series B in 2016,,http://www.quartzy.com,22.0,M,,
+Kumu Networks,,"Mobile, Wireless, ",,30,2011,Khosla Ventures,$45M Series C in 2016,,http://www.kumunetworks.com/,45.0,M,,
+Pique Tea,,"E-Commerce, Food & Drinks",,30,2014,Khosla Ventures,Seed in 2016,,http://bit.ly/3-piquetea,,,,
+Grokker,,"Healthcare, Fitness, Employee Benefits",,30,2012,Khosla Ventures,$7M Series B in 2016,,http://www.grokker.com,7.0,M,,
+data.ai,,"Mobile Analytics, SaaS, Enterprise Software",,750,2010,Sequoia,$157M Series E in 2016,$450M valuation,https://www.data.ai/en/,157.0,M,450.0,M
+The One Music Group,,Music,,30,2013,Sequoia,$10M Series B in 2016,,http://www.smartpiano.com/,10.0,M,,
+Clover Health,,"Healthcare, Insurance",,750,2014,"Sequoia, Post-IPO",,$1.0B valuation,http://www.cloverhealth.com/,,,1000.0,B
+Thanx,,", E-Commerce, Loyalty Programs",,30,2012,Sequoia,$23M Series B in 2016,,http://www.thanx.com,23.0,M,,
