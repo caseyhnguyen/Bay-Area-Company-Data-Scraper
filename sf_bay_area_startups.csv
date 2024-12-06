@@ -1,0 +1,545 @@
+name,description,industries,location,company_size,founded_year,investors,latest_funding,valuation,website
+Kong,,"Enterprise Software, SaaS",,201-500 employees,2017,Andreessen Horowitz,$175M Series E in 2024,$2.0B valuation,https://konghq.com/
+Cresta,,", Artificial Intelligence, Sales, Enterprise Software",,201-500 employees,2017,"Sequoia, Andreessen Horowitz",$125M Series D in 2024,,http://cresta.com/
+Infinitus,,"Health, Artificial Intelligence",,101-200 employees,2019,"Andreessen Horowitz, Kleiner Perkins",$51M Series C in 2024,,https://www.infinitus.ai/
+Nooks,,"Artificial Intelligence, Sales",,51-100 employees,2020,Kleiner Perkins,$43M Series B in 2024,,https://www.nooks.ai/
+Decagon,,"Artificial Intelligence, Enterprise Software",,11-50 employees,2023,"Andreessen Horowitz, Accel",$65M Series B in 2024,,https://decagon.ai/
+Numeric,,"Enterprise Software, FinTech, Accounting",,11-50 employees,2021,"Founders Fund, Menlo VC, IVP",$28M Series A in 2024,,https://www.numeric.io/
+Fay,,"Enterprise Software, Consumer, E-Commerce, Healthcare",,11-50 employees,2022,"General Catalyst, Forerunner",$26M Series A in 2023,,https://www.faynutrition.com/
+World Labs,,Artificial Intelligence,,11-50 employees,2023,Andreessen Horowitz,$230M Series A in 2024,$1.0B valuation,https://www.worldlabs.ai/
+Safe Superintelligence,,Artificial Intelligence,,1-10 employees,2024,"Sequoia, Andreessen Horowitz",$1B Series A in 2024,,https://ssi.inc/
+Harmonic,,Artificial Intelligence,,11-50 employees,2023,Sequoia,$75M Series A in 2024,,https://harmonic.fun/index/
+Atlys,,"Immigration, Travel",,11-50 employees,2020,"Andreessen Horowitz, Sequoia, Accel",$20M Series B in 2024,,https://www.atlys.com/
+Cortex,,"Enterprise Software, Developer Tools",,101-200 employees,2019,Sequoia,$60M Series C in 2024,,https://www.cortex.io/
+Glean,,"Enterprise Software, SaaS, Artificial Intelligence",,201-500 employees,2019,"Sequoia, Kleiner Perkins",$260M Series E in 2024,$4.6B valuation,https://www.glean.com/
+Codeium,,"Artificial Intelligence, SaaS",,101-200 employees,2021,Kleiner Perkins,$150M Series C in 2024,$1.2B valuation,https://codeium.com/
+Allium,,"Artificial Intelligence, Crypto",,1-10 employees,2021,Kleiner Perkins,$21M Series A in 2024,,https://www.allium.so/
+Ema,,"Artificial Intelligence, Enterprise Software",,51-100 employees,2023,Accel,$50M Series A in 2024,,https://www.ema.co/
+Harvey,,"Artificial Intelligence, Legal",,51-100 employees,2021,"Sequoia, Kleiner Perkins",$100M Series C in 2024,$1.5B valuation,https://www.harvey.ai/
+Astranis,,"Space, Hardware",,201-500 employees,2015,"Andreessen Horowitz, Y Combinator",$200M Series D in 2024,$1.4B valuation,http://www.astranis.com/
+Vanta,,", , Cybersecurity, Software",,201-500 employees,2017,"Sequoia, Y Combinator",$150M Series C in 2024,$2.5B valuation,http://www.vanta.com/
+Caldera,,Crypto,,11-50 employees,2022,"Sequoia, Founders Fund",$15M Series A in 2024,,https://www.caldera.xyz/
+xAI,,Artificial Intelligence,,101-200 employees,2023,"Sequoia, Andreessen Horowitz",$6B Series B in 2024,$24.0B valuation,https://x.ai/
+Alkira,,Cybersecurity,,51-100 employees,2018,Sequoia,$54M Series C in 2024,,http://www.alkira.com/
+Together,,Artificial Intelligence,,51-100 employees,2022,Kleiner Perkins,$106M Series A in 2024,$1.2B valuation,https://www.together.ai/
+HeyGen,,Artificial Intelligence,,11-50 employees,2020,Benchmark,$60M Series B in 2024,,https://www.heygen.com/
+Fireworks AI,,Artificial Intelligence,,11-50 employees,2022,Benchmark,$25M Series A in 2024,,https://fireworks.ai/
+Pomelo,,"FinTech, Consumer",,11-50 employees,2020,Founders Fund,$40M Series B in 2024,,https://www.pomelo.com/
+Cognition,,"Artificial Intelligence, Developer Tools",,11-50 employees,2023,Founders Fund,$21M Series A in 2024,,https://www.cognition-labs.com/
+Rippling,,"Enterprise Software, SaaS, Human Resources, ",,1001-5000 employees,2016,"Kleiner Perkins, Founders Fund, Y Combinator, Sequoia",$200M Series F in 2024,$13.5B valuation,http://www.rippling.com/
+Varda,,", Manufacturing, Space",,11-50 employees,2020,"Khosla Ventures, Founders Fund",$90M Series B in 2024,,http://varda.com/
+Vocode,,"Artificial Intelligence, SaaS",,1-10 employees,2023,"Accel, Y Combinator",$3M Seed in 2024,,https://www.vocode.dev/
+Ambience,,"Artificial Intelligence, Healthcare",,11-50 employees,2020,Kleiner Perkins,$70M Series B in 2024,,https://www.ambiencehealthcare.com/
+LangChain,,"Artificial Intelligence, Developer Tools",,11-50 employees,2022,"Sequoia, Benchmark",$25M Series A in 2024,$200M valuation,https://www.langchain.com/
+Watershed,,"Sustainability, Enterprise Software",,101-200 employees,2019,"Sequoia, Kleiner Perkins",$100M Series C in 2024,$1.8B valuation,https://watershedclimate.com
+Instawork,,"Recruiting, Artificial Intelligence",,201-500 employees,2015,"Benchmark, Y Combinator",$60M Series D in 2024,$760M valuation,http://www.instawork.com
+BioAge Labs,,Biotech,,51-100 employees,2015,Andreessen Horowitz,$170M Series D in 2024,,http://bioagelabs.com/
+Freenome,,"Personal Healthcare, Biotech",,201-500 employees,2014,"Andreessen Horowitz, Founders Fund",$254M Series E in 2024,$2.6B valuation,http://www.freenome.com
+Zum,,"Transportation, Ride Sharing, Child Care",,101-200 employees,2017,Sequoia,$140M Series E in 2024,$1.3B valuation,http://ridezum.com
+Forward,,"Healthcare, SaaS",,201-500 employees,2016,"Khosla Ventures, Founders Fund",$100M Series E in 2023,,http://goforward.com
+Pika,,"Artificial Intelligence, Consumer",,1-10 employees,2023,Lightspeed,$35M Series A in 2023,$200M valuation,https://pika.art/
+Air Space Intelligence,,"Artificial Intelligence, Space, Defense",,51-100 employees,2018,Andreessen Horowitz,$34M Series B in 2023,$300M valuation,https://www.airspace-intelligence.com/
+Squint,,"Artificial Intelligence, Augmented Reality, Enterprise Software",,11-50 employees,2021,Sequoia,$13M Series A in 2023,,https://www.squint.ai/
+Instabase,,Software,,201-500 employees,2015,Andreessen Horowitz,$45M Series C in 2023,$2.0B valuation,http://instabase.com
+OpenAI,,"Artificial Intelligence, SaaS, Consumer",,501-1000 employees,2015,"Y Combinator, Raised $300M in 2023",,$29.0B valuation,http://www.openai.com/blog/
+Replit,,"SaaS, Developer Tools, EdTech",,11-50 employees,2016,"Y Combinator, Andreessen Horowitz",$97M Series B in 2023,$1.2B valuation,http://repl.it/
+Semgrep,,"Cybersecurity, SaaS",,101-200 employees,2017,Sequoia,$53M Series C in 2023,,https://semgrep.dev/
+Memora Health,,"Healthcare, Artificial Intelligence",,101-200 employees,2017,Andreessen Horowitz,$30M Series B in 2023,,https://www.memorahealth.com/
+Mojo Vision,,"Consumer Electronics, Wearables, AR, Hardware",,101-200 employees,2015,Khosla Ventures,$22M Series C in 2023,,http://mojo.vision
+dashbot.io,,"Analytics, Messaging, Chat, SaaS",,11-50 employees,2016,Bessemer,$6M Series A in 2023,,http://www.dashbot.io/
+Graphiant,,Networking,,51-100 employees,2020,Sequoia,$62M Series B in 2023,,http://www.graphiant.com/
+Stripe,,"FinTech, Payments, SaaS",,5000+ employees,2010,"Sequoia, Andreessen Horowitz",$6B Series I in 2023,$50.0B valuation,https://stripe.com/
+Shef,,"Marketplaces, Food & Drinks",,101-200 employees,2019,"Y Combinator, Andreessen Horowitz",$66M Series B in 2023,,http://shef.com/
+Skydio,,"Space, Drones, Hardware",,201-500 employees,2014,"Andreessen Horowitz, Accel",$230M Series E in 2023,$2.2B valuation,http://www.skydio.com/
+Light Field Lab,,"Entertainment, Hardware, Software",,11-50 employees,2017,Khosla Ventures,$50M Series B in 2023,,http://lightfieldlab.com
+MindsDB,,"Artificial Intelligence, Data Science",,11-50 employees,2017,Benchmark,$16M Series A in 2023,,https://mindsdb.com/
+IgGenix,,", Biotech",,11-50 employees,2019,Khosla Ventures,$40M Series B in 2023,,http://iggenix.com/
+Forward Networks,,"Networking, Enterprise Software, Hardware",,51-100 employees,2013,Andreessen Horowitz,$50M Series D in 2023,,http://forwardnetworks.com
+Mad Street Den,,", Artificial Intelligence, Computer Vision",,201-500 employees,2013,Sequoia,$30M Series C in 2023,,http://www.madstreetden.com
+Fathom,,"Artificial Intelligence, Healthcare",,11-50 employees,2017,Founders Fund,$46M Series B in 2022,,https://fathomhealth.com
+Atmos,,"Construction, Real Estate, Marketplaces",,11-50 employees,2019,Khosla Ventures,$12M Series A in 2022,,https://www.buildatmos.com/
+TripActions,,"Business Travel, Enterprise Software",,1001-5000 employees,2015,Andreessen Horowitz,$145M Series G in 2022,$9.2B valuation,http://tripactions.com/
+Golden,,"Artificial Intelligence, EdTech",,11-50 employees,2017,"Andreessen Horowitz, Founders Fund",$40M Series B in 2022,,http://golden.com/
+Workstream,,", SaaS, Recruiting",,201-500 employees,2017,Founders Fund,$60M Series B in 2022,$500M valuation,http://www.workstream.us/
+Kumo,,"SaaS, Artificial Intelligence, Enterprise Software",,11-50 employees,2021,Sequoia,$18M Series B in 2022,,https://kumo.ai/
+Verkada,,"Cybersecurity, Hardware",,1001-5000 employees,2016,Sequoia,$205M Series D in 2022,$3.2B valuation,http://www.verkada.com/
+Patch,,"Sustainability, Renewable Energies, Enterprise Software",,51-100 employees,2020,Andreessen Horowitz,$55M Series B in 2022,,http://www.patch.io/
+Isovalent,,", SaaS, Cybersecurity, , , ",,51-100 employees,2017,Andreessen Horowitz,$40M Series B in 2022,,http://isovalent.com/
+Incredible Health,,"Recruiting, Nurses",,101-200 employees,2017,Andreessen Horowitz,$80M Series B in 2022,,http://www.incrediblehq.com
+AliveCor,,"Healthcare, Hardware, Medical Devices",,101-200 employees,2010,Khosla Ventures,$128M Series F in 2022,,http://alivecor.com
+Truework,,", Human Resources, SaaS",,101-200 employees,2017,"Sequoia, Khosla Ventures",$50M Series C in 2022,,http://www.truework.com
+Aisera,,", , Artificial Intelligence, Sales Automation",,101-200 employees,2017,Khosla Ventures,$90M Series D in 2022,,http://aisera.com/
+Sprig,,"Analytics, Survey Tools, SaaS",,101-200 employees,2018,"Andreessen Horowitz, Accel",$30M Series B in 2022,,https://sprig.com/
+Retool,,", SaaS, Developer Tools, Enterprise Software",,201-500 employees,2017,"Sequoia, Y Combinator",$45M Series C in 2022,$3.2B valuation,http://retool.com/
+Tecton.AI,,"Enterprise Software, ML Infrastructure, Artificial Intelligence",,51-100 employees,2019,"Sequoia, Andreessen Horowitz, Kleiner Perkins",$100M Series C in 2022,,http://www.tecton.ai
+Front App,,", SaaS, Collaboration, Email, ",,201-500 employees,2013,Sequoia,$65M Series D in 2022,$1.7B valuation,http://www.frontapp.com
+Pave,,"Human Resources, Compensation, Enterprise Software",,101-200 employees,2019,"Andreessen Horowitz, Bessemer, Y Combinator",$100M Series C in 2022,$1.6B valuation,http://pave.com
+Courier,,"App Development, Developer APIs, SaaS",,101-200 employees,2019,"Bessemer, Y Combinator",$35M Series B in 2022,,http://www.courier.com/
+Fountain,,"SaaS, Recruiting, Enterprise Software",,101-200 employees,2012,Y Combinator,$100M Series C in 2022,$1.0B valuation,https://www.fountain.com/
+Middesk,,"SaaS, Enterprise Software",,51-100 employees,2018,"Sequoia, Accel, Y Combinator",$57M Series B in 2022,,https://www.middesk.com/
+Cambly,,"EdTech, Video Chat, Tutoring",,1001-5000 employees,2012,"Benchmark, Y Combinator, Bessemer",$60M Series C in 2022,$250M valuation,http://cambly.com
+Metawave,,"Electronics, Wireless, Communications",,11-50 employees,2017,Khosla Ventures,$26M Series A in 2022,,http://www.metawave.co
+Belong,,"Consumer, Real Estate",,101-200 employees,2019,Andreessen Horowitz,$80M Series C in 2022,,https://belonghome.com/
+SpotOn,,"FinTech, Payments, Point of Sale",,1001-5000 employees,2017,Andreessen Horowitz,$300M Series F in 2022,$3.6B valuation,http://www.spoton.com/
+Mirvie,,"Biotech, Healthcare",,11-50 employees,2018,Khosla Ventures,$45M Series B in 2022,$155M valuation,https://www.mirvie.com/
+Vivun,,"Sales and Marketing, Enterprise Software",,101-200 employees,2018,Accel,$75M Series C in 2022,,http://www.vivun.com/
+Instabug,,"Enterprise Software, SaaS, Developer Tools",,101-200 employees,2013,Accel,$46M Series B in 2022,,http://www.instabug.com
+Imply,,"Enterprise Software, Analytics, Data Science",,201-500 employees,2015,"Khosla Ventures, Andreessen Horowitz, Bessemer",$100M Series D in 2022,$1.1B valuation,http://imply.io/
+Faire,,"E-Commerce, , Marketplaces, Retail",,501-1000 employees,2017,"Sequoia, Khosla Ventures, Founders Fund, Y Combinator",$416M Series G in 2022,$12.6B valuation,https://faire.com/
+Sentry,,"Enterprise Software, SaaS, Analytics",,201-500 employees,2012,Accel,$90M Series E in 2022,$3.0B valuation,http://getsentry.com
+Primer,,"SaaS, EdTech",,11-50 employees,2019,"Founders Fund, Khosla Ventures",$15M Series A in 2022,,https://primer.com/
+Doppler,,"SaaS, Developer Tools, Enterprise Software",,11-50 employees,2018,"Sequoia, Kleiner Perkins, Y Combinator",$20M Series A in 2022,,https://www.doppler.com/
+Mutiny,,"SaaS, Marketing, Sales",,11-50 employees,2018,"Sequoia, Y Combinator",$50M Series B in 2022,$600M valuation,http://www.mutinyhq.com/
+Playbook,,"SaaS, Collaboration, Productivity Software",,11-50 employees,2020,Founders Fund,$18M Series A in 2022,,http://www.playbook.com/
+Valar Labs,,"Healthcare, Medical",,1-10 employees,2021,Andreessen Horowitz,$4M Seed in 2022,,https://www.valarlabs.com/
+Newfront,,"FinTech, Insurance",,501-1000 employees,2017,"Founders Fund, Y Combinator",$200M Series D in 2022,$2.2B valuation,https://www.newfront.com/
+Built Robotics,,"Robotics, Hardware, Artificial Intelligence, Construction",,11-50 employees,2016,Founders Fund,$64M Series C in 2022,,http://www.builtrobotics.com/
+Viz,,", Artificial Intelligence, Healthcare",,201-500 employees,2016,Kleiner Perkins,$100M Series D in 2022,$1.2B valuation,https://www.viz.ai/
+Lilt,,"Artificial Intelligence, Enterprise Software",,201-500 employees,2015,Sequoia,$55M Series C in 2022,$110M valuation,http://www.lilt.com
+Skiff,,"SaaS, Collaboration",,11-50 employees,2020,Sequoia,$10M Series A in 2022,,https://skiff.org/
+HackerRank,,", SaaS, Recruiting, ",,1001-5000 employees,2012,Khosla Ventures,$60M Series D in 2022,$500M valuation,http://www.hackerrank.com
+RapidAPI,,Developer API,,101-200 employees,2014,Andreessen Horowitz,$150M Series D in 2022,$1.0B valuation,http://www.rapidapi.com
+Deepcell,,"Healthcare, Biotech, Artificial Intelligence",,51-100 employees,2017,Andreessen Horowitz,$73M Series B in 2022,,http://www.deepcellbio.com/
+Webflow,,"Consumer, Web Development, SaaS",,501-1000 employees,2012,"Accel, Y Combinator",$120M Series C in 2022,$4.0B valuation,http://webflow.com
+SmithRx,,Healthcare,,51-100 employees,2016,Founders Fund,$20M Series B in 2022,$100M valuation,http://smithrx.com
+Roofstock,,"Real Estate, Marketplaces, Rental, FinTech",,201-500 employees,2015,Khosla Ventures,$240M Series E in 2022,$1.9B valuation,http://www.roofstock.com/
+Disco,,"E-Commerce, Sales",,11-50 employees,2020,"Bessemer, Shopify",$20M Series A in 2022,,https://www.disconetwork.com/
+Apollo.io,,"Lead Generation, Sales Automation, Enterprise Software",,101-200 employees,2015,"Y Combinator, Sequoia",$110M Series C in 2022,$900M valuation,https://www.apollo.io/
+BillionToOne,,"Healthcare, Medical, Biotech",,201-500 employees,2016,Y Combinator,$125M Series C in 2022,,http://www.billiontoone.com/
+Qventus,,"Predictive Analytics, Healthcare",,101-200 employees,2012,"Bessemer, Y Combinator",$50M Series B in 2022,,http://www.qventus.com/
+Promise,,"FinTech, Government, Payments, ",,51-100 employees,2017,Y Combinator,$25M Series B in 2022,,http://joinpromise.com/
+AnyRoad,,"Enterprise Software, SaaS, Marketing",,101-200 employees,2014,Andreessen Horowitz,$47M Series B in 2022,,https://www.anyroad.com/
+Secureframe,,"SaaS, Cybersecurity",,51-100 employees,2020,Kleiner Perkins,$56M Series B in 2022,,https://secureframe.com/
+WorkWhile,,Recruiting,,11-50 employees,2019,Khosla Ventures,$13M Series A in 2022,,http://www.workwhilejobs.com/
+Flutterwave,,"FinTech, Payments, Software",,201-500 employees,2016,Y Combinator,$250M Series D in 2022,$3.0B valuation,http://flutterwave.com
+Helium,,"Crypto, Hardware, Internet of Things",,101-200 employees,2013,"Andreessen Horowitz, Khosla Ventures",$200M Series D in 2022,$1.2B valuation,http://www.helium.com
+PopSQL,,", , Collaboration, Enterprise Software, Developer Tools",,11-50 employees,2017,Y Combinator,$14M Series A in 2022,,http://popsql.com/
+Homebound,,"Home Renovation, Construction",,101-200 employees,2017,Khosla Ventures,$75M Series C in 2022,,http://www.homebound.com/
+Branch,,"SaaS, Mobile App Marketing",,501-1000 employees,2014,Founders Fund,$300M Series F in 2022,$4.0B valuation,https://branch.io/
+Salt Security,,"Cybersecurity, Artificial Intelligence, , API",,101-200 employees,2016,"Sequoia, Y Combinator",$140M Series D in 2022,$1.4B valuation,http://salt.security/
+Alchemy,,"Developer Platform, Blockchain, Crypto",,51-100 employees,2017,Andreessen Horowitz,$200M Series C in 2022,$10.2B valuation,https://www.alchemy.com/
+Flexport,,", Logistics, E-Commerce, , Freight, Supply Chain",,1001-5000 employees,2013,"Andreessen Horowitz, Founders Fund, Y Combinator",$935M Series E in 2022,$8.0B valuation,http://Flexport.com
+Census,,"Analytics, SaaS",,11-50 employees,2018,"Sequoia, Andreessen Horowitz",$60M Series B in 2022,$630M valuation,http://getcensus.com/
+Mos,,"FinTech, EdTech",,51-100 employees,2017,Sequoia,$40M Series B in 2022,$400M valuation,https://www.mos.com/
+ProductBoard,,"Collaboration, Enterprise Software, SaaS, Research",,201-500 employees,2014,"Sequoia, Kleiner Perkins, Bessemer",$125M Series D in 2022,$1.7B valuation,http://www.productboard.com/
+Phantom,,Crypto,,11-50 employees,2021,"Andreessen Horowitz, Solana",$109M Series B in 2022,$1.2B valuation,https://phantom.app/
+Vesta,,"SaaS, Mortgage",,11-50 employees,2020,Andreessen Horowitz,$30M Series A in 2022,,https://www.usevesta.com/
+Compound Financial,,FinTech,,11-50 employees,2019,Y Combinator,$25M Series B in 2022,,https://withcompound.com/
+CoinTracker,,"FinTech, Crypto",,51-100 employees,2017,"Accel, Y Combinator",$100M Series A in 2022,$1.3B valuation,http://www.cointracker.io
+Supermove,,SaaS,,11-50 employees,2019,"Founders Fund, Andreessen Horowitz",$18M Series A in 2022,,https://supermove.co/
+CaptivateIQ,,"Sales, Enterprise Software",,201-500 employees,2018,"Sequoia, Accel",$100M Series C in 2022,$1.2B valuation,http://www.captivateiq.com/
+Scratchpad,,"SaaS, Sales",,51-100 employees,2019,Accel,$33M Series B in 2022,,https://scratchpad.com/
+Pavilion Data,,"Data Center, Hardware, Software",,101-200 employees,2013,Kleiner Perkins,$45M Series D in 2022,,http://paviliondata.com
+Handshake,,"College Recruiting, Career Planning",,501-1000 employees,2013,Kleiner Perkins,$200M Series F in 2022,$1.5B valuation,https://joinhandshake.com/
+Smartcar,,"Transportation, Vehicles, Developer Tools",,51-100 employees,2015,Andreessen Horowitz,$24M Series B in 2022,,http://smartcar.com
+Lattice,,"SaaS, Enterprise Software, ",,501-1000 employees,2015,"Khosla Ventures, Founders Fund, Y Combinator",$175M Series F in 2022,$3.0B valuation,http://lattice.com
+Clari,,"Enterprise Software, Analytics, , Sales Tools",,501-1000 employees,2012,Sequoia,$225M Series F in 2022,$2.6B valuation,http://www.clari.com/
+Clockwise,,"SaaS, Enterprise Software, Productivity",,51-100 employees,2016,Accel,$45M Series C in 2022,,https://www.getclockwise.com/
+Ironclad,,"Enterprise Software, Legal Tech",,201-500 employees,2014,"Sequoia, Y Combinator, Accel",$150M Series E in 2022,$3.2B valuation,http://ironcladapp.com
+Merit,,"GovTech, Software",,51-100 employees,2016,Andreessen Horowitz,$50M Series B in 2022,,https://www.merits.com/
+Wonderschool,,"EdTech, Kids",,51-100 employees,2016,Andreessen Horowitz,$25M Series B in 2022,$99M valuation,http://www.wonderschool.com
+Envoy,,", SaaS, Enterprise Software, Office Administration",,201-500 employees,2013,Andreessen Horowitz,$111M Series C in 2022,$1.4B valuation,http://envoy.com
+Labelbox,,"Enterprise Software, ML Infrastructure, Artificial Intelligence",,101-200 employees,2018,"Andreessen Horowitz, Kleiner Perkins",$110M Series D in 2022,$900M valuation,http://www.labelbox.com/
+Miro,,"SaaS, Design, Collaboration, Productivity Software, Enterprise Software",,1001-5000 employees,2011,Accel,$400M Series C in 2022,$17.5B valuation,https://miro.com/
+Pyka,,"Hardware, Robotics, Space",,11-50 employees,2016,Y Combinator,$37M Series A in 2022,,http://flypyka.com
+BigPanda,,", SaaS, IT, Developer Tools",,201-500 employees,2012,Sequoia,$190M Series D in 2022,$1.2B valuation,http://www.bigpanda.io
+Searchlight,,"SaaS, Enterprise Software, Hiring",,11-50 employees,2018,"Accel, Founders Fund, Y Combinator",$17M Series A in 2021,,https://www.searchlight.ai/
+Sysdig,,"Cloud Computing, Software, Open Source",,201-500 employees,2013,Accel,$350M Series G in 2021,$2.5B valuation,http://www.sysdig.com
+Anchorage,,"FinTech, Crypto",,201-500 employees,2017,"Khosla Ventures, Andreessen Horowitz",$350M Series D in 2021,$3.0B valuation,http://anchorage.com/
+Mixhalo,,"Music, Media, Enterprise Software",,11-50 employees,2016,Founders Fund,$24M Series B in 2021,,http://www.mixhalo.com/
+Airtable,,"SaaS, Productivity Software, Collaboration, Databases",,501-1000 employees,2012,Benchmark,$735M Series F in 2021,$11.7B valuation,http://www.airtable.com
+Robust Intelligence,,"Artificial Intelligence, SaaS, Enterprise Software",,11-50 employees,2019,Sequoia,$30M Series B in 2021,,https://www.robustintelligence.com/
+Anyscale,,"Developer Platform, Software",,101-200 employees,2019,Andreessen Horowitz,$100M Series C in 2021,$1.0B valuation,http://anyscale.io/
+Mezmo (fka LogDNA),,"Cloud Computing, Enterprise Software",,101-200 employees,2013,Y Combinator,$50M Series D in 2021,,https://www.mezmo.com/
+CyCognito,,"Cybersecurity, SaaS, Enterprise Software",,101-200 employees,2017,Accel,$100M Series C in 2021,$800M valuation,http://cycognito.com/
+SnapLogic,,"Enterprise Software, SaaS",,201-500 employees,2006,Andreessen Horowitz,$165M Series G in 2021,$1.0B valuation,http://www.snaplogic.com
+CloudTrucks,,"Transportation, Logistics",,51-100 employees,2019,Khosla Ventures,$115M Series B in 2021,$850M valuation,http://cloudtrucks.com/
+Iron Fish,,"Crypto, Blockchain",,1-10 employees,2019,"Sequoia, Andreessen Horowitz",$28M Series A in 2021,,https://ironfish.network/
+Quince,,E-Commerce,,51-100 employees,2018,Founders Fund,$50M Series A in 2021,,https://www.onequince.com/
+Fundbox,,"FinTech, Small Businesses",,201-500 employees,2013,Khosla Ventures,$100M Series D in 2021,$1.1B valuation,http://www.fundbox.com
+Simplified,,"SaaS, Design, Collaboration",,11-50 employees,2020,Khosla Ventures,$8M Seed in 2021,,http://simplified.co/
+Vercel,,"Developer Tools, SaaS",,101-200 employees,2015,Accel,$150M Series D in 2021,$2.5B valuation,http://vercel.com/
+Niantic,,"Gaming, AR/VR",,501-1000 employees,2011,Founders Fund,$300M Series D in 2021,$9.0B valuation,http://www.nianticlabs.com
+Zuma,,"Sales, SaaS, Artificial Intelligence",,11-50 employees,2020,"Y Combinator, Andreessen Horowitz",$7M Seed in 2021,,https://www.getzuma.com/
+Stytch,,"Developer APIs, SaaS, Cybersecurity",,11-50 employees,2020,Benchmark,$90M Series B in 2021,$1.0B valuation,https://stytch.com/
+Fountain Therapeutics,,", Biotech, Healthcare, Medical",,11-50 employees,2018,Khosla Ventures,$15M Series A in 2021,,http://fountaintx.com/
+HighTouch.io,,"Marketing, Enterprise Software, SaaS, Sales",,11-50 employees,2018,Y Combinator,$40M Series B in 2021,$450M valuation,http://www.hightouch.io/
+Netlify,,", Web Hosting, Developer Tools, SaaS",,201-500 employees,2015,"Andreessen Horowitz, Kleiner Perkins, Bessemer",$105M Series D in 2021,$2.0B valuation,http://www.netlify.com/
+Benchling,,"Healthcare, Biotech",,501-1000 employees,2012,"Sequoia, Andreessen Horowitz, Benchmark, Y Combinator",$100M Series F in 2021,$6.1B valuation,http://www.benchling.com
+PlanetScale,,"Enterprise Software, Open Source, Databases",,51-100 employees,2018,Andreessen Horowitz,$50M Series C in 2021,$80M valuation,http://planetscale.com
+Netography,,"Cybersecurity, Enterprise Software, SaaS",,11-50 employees,2018,"Andreessen Horowitz, Bessemer",$45M Series A in 2021,,http://netography.com/
+ThoughtSpot,,"SaaS, Enterprise Software, Analytics",,501-1000 employees,2012,Khosla Ventures,$120M Series F in 2021,$4.2B valuation,http://www.thoughtspot.com
+Orderful,,"Enterprise Software, SaaS, Logistics",,11-50 employees,2016,Andreessen Horowitz,$19M Series B in 2021,,http://orderful.com/
+Applied Intuition,,"Enterprise Software, Autonomous Vehicles",,11-50 employees,2017,Andreessen Horowitz,$175M Series D in 2021,$3.6B valuation,https://www.appliedintuition.com/
+Density,,"Analytics, Sensor, Enterprise Software",,101-200 employees,2014,"Kleiner Perkins, Founders Fund",$125M Series D in 2021,$1.0B valuation,http://www.density.io/
+VergeSense,,"SaaS, Artificial Intelligence, Sensors, Hardware",,51-100 employees,2017,Y Combinator,$60M Series C in 2021,,http://vergesense.com/
+Blotout,,"Enterprise Software, Analytics, SaaS",,11-50 employees,2020,Y Combinator,$3M Seed in 2021,,http://blotout.io/
+Everlaw,,"Document Management, Legal Tech",,201-500 employees,2010,Andreessen Horowitz,$202M Series D in 2021,$2.0B valuation,http://www.everlaw.com/
+Zeit Medical,,"Biotech, Healthcare, Medical Device",,1-10 employees,2019,Y Combinator,$2M Seed in 2021,,http://www.zeitmedical.com/
+Drip Capital,,"FinTech, Lending",,201-500 employees,2014,"Sequoia, Accel",$40M Series C in 2021,$62M valuation,http://dripcapital.com
+Truepill,,"Healthcare, Pharmaceuticals",,201-500 employees,2016,Y Combinator,$142M Series D in 2021,$1.6B valuation,http://www.truepill.com/
+Deel,,"FinTech, Human Resources, Enterprise Software",,501-1000 employees,2018,"Andreessen Horowitz, Y Combinator",$200M Series D in 2021,$5.5B valuation,http://www.letsdeel.com/
+Matik,,"SaaS, Sales, Enterprise Software",,11-50 employees,2019,Andreessen Horowitz,$20M Series A in 2021,,http://matik.io/
+Sprinter Health,,"Healthcare, Medical",,11-50 employees,2021,"Andreessen Horowitz, Accel",$33M Series A in 2021,,http://www.sprinterhealth.com/
+All Day Kitchens,,"Food & Drinks, Delivery, Restaurants, Logistics",,51-100 employees,2018,"Founders Fund, Andreessen Horowitz, Khosla Ventures",$65M Series C in 2021,,http://www.virtualkitchen.co/
+Wonolo,,", SaaS, Recruiting, ",,501-1000 employees,2013,Sequoia,$140M Series D in 2021,,http://www.wonolo.com
+Ripple Foods,,Food & Drinks,,51-100 employees,2014,Khosla Ventures,$60M Series E in 2021,$357M valuation,http://www.ripplefoods.com
+Osaro,,"Data Science, ML, Robotics, Hardware, Artificial Intelligence",,51-100 employees,2015,Founders Fund,$30M Series C in 2021,$120M valuation,http://www.osaro.com/
+Superhuman,,"Email, SaaS",,101-200 employees,2015,Andreessen Horowitz,$75M Series C in 2021,$825M valuation,http://superhuman.com/
+Arevo,,"Manufacturing, Robotics, Hardware",,51-100 employees,2013,Khosla Ventures,$25M Series B in 2021,,http://www.arevolabs.com
+WorkRamp,,"EdTech, Training, Enterprise Software",,101-200 employees,2015,Y Combinator,$40M Series C in 2022,,http://www.workramp.com
+Elemeno Health,,"Healthcare, Medical, SaaS",,11-50 employees,2016,Y Combinator,$7M Series A in 2022,,http://www.elemenohealth.com/
+Zenysis,,"Data Science, Software, Politics",,11-50 employees,2015,Y Combinator,$13M Series B in 2022,,http://www.zenysis.com/
+HyperTrack,,"SaaS, Developer API",,11-50 employees,2015,Founders Fund,$22M Series A in 2022,,http://hypertrack.com
+Nimble Pharmacy,,"Healthcare, Delivery",,51-100 employees,2014,"Sequoia, Khosla Ventures, Y Combinator",$34M Series C in 2022,,http://www.nimblerx.com
+Notion,,"SaaS, Enterprise Software, Collaboration",,101-200 employees,2013,Sequoia,$275M Series C in 2021,$10.0B valuation,http://www.notion.so/
+Gem,,"Recruiting, Enterprise Software, SaaS",,201-500 employees,2017,"Y Combinator, Accel",$37M Series C in 2021,$1.2B valuation,http://www.gem.com/
+Forta,,"Cybersecurity, Crypto, Smart Contracts",,1-10 employees,2021,"Andreessen Horowitz, Raised $23M in 2021",,$1.0B valuation,http://forta.org/
+Loyal,,"Biotech, Pets, Healthcare",,11-50 employees,2019,Khosla Ventures,$27M Series A in 2021,,http://loyalfordogs.com/
+Stardust,,"Gaming, Software, Crypto",,11-50 employees,2018,Kleiner Perkins,$5M Series A in 2021,,http://www.stardust.gg/
+Beacons,,"Content Creators, Marketing",,11-50 employees,2019,"Andreessen Horowitz, Y Combinator",$6M Seed in 2021,,http://beacons.ai/
+GenEdit,,"Healthcare, Biotech, Therapeutics",,11-50 employees,2016,Sequoia,$26M Series A in 2021,,http://www.genedit.com/
+Persona,,"SaaS, Compliance, Fraud Detection, Enterprise Software",,101-200 employees,2018,"Founders Fund, Index, Coatue, Bond",$150M Series C in 2021,$1.5B valuation,http://withpersona.com/
+Zapier,,"SaaS, Data Integration",,501-1000 employees,2011,"Y Combinator, Sequoia, Bessemer, Raised $1M in 2021",,$5.0B valuation,http://zapier.com
+Rapid Robotics,,"Robotics, Industrial Automation, Manufacturing, Hardware",,11-50 employees,2019,Kleiner Perkins,$37M Series B in 2021,$192M valuation,https://www.rapidrobotics.com/
+Catch&Release,,"Image Recognition, Content, Artificial Intelligence",,51-100 employees,2014,Accel,$14M Series A in 2021,,https://www.catchandrelease.com/
+Monad,,"Cybersecurity, Compliance, Developer Tools",,11-50 employees,2020,Sequoia,$17M Series A in 2021,,https://www.monad.security/
+Aalto,,"Marketplace, Real Estate",,11-50 employees,2018,Sequoia,$13M Series A in 2021,,https://aalto.com/
+Tabular Technologies,,"Cloud Computing, Enterprise Software",,1-10 employees,2021,Andreessen Horowitz,Series A in 2021,,https://tabular.io/
+Firemaps,,Property Management,,1-10 employees,2021,Andreessen Horowitz,$6M Seed in 2021,,https://www.firemaps.co/
+Robocorp,,"Cloud Infrastructure, SaaS, Open Source",,11-50 employees,2019,Benchmark,$21M Series A in 2021,,https://robocorp.com/
+Dover,,"Human Resources, Recruiting, SaaS, Enterprise Software",,51-100 employees,2019,"Founders Fund, Y Combinator",$20M Series A in 2021,,https://www.dover.com/
+Origin,,"Employee Benefits, Wellness, FinTech, Enterprise Software",,101-200 employees,2018,Founders Fund,$56M Series B in 2021,$400M valuation,https://www.useorigin.com/
+Juno,,"Real Estate, Property Management",,11-50 employees,2019,Khosla Ventures,$20M Series A in 2021,,http://juno.co/
+Hipcamp,,"Outdoor, Camping, Marketplace",,101-200 employees,2013,"Benchmark, Andreessen Horowitz",$25M Series C in 2021,$300M valuation,http://hipcamp.com
+Doxel,,"Enterprise Software, Data Science, Computer Vision, Construction",,51-100 employees,2016,Andreessen Horowitz,$40M Series B in 2021,,http://www.doxel.ai/
+PicsArt,,"Consumer Social, Photography, Media",,501-1000 employees,2011,Sequoia,$60M Series C in 2021,$1.0B valuation,http://www.picsart.com
+SplashLearn,,EdTech,,201-500 employees,2011,Accel,$18M Series C in 2021,,http://www.splashmath.com/
+Zomentum,,"Sales, SaaS, Enterprise Software",,51-100 employees,2018,Accel,$4M Series A in 2021,,http://www.zomentum.com/
+unitQ,,"Analytics, Design, Enterprise Software",,11-50 employees,2018,Accel,$11M Series B in 2021,,http://www.unitq.com/
+Shepherd,,", FinTech, Insurance, Construction",,1-10 employees,2020,Y Combinator,$6M Seed in 2021,,http://withshepherd.com/
+Solv Health,,"Healthcare, Medical",,101-200 employees,2016,Benchmark,$45M Series C in 2021,,http://www.solvhealth.com/
+Carta,,"FinTech, Equity, Enterprise Software, SaaS",,1001-5000 employees,2012,Andreessen Horowitz,$80M Series G in 2021,$7.4B valuation,http://carta.com/
+Passport,,"Shipping, Logistics, E-Commerce",,51-100 employees,2017,Kleiner Perkins,$15M Series A in 2021,,https://passportshipping.com/
+Moveworks,,"Cloud Computing, Artificial Intelligence",,201-500 employees,2016,Kleiner Perkins,$75M Series C in 2021,$2.1B valuation,http://www.moveworks.com/
+Bite Ninja,,"Recruiting, Software, Restaurants",,11-50 employees,2020,Y Combinator,$675K Pre-Seed in 2021,,http://www.biteninja.com/
+Neuralink,,"Healthcare, Artificial Intelligence, Biotech",,101-200 employees,2016,Founders Fund,$205M Series C in 2021,$500M valuation,http://neuralink.com
+MakersPlace,,"Consumer, Crypto, E-Commerce, Marketplaces",,11-50 employees,2016,Bessemer,$30M Series A in 2021,,http://makersplace.com/
+Queenly,,"E-Commerce, Fashion, , Marketplaces",,1-10 employees,2019,Andreessen Horowitz,$6M Seed in 2021,,http://queenly.com/
+SentiLink,,"Cybersecurity, , Enterprise Software, ",,11-50 employees,2017,Andreessen Horowitz,$70M Series B in 2021,,http://www.sentilink.com
+Algolia,,"Search, Enterprise Software, Developer APIs, SaaS",,501-1000 employees,2012,Accel,$334M Series D in 2021,$2.2B valuation,http://www.algolia.com
+Deserve,,"Credit Card, FinTech, Banking",,101-200 employees,2012,Accel,$50M Series D in 2021,$500M valuation,http://www.selfscore.com/
+Netskope,,"Cybersecurity, Cloud Computing, Software, Enterprise Software",,1001-5000 employees,2012,Accel,$300M Series H in 2021,$7.5B valuation,http://www.netskope.com
+Blameless,,"Developer Platforms, Enterprise Software",,51-100 employees,2017,Accel,$36M Series B in 2021,,http://www.blameless.com/
+Slintel,,"Business Intelligence, Sales Enablement, SaaS, Enterprise Software",,101-200 employees,2016,Accel,$26M Series A in 2021,,http://www.slintel.com/
+Human Interest,,"Employee Benefits, FinTech",,501-1000 employees,2015,Y Combinator,$200M Series D in 2021,$1.0B valuation,https://humaninterest.com/
+Multiply Labs,,"Healthcare, Pharmaceuticals, Robotics, Hardware",,11-50 employees,2016,Y Combinator,$20M Series A in 2021,,http://multiplylabs.com
+HiOperator,,"Artificial Intelligence, Customer Support",,51-100 employees,2016,Y Combinator,$500K Pre-Seed in 2021,,http://hioperator.com
+Plate IQ,,"Marketing, Software, Small & Medium Businesses, Restaurants",,101-200 employees,2014,Y Combinator,$160M Series B in 2021,,http://www.plateiq.com
+Lob,,"Developer APIs, SaaS",,201-500 employees,2013,Y Combinator,$79M Series C in 2021,,http://lob.com
+Cofactor Genomics,,"Biotech, Healthcare, Clinical Trials, Diagnostics",,11-50 employees,2008,Y Combinator,$7M Series A in 2021,,http://cofactorgenomics.com/
+SafetyWing,,"Freelancers, Insurance",,51-100 employees,2017,Y Combinator,$12M Series A in 2021,,http://safetywing.com
+Checkr,,"Legal, Compliance, Enterprise Software, SaaS",,201-500 employees,2014,"Y Combinator, Accel",$250M Series E in 2021,$4.6B valuation,http://www.checkr.io
+"Bot, M.D.",,"Artificial Intelligence, Healthcare",,11-50 employees,2018,Y Combinator,$5M Series A in 2021,$20M valuation,http://www.botmd.io/en/
+Prodigal,,"FinTech, Software",,11-50 employees,2018,Y Combinator,$12M Series A in 2021,,http://prodigaltech.com/
+Standard AI,,", Artificial Intelligence, Hardware, Retail",,101-200 employees,2017,Y Combinator,$150M Series C in 2021,$1.0B valuation,http://standard.ai
+Phiar Technologies,,"Autonomous Vehicles, Data Science, Deep Learning, Artificial Intelligence",,11-50 employees,2017,Y Combinator,$12M Series A in 2021,,http://www.phiar.net
+Roofr,,"Renovation, Construction",,11-50 employees,2015,Y Combinator,$4M Seed in 2021,,http://roofr.com/
+SendBird,,"Messaging, Chat, API, SaaS, Enterprise Software",,201-500 employees,2013,Y Combinator,$221M Series C in 2021,$1.0B valuation,https://sendbird.com/
+AmpUp,,"Hardware, Software, Electric Vehicles",,11-50 employees,2018,"Y Combinator, Raised $0 in 2021",,,http://ampup.io/
+Memfault,,"Electronics, Software",,11-50 employees,2018,Y Combinator,$8M Series A in 2021,,http://memfault.com/
+Treasury Prime,,"FinTech, , Banking, API",,11-50 employees,2017,Y Combinator,$29M Series B in 2021,,http://treasuryprime.com/
+"Warmly,",,"Feedback, SaaS, Collaboration",,11-50 employees,2019,Y Combinator,$2M Seed in 2021,,http://warmly.ai/
+Forage,,"EdTech, Career Planning, Training",,201-500 employees,2016,Y Combinator,$36M Series B in 2021,,http://www.insidesherpa.com/
+Outschool,,"EdTech, Marketplace, K-12",,1001-5000 employees,2015,Y Combinator,$320M Series C in 2021,$3.0B valuation,http://outschool.com/
+Shogun,,"Web Development, Design, E-Commerce",,201-500 employees,2015,Y Combinator,$37M Series C in 2021,$575M valuation,http://getshogun.com/
+Curtsy,,"E-Commerce, Apps, ",,51-100 employees,2015,Y Combinator,$11M Series A in 2021,,http://www.curtsyapp.com/
+Landed,,"Recruiting, Video, Software",,11-50 employees,2015,Y Combinator,$1M Series A in 2021,,http://www.gotlanded.com/
+CrowdAI,,"Image Recognition, Data Science, Hardware, Artificial Intelligence, Drones",,11-50 employees,2016,Y Combinator,$8M Series A in 2021,,http://crowdai.com/
+LegionFarm,,"Coaching, Gaming",,51-100 employees,2016,Y Combinator,$6M Series A in 2021,,http://legionfarm.com/
+Jerry,,"Auto Insurance, Artificial Intelligence",,201-500 employees,2017,Y Combinator,$28M Series A in 2021,$450M valuation,http://getjerry.com/
+Gridware,,"Predictive Analytics, Energy",,11-50 employees,2020,Y Combinator,$5M Seed in 2021,,https://gridware.io/
+Ditto,,"Collaboration, Design, Software",,1-10 employees,2019,Y Combinator,$2M Seed in 2021,,https://www.dittowords.com/
+Holy Grail,,"Sustainability, Renewable Energies, Hardware",,11-50 employees,2019,Y Combinator,$3M Seed in 2021,,http://www.holygrail.ai/
+Rootly,,"Software, Developer Tools",,1-10 employees,2020,Y Combinator,$3M Seed in 2021,,http://rootly.io/
+Serverless Stack,,Developer Tools,,1-10 employees,2017,Y Combinator,$1M Seed in 2021,,http://serverless-stack.com/
+Blend,,"FinTech, Mortgage, Software",,501-1000 employees,2012,"Founders Fund, Post-IPO",,$2.0B valuation,http://blendlabsinc.com
+Voiceops,,"SaaS, Sales Automation",,11-50 employees,2016,"Founders Fund, Y Combinator, Accel",$9M Series A in 2021,,http://www.voiceops.com
+Carrot Fertility,,"Healthcare, Fertility, Employee Benefits",,101-200 employees,2016,"Founders Fund, Y Combinator",$75M Series C in 2021,,http://www.get-carrot.com/
+Collective Health,,"Healthcare, Software",,201-500 employees,2013,Founders Fund,$280M Series F in 2021,$1.5B valuation,http://collectivehealth.com/
+Virta Health,,"Healthcare, Medical",,201-500 employees,2014,Founders Fund,$215M Series E in 2021,$1.1B valuation,http://virtahealth.com
+Indee Labs,,"Biotech, Hardware",,1-10 employees,2015,"Founders Fund, Y Combinator, Raised $3M in 2021",,,http://indeelabs.com
+Wild Earth,,"E-Commerce, Pet Food",,11-50 employees,2004,Founders Fund,$23M Series A in 2021,,http://www.wildearthpets.com/
+Sundae,,"Marketplaces, Real Estate",,101-200 employees,2018,Founders Fund,$80M Series C in 2021,,http://sundae.com/
+Turing,,"Recruiting, Freelancers, Developers",,501-1000 employees,2018,Founders Fund,$87M Series B in 2021,$1.1B valuation,http://turing.com/
+Modern Health,,"Mental Healthcare, Employee Benefits",,501-1000 employees,2017,Founders Fund,$74M Series D in 2021,$1.2B valuation,http://www.joinmodernhealth.com/
+Eco,,"FinTech, Crypto",,51-100 employees,2018,"Founders Fund, Andreessen Horowitz",$26M Series B in 2021,,http://www.eco.com/
+Scale AI,,"Developer APIs, Artificial Intelligence, Developer Tools",,501-1000 employees,2016,"Founders Fund, Y Combinator, Accel",$473M Series E in 2021,$7.3B valuation,http://scale.com
+Grabango,,"FinTech, Payments, Retail",,51-100 employees,2016,Founders Fund,$39M Series B in 2021,,http://grabango.com/
+Brightwheel,,"SaaS, EdTech",,201-500 employees,2014,Bessemer,$55M Series C in 2021,$600M valuation,http://www.mybrightwheel.com
+HashiCorp,,"Enterprise Software, Cloud Infrastructure",,1001-5000 employees,2010,"Bessemer, Post-IPO",,$4.4B valuation,http://www.hashicorp.com
+Crosschq,,", , Artificial Intelligence, Recruiting, Enterprise Software",,51-100 employees,2018,Bessemer,$30M Series A in 2021,$21M valuation,http://crosschq.com/
+LaunchDarkly,,", SaaS, Developer Tools",,201-500 employees,2014,Bessemer,$200M Series D in 2021,$3.0B valuation,http://www.launchdarkly.com
+Hinge Health,,"Healthcare, Medical",,501-1000 employees,2014,Bessemer,$600M Series E in 2021,$6.2B valuation,http://hingehealth.com
+Shopmonkey,,", , SaaS, Automotive",,101-200 employees,2016,Bessemer,$75M Series C in 2021,,http://www.shopmonkey.io/
+Sila Nanotechnologies,,", Manufacturing, Hardware, Nanotechnology",,201-500 employees,2011,Bessemer,$590M Series F in 2021,$3.3B valuation,http://silanano.com
+DroneDeploy,,"SaaS, , Drones",,101-200 employees,2013,Bessemer,$50M Series F in 2021,,http://www.dronedeploy.com
+Shippo,,"Logistics, E-Commerce, Shipping",,201-500 employees,2013,Bessemer,$45M Series D in 2021,$1.0B valuation,http://www.goshippo.com
+MaintainX,,"Software, Manufacturing",,51-100 employees,2018,Bessemer,$39M Series B in 2021,,https://www.getmaintainx.com/
+Hound Labs,,"Biotech, Cannabis Testing",,11-50 employees,2014,Benchmark,$20M Series D in 2021,,http://www.houndlabs.com
+Discord,,"Consumer, Chat, Gaming, Video",,1001-5000 employees,2012,Benchmark,$500M Series H in 2021,$14.7B valuation,http://www.discordapp.com/
+Good Eggs,,"Groceries, Delivery",,201-500 employees,2011,Benchmark,$100M Series D in 2021,,http://www.goodeggs.com/welcome
+Manticore Games,,Gaming,,101-200 employees,2016,Benchmark,$100M Series C in 2021,,http://www.manticoregames.com/
+Modern Treasury,,"FinTech, Payments",,101-200 employees,2018,"Benchmark, Y Combinator",$48M Series C in 2021,$2.0B valuation,http://www.moderntreasury.com/
+BetterWorks,,"Enterprise Software, SaaS",,101-200 employees,2010,Kleiner Perkins,$65M Series B in 2021,,http://www.betterworks.com
+Kinsa,,"Healthcare, Hardware",,51-100 employees,2012,Kleiner Perkins,$17M Series B in 2021,,http://www.kinsahealth.com
+InCorta,,"Analytics, Data Science, Enterprise Software",,201-500 employees,2013,Kleiner Perkins,$120M Series D in 2021,,http://www.incorta.com/
+Helix,,"Healthcare, Biotech",,201-500 employees,2015,Kleiner Perkins,$50M Series C in 2021,$1.0B valuation,http://www.helix.com/
+Gusto,,", SaaS, Enterprise Software, Human Resources",,1001-5000 employees,2011,"Kleiner Perkins, Y Combinator",$175M Series E in 2021,$10.0B valuation,http://www.gusto.com
+Audius,,"Crypto, Communities, Media, Music",,11-50 employees,2018,Kleiner Perkins,$6M Series A in 2021,,http://audius.co
+AEye,,"Artificial Intelligence, Autonomous Vehicles, Hardware, Data Science",,101-200 employees,2013,"Kleiner Perkins, Post-IPO",,$487M valuation,http://www.aeye.ai
+Brex,,"FinTech, , Credit Cards",,501-1000 employees,2017,"Kleiner Perkins, Y Combinator",$300M Series D in 2021,$12.3B valuation,http://brex.com
+Comma.ai,,"Autonomous Vehicles, Hardware",,11-50 employees,2018,Andreessen Horowitz,$5M Series A in 2021,,http://www.comma.ai
+Medium,,"Consumer, Media, Blogging",,1001-5000 employees,2012,Andreessen Horowitz,$132M Series C in 2021,,http://www.medium.com
+Illumio,,"Enterprise Software, Cybersecurity, ",,201-500 employees,2013,"Andreessen Horowitz, Accel",$225M Series F in 2021,$2.8B valuation,http://www.illumio.com/
+Descript,,"Audio Editor, SaaS",,51-100 employees,2017,Andreessen Horowitz,$30M Series B in 2021,,http://www.descript.com
+Chia Network,,"FinTech, Crypto",,51-100 employees,2017,Andreessen Horowitz,$70M Series D in 2021,$500M valuation,http://chia.network/
+Databricks,,"Artificial Intelligence, SaaS, Analytics, Data Science",,5000+ employees,2013,Andreessen Horowitz,$2B Series H in 2021,$38.0B valuation,http://databricks.com/
+Celo,,"FinTech, Crypto",,51-100 employees,2017,"Andreessen Horowitz, Raised $20M in 2021",,$99M valuation,http://celo.org/
+People.ai,,"Artificial Intelligence, Enterprise Software",,201-500 employees,2016,"Andreessen Horowitz, Y Combinator",$100M Series D in 2021,$1.1B valuation,http://people.ai/
+Apollo,,", Developer Tools, Enterprise Software",,101-200 employees,2016,Andreessen Horowitz,$130M Series D in 2021,$1.5B valuation,http://www.apollographql.com/
+preset.io,,"Analytics, SaaS",,11-50 employees,2019,Andreessen Horowitz,$36M Series B in 2021,,http://www.preset.io/
+Snackpass,,"Restaurants, E-Commerce",,101-200 employees,2017,"Andreessen Horowitz, Y Combinator",$70M Series B in 2021,$400M valuation,http://www.snackpass.co/
+Komodo Health,,"Healthcare, Analytics",,201-500 employees,2014,Andreessen Horowitz,$220M Series E in 2021,$3.0B valuation,http://www.komodohealth.com/
+Workboard,,"Enterprise Software, SaaS",,201-500 employees,2013,Andreessen Horowitz,$230M Series C in 2021,$800M valuation,http://www.workboard.com
+Alluxio,,"Software, OpenSource",,51-100 employees,2015,Andreessen Horowitz,$50M Series C in 2021,,http://www.alluxio.com/
+insitro,,", Biotech, Healthcare",,101-200 employees,2018,Andreessen Horowitz,$400M Series C in 2021,,http://www.insitro.com/
+Dialpad,,"SaaS, Artificial Intelligence, Call Center",,501-1000 employees,2014,Andreessen Horowitz,$170M Series F in 2021,$2.2B valuation,https://www.dialpad.com/
+Honor,,"Healthcare, Elderly Care",,501-1000 employees,2014,Andreessen Horowitz,$70M Series E in 2021,$1.2B valuation,http://www.joinhonor.com
+Divvy Homes,,Real Estate,,201-500 employees,2017,Andreessen Horowitz,$110M Series C in 2021,$2.0B valuation,http://www.divvyhomes.com
+AKASA,,"Healthcare, Artificial Intelligence",,101-200 employees,2018,Andreessen Horowitz,$80M Series B in 2021,,https://akasa.com/
+Substack,,"Media, Publishing, Consumer",,101-200 employees,2017,Andreessen Horowitz,$65M Series B in 2021,$650M valuation,http://substack.com/
+Mux,,"Video Streaming, SaaS, Analytics",,101-200 employees,2015,"Andreessen Horowitz, Y Combinator, Accel",$154M Series D in 2021,$1.0B valuation,http://www.mux.com
+Solana,,"Crypto, FinTech, Blockchain",,101-200 employees,2018,Andreessen Horowitz,$314M Series A in 2021,,http://solana.com/
+Thesis,,Crypto,,11-50 employees,2013,Andreessen Horowitz,$21M Series A in 2021,,http://thesis.co/
+Nobell Foods,,", Manufacturing, Food & Drinks",,11-50 employees,2016,Andreessen Horowitz,$75M Series B in 2021,,https://www.nobellfoods.com/
+SingleStore,,"Enterprise Software, SaaS, Analytics",,201-500 employees,2011,"Khosla Ventures, Accel",$80M Series F in 2021,$980M valuation,http://www.singlestore.com/
+Color,,"Healthcare, Biotech",,501-1000 employees,2015,Khosla Ventures,$100M Series E in 2021,$4.6B valuation,http://color.com
+Cape Analytics,,"Artificial Intelligence, Real Estate, Analytics",,51-100 employees,2014,Khosla Ventures,$44M Series C in 2021,,http://capeanalytics.com/
+SenseHQ,,", Recruiting, SaaS",,201-500 employees,2016,"Khosla Ventures, Accel",$50M Series D in 2021,$500M valuation,https://www.sensehq.com/
+Kiddom,,"EdTech, Software",,51-100 employees,2012,Khosla Ventures,$35M Series C in 2021,,http://www.kiddom.co/
+Homebase,,", Human Resources, Small & Medium Businesses, SaaS",,201-500 employees,2014,Khosla Ventures,$70M Series C in 2021,,http://www.joinhomebase.com
+Bungalow,,"Consumer, Home Rental, Marketplaces",,101-200 employees,2017,"Khosla Ventures, Founders Fund",$75M Series C in 2021,$600M valuation,http://bungalow.com/
+Rubrik,,", Databases, Cybersecurity, Enterprise Software",,1001-5000 employees,2014,Khosla Ventures,$553M Series E in 2021,$4.0B valuation,http://www.rubrik.com
+Vectra AI,,"Cybersecurity, Artificial Intelligence",,501-1000 employees,2011,Khosla Ventures,$130M Series F in 2021,$1.2B valuation,http://vectra.ai/
+Abacus.AI,,"Data Science, Artificial Intelligence, Research",,11-50 employees,2019,Khosla Ventures,$50M Series C in 2021,,http://realityengines.ai/
+Inflammatix,,"Healthcare, Medical",,101-200 employees,2016,Khosla Ventures,$102M Series D in 2021,,http://inflammatix.com/
+At-Bay,,"Cybersecurity, Enterprise Software",,101-200 employees,2016,Khosla Ventures,$185M Series D in 2021,$1.4B valuation,http://www.at-bay.com/
+Tempo,,"Healthcare, Fitness, , Artificial Intelligence, , Hardware",,201-500 employees,2015,"Khosla Ventures, Founders Fund, Y Combinator",$220M Series C in 2021,$750M valuation,http://tempo.fit/
+Bitwise Asset Management,,Crypto,,51-100 employees,2017,Khosla Ventures,$74M Series B in 2021,$500M valuation,http://www.bitwiseinvestments.com/
+Coda,,"SaaS, Collaboration, Productivity Software",,201-500 employees,2014,"Khosla Ventures, Kleiner Perkins",$100M Series D in 2021,$1.4B valuation,http://coda.io/
+Mighty Buildings,,"Hardware, 3D Tech, Construction",,101-200 employees,2017,"Khosla Ventures, Y Combinator",$22M Series B in 2021,$150M valuation,http://www.mightybuildings.com/
+DevRev,,", , Development Platforms, Software",,51-100 employees,2020,Khosla Ventures,$50M Seed in 2021,,http://devrev.ai/
+Gong.io,,", SaaS, Sales, Enterprise Software",,501-1000 employees,2015,Sequoia,$250M Series E in 2021,$7.2B valuation,http://www.gong.io/
+Houzz,,"Home, Design",,1001-5000 employees,2009,Sequoia,$614M Series E in 2021,$4.0B valuation,http://www.houzz.com
+Druva,,"Data Science, Storage, Enterprise Software, SaaS",,501-1000 employees,2008,Sequoia,$147M Series H in 2021,$2.0B valuation,http://www.druva.com/
+LocoNav,,"Fleet Management, SaaS",,201-500 employees,2015,Sequoia,$37M Series B in 2021,,http://www.loconav.com/
+Brii Biosciences,,"Healthcare, Biotech",,51-100 employees,2018,"Sequoia, Post-IPO",,$10.0B valuation,http://www.briibio.com/
+Reddit,,"Consumer, Social Media, Communities",,1001-5000 employees,2005,"Sequoia, Andreessen Horowitz",$700M Series F in 2021,$10.0B valuation,http://reddit.com
+Pendulum Therapeutics,,"Biotech, Healthcare",,51-100 employees,2014,"Sequoia, Khosla Ventures",$54M Series C in 2021,,http://www.wholebiome.com/
+Ethos Life,,"FinTech, Life Insurance",,201-500 employees,2016,Sequoia,$100M Series D in 2021,$2.7B valuation,http://www.ethoslife.com/
+Domino Data Lab,,"Artificial Intelligence, Data Science, Analytics, Enterprise Software",,201-500 employees,2013,Sequoia,$100M Series F in 2021,$450M valuation,http://www.DominoDataLab.com
+mmhmm,,"Video Chat, SaaS",,51-100 employees,2020,Sequoia,$100M Series B in 2021,,http://www.mmhmm.app/
+StrongDM,,"Cybersecurity, Infrastructure",,51-100 employees,2012,Sequoia,$54M Series B in 2021,,http://strongdm.com
+Robinhood,,"FinTech, Trading",,1001-5000 employees,2013,"Sequoia, Andreessen Horowitz, Post-IPO",,$10.0B valuation,http://www.robinhood.com
+Pilot.com,,"FinTech, , Accounting, SaaS",,201-500 employees,2017,Sequoia,$60M Series C in 2021,$1.2B valuation,http://pilot.com/
+Bigeye,,"Analytics, Data Science, Artificial Intelligence",,11-50 employees,2019,Sequoia,$45M Series B in 2021,,http://www.bigeye.com/
+Releasehub,,"Developer Tools, Enterprise Software",,11-50 employees,2019,"Sequoia, Y Combinator",$20M Series A in 2021,,https://releasehub.com/
+Loom,,"Collaboration, , Messaging, Video, SaaS",,201-500 employees,2016,"Sequoia, Andreessen Horowitz, Kleiner Perkins",$130M Series C in 2021,$1.5B valuation,http://www.loom.com/
+snapdocs,,"Real Estate, FinTech",,501-1000 employees,2012,"Sequoia, Founders Fund, Y Combinator",$150M Series D in 2021,$1.5B valuation,http://www.snapdocs.com
+Forter,,"Cybersecurity, Retail",,201-500 employees,2013,"Sequoia, Bessemer",$300M Series F in 2021,$3.0B valuation,http://www.forter.com/
+Thumbtack,,"Home Services, Marketplaces",,1001-5000 employees,2008,Sequoia,$698M Series I in 2021,$3.2B valuation,https://www.thumbtack.com
+Figma,,"Design, Collaboration, SaaS",,501-1000 employees,2012,"Sequoia, Andreessen Horowitz, Kleiner Perkins, Founders Fund",$200M Series E in 2021,$10.0B valuation,http://figma.com
+StreamSets,,"Data Science, Enterprise Software",,101-200 employees,2014,Accel,$68M Series C in 2020,,http://streamsets.com/
+Wakie,,"Consumer Social, Media",,11-50 employees,2014,Y Combinator,$2M Seed in 2020,,http://www.wakie.com
+REVL,,"Artificial Intelligence, Motion Capture, Hardware",,11-50 employees,2015,Y Combinator,$2M Series A in 2020,,https://revl.com/
+Nova Credit,,"FinTech, Credit, Data Science",,51-100 employees,2015,Y Combinator,$66M Series B in 2020,,http://neednova.com/
+Aella Credit,,"FinTech, Credit",,11-50 employees,2015,"Y Combinator, Raised $10M in 2020",,,http://www.aellacredit.com
+Petcube,,"Electronics, Hardware, Software, Pets",,11-50 employees,2012,Y Combinator,$15M Series A in 2020,,http://www.petcube.com
+BloomTech (fka Lambda School),,EdTech,,501-1000 employees,2017,Y Combinator,$74M Series C in 2020,$150M valuation,https://www.bloomtech.com/
+Yoshi,,"SaaS, Transportation, ",,51-100 employees,2016,Y Combinator,$23M Series B in 2020,,http://www.startyoshi.com
+Observe.AI,,"Artificial Intelligence, Sales, Enterprise Software",,201-500 employees,2017,Y Combinator,$123M Series B in 2020,,http://observe.ai/
+MOMENTUS,,"Space, Hardware",,101-200 employees,2017,"Y Combinator, Post-IPO",,$183M valuation,http://momentus.space/
+FidoCure,,"Healthcare, Pets",,11-50 employees,2016,Y Combinator,$15M Series A in 2020,,http://www.theonehealthcompany.com/
+Meru Health,,"Mental Healthcare, Wellness, Employee Benefits",,11-50 employees,2015,Y Combinator,$8M Series A in 2020,$30M valuation,http://www.meruhealth.com/
+Lets do this,,"Marketplace, Sports",,51-100 employees,2017,"Y Combinator, Raised $0 in 2020",,,http://www.letsdothis.com/
+Datree,,"Enterprise Software, Developer Tools",,11-50 employees,2017,Y Combinator,$11M Series A in 2020,,http://www.datree.io/
+Lilia,,"Healthcare, Fertility",,1-10 employees,2019,Y Combinator,$1M Seed in 2020,,http://www.hellolilia.com/
+DeepSource,,"Code Review, Enterprise Software, ",,11-50 employees,2019,Y Combinator,$3M Seed in 2020,,https://deepsource.io/
+Avo,,"Enterprise Software, SaaS, Analytics",,11-50 employees,2017,Y Combinator,$3M Seed in 2020,,http://www.avo.app/
+Armory,,"Enterprise Software, Cloud Infrastructure",,101-200 employees,2016,Y Combinator,$40M Series C in 2020,,http://www.armory.io/
+Nabis,,"Marketplace, Cannabis Wholesale",,51-100 employees,2017,Y Combinator,$5M Series A in 2020,,http://www.nabis.com/
+Explo,,"Dashboards, Analytics, SaaS",,11-50 employees,2019,Y Combinator,$2M Seed in 2020,,http://explo.co/
+Pair Team,,"Healthcare, Hospitals",,11-50 employees,2019,Y Combinator,$3M Seed in 2020,,http://www.pairteam.com/
+Bunch,,"Consumer Social, Gaming, Video Chat",,11-50 employees,2017,Founders Fund,$20M Series A in 2020,,http://bunch.live/
+Zinier,,", SaaS, Enterprise Software, Market Research",,101-200 employees,2014,"Founders Fund, Accel",$90M Series C in 2020,$500M valuation,http://zinier.com
+Motherly,,"Communities, Content, Media",,51-100 employees,2015,Founders Fund,$5M Series A in 2020,,http://www.mother.ly/
+Raise (formerly HelloOffice),,Commercial Real Estate,,51-100 employees,2015,Founders Fund,$20M Series A in 2020,,http://www.hellooffice.com/
+AI Foundation,,", Artificial Intelligence, Nonprofit",,51-100 employees,2017,Founders Fund,$27M Series B in 2020,,http://aifoundation.com
+Synthego,,"Hardware, Biotech",,201-500 employees,2012,Founders Fund,$259M Series D in 2020,,http://Synthego.com
+Eden,,"SaaS, Real Estate, Office Administration",,51-100 employees,2015,"Bessemer, Y Combinator",$25M Series B in 2020,,http://www.edentech.co/
+Okera,,Data Science,,51-100 employees,2016,Bessemer,$27M Series B in 2020,,http://www.okera.com
+Netdata,,"Enterprise Software, IT Infrastructure",,51-100 employees,2018,Bessemer,$14M Series A in 2020,,http://my-netdata.io/
+Earthly,,"SaaS, Small Businesses, Customer Lifecycle",,1-10 employees,2020,Bessemer,$2M Seed in 2020,,http://www.earthly.dev/
+Streamloots,,"Video Streaming, Gaming, ESports",,11-50 employees,2018,Bessemer,$6M Series A in 2020,,http://www.streamloots.com/
+GetAccept,,"Sales and Marketing, SaaS",,101-200 employees,2015,"Bessemer, Y Combinator",$20M Series B in 2020,,http://www.getaccept.com/
+Iris Automation,,"Hardware, Artificial Intelligence, Space, Drones",,51-100 employees,2015,Bessemer,$13M Series B in 2020,,http://www.irisonboard.com/
+Pachyderm,,"Enterprise Software, Data Science, ",,11-50 employees,2014,"Benchmark, Y Combinator",$30M Series B in 2020,,http://www.pachyderm.com/
+Pixie,,"Artificial Intelligence, Developer Tools, Enterprise Software",,11-50 employees,2018,Benchmark,$9M Series A in 2020,,http://pixielabs.ai/
+Proterra,,"Vehicles, , Sustainability",,501-1000 employees,2004,"Kleiner Perkins, Post-IPO",,$1.8B valuation,http://www.proterra.com
+Coursera,,EdTech,,1001-5000 employees,2012,"Kleiner Perkins, Post-IPO",,$280M valuation,http://coursera.org
+Farmers Business Network,,"Data Science, Agriculture",,1001-5000 employees,2014,Kleiner Perkins,$250M Series F in 2020,$3.9B valuation,http://www.farmersbusinessnetwork.com/
+Ripcord,,"Robotics, Hardware, SaaS",,101-200 employees,2015,Kleiner Perkins,$45M Series B in 2020,,http://www.ripcord.com/
+Element Analytics,,"Data Science, Predictive Analytics, Industrial Automation",,51-100 employees,2015,Kleiner Perkins,$18M Series B in 2020,,http://www.elementanalytics.com/
+UJET,,"Customer Service, Call Center, Enterprise Software",,101-200 employees,2015,Kleiner Perkins,$55M Series C in 2020,,http://www.ujet.co/
+Zumper,,"Real Estate, Rental, Marketplace",,201-500 employees,2012,Kleiner Perkins,$60M Series D in 2020,$400M valuation,http://www.zumper.com
+Veem,,"FinTech, Payments, Crypto, ",,101-200 employees,2014,Kleiner Perkins,$31M Series C in 2020,,https://www.veem.com/
+Rigetti Computing,,"Hardware, Artificial intelligence",,101-200 employees,2013,"Andreessen Horowitz, Bessemer",$79M Series C in 2020,,http://rigetti.com/
+Lime,,"Transportation, Ride Sharing",,1001-5000 employees,2017,Andreessen Horowitz,$523M Series D in 2020,,http://www.li.me/
+MakerDAO,,"Crypto, FinTech, ",,51-100 employees,2014,"Andreessen Horowitz, Raised $12M in 2020",,$500M valuation,http://makerdao.com
+CodeCombat,,"Software, Gaming, EdTech",,11-50 employees,2013,Andreessen Horowitz,$8M Series A in 2020,$25M valuation,http://www.codecombat.com
+Very Good Security,,"FinTech, Cybersecurity",,201-500 employees,2015,Andreessen Horowitz,$60M Series C in 2020,,http://www.verygoodsecurity.com/
+Sleeper,,"Sports, Fantasy Sports, Gaming, Consumer",,11-50 employees,2015,Andreessen Horowitz,$20M Series C in 2020,$400M valuation,http://sleeper.app/
+Run The World,,"Events, SaaS",,11-50 employees,2019,"Andreessen Horowitz, Founders Fund",$11M Series A in 2020,,http://runtheworld.today/
+Nautilus Biotechnology,,", Biotech",,101-200 employees,2016,"Andreessen Horowitz, Post-IPO",,$470M valuation,http://www.nautilus.bio/
+Drishti,,"Analytics, Artificial Intelligence, Software, ",,101-200 employees,2017,Andreessen Horowitz,$25M Series B in 2020,,http://drishti.com/
+Fivetran,,"Analytics, Data Integration",,501-1000 employees,2012,Andreessen Horowitz,$565M Series D in 2020,$5.6B valuation,http://fivetran.com
+Silo,,"Agriculture, Marketplace",,11-50 employees,2018,Andreessen Horowitz,$12M Series A in 2020,,http://usesilo.com/
+Plaid,,"FinTech, API",,501-1000 employees,2012,Andreessen Horowitz,$425M Series D in 2020,$13.4B valuation,http://www.plaid.com
+RideCell,,"Autonomous Vehicles, Fleet Management",,101-200 employees,2008,Khosla Ventures,$45M Series C in 2020,$250M valuation,http://www.ridecell.com/
+Cafe X,,"Food & Drinks, Robotics, Hardware",,11-50 employees,2015,Khosla Ventures,$9M Seed in 2020,$36M valuation,http://cafexapp.com
+Impossible Foods,,"Sustainability, Food & Drinks",,501-1000 employees,2011,Khosla Ventures,$872M Series G in 2020,$4.0B valuation,http://impossiblefoods.com
+Modal,,"Automotive, E-Commerce",,51-100 employees,2014,"Khosla Ventures, Y Combinator",$15M Series A in 2020,,http://www.drivemotors.com/
+Affirm,,"FinTech, , Lending, ",,1001-5000 employees,2012,"Khosla Ventures, Andreessen Horowitz, Founders Fund, Post-IPO",,$5.0B valuation,http://www.affirm.com
+Bidgely,,"Artificial Intelligence, Energy",,101-200 employees,2010,"Khosla Ventures, Raised $60M in 2020",,,http://www.bidgely.com/
+Akash Systems,,"Space, Hardware",,51-100 employees,2016,"Khosla Ventures, Founders Fund",$15M Series A in 2020,,http://akashsystemsinc.com/
+Atomwise,,", Artificial Intelligence, Healthcare, Pharma",,51-100 employees,2012,"Khosla Ventures, Y Combinator",$175M Series B in 2020,,http://atomwise.com
+Probably Genetic,,", Biotech, Healthcare, Medical",,1-10 employees,2019,Khosla Ventures,$150K Seed in 2020,,http://www.probablygenetic.com/
+Q.bio,,", Biotech",,11-50 employees,2015,"Khosla Ventures, Andreessen Horowitz, Founders Fund",$60M Series B in 2020,,http://www.q.bio/
+Karius,,"Biotech, Genetics, Healthcare",,101-200 employees,2014,Khosla Ventures,$165M Series B in 2020,,http://kariusdx.com
+Yes Health,,Healthcare,,51-100 employees,2014,Khosla Ventures,$6M Series A in 2020,,http://yeshealth.com
+VELO3D,,", Manufacturing, Hardware, 3D Tech",,101-200 employees,2014,"Khosla Ventures, Post-IPO",,$1.4B valuation,http://www.velo3d.com/
+HeartVista,,"Healthcare, Diagnostics",,11-50 employees,2012,Khosla Ventures,$9M Series A in 2020,,http://www.heartvista.ai/
+Clear Labs,,"Biotech, Healthcare, Robotics, Hardware",,51-100 employees,2014,Khosla Ventures,$58M Series C in 2020,,http://www.clearlabs.com/
+Zibo,,"Real Estate, FinTech, ",,11-50 employees,2019,"Khosla Ventures, Raised $10M in 2020",,$53M valuation,http://www.zibo.co/
+Siolta Therapeutics,,", Biotech, Healthcare, Medical",,11-50 employees,2016,Khosla Ventures,$30M Series B in 2020,$120M valuation,http://www.sioltatherapeutics.com/
+Siren Health,,"Healthcare, Medical Devices, Hardware",,11-50 employees,2015,"Khosla Ventures, Founders Fund",$24M Series B in 2020,,http://siren.care/
+Curai Health,,", Healthcare, Artificial Intelligence, ",,51-100 employees,2017,Khosla Ventures,$28M Series B in 2020,,http://curaihealth.com/
+Unity Technologies,,Gaming,,5000+ employees,2004,"Sequoia, Raised $1B in 2020",,$7.5B valuation,http://unity.com/
+Strava,,"Consumer Social, Healthcare, Fitness",,201-500 employees,2009,Sequoia,$110M Series F in 2020,$1.5B valuation,http://www.strava.com
+Instacart,,"E-Commerce, Groceries, Delivery",,5000+ employees,2012,"Sequoia, Andreessen Horowitz, Kleiner Perkins",$2B Series H in 2020,$13.0B valuation,http://www.instacart.com
+Vivace Therapeutics,,", Biotech, Healthcare, Cancer",,1-10 employees,2014,Sequoia,$30M Series C in 2020,,http://vivacetherapeutics.com
+TuneIn,,"Consumer Media, Music, News",,201-500 employees,2002,Sequoia,$100M Series H in 2020,$500M valuation,http://tunein.com
+Pony.ai,,"Robotics, Artificial Intelligence, Autonomous Vehicles",,501-1000 employees,2016,Sequoia,$267M Series C in 2020,$8.5B valuation,http://www.pony.ai/
+CleverTap,,"Enterprise Software, SaaS, Analytics, ",,201-500 employees,2013,Sequoia,$35M Series C in 2020,$385M valuation,http://clevertap.com/
+Finix,,"FinTech, ",,101-200 employees,2016,Sequoia,$30M Series B in 2020,,http://www.finixpayments.com/
+Empower,,"FinTech, , Banking, ",,51-100 employees,2016,Sequoia,$20M Series A in 2020,,http://empower.me
+Cohesity,,"Analytics, Data Storage",,1001-5000 employees,2013,"Sequoia, Accel",$250M Series E in 2020,$3.7B valuation,http://www.cohesity.com
+Confluent,,"Enterprise Software, Data Science, ",,1001-5000 employees,2014,"Sequoia, Benchmark, Post-IPO",,$6.0B valuation,http://confluent.io
+Amplitude,,", SaaS, Business Intelligence, Analytics, ",,501-1000 employees,2012,"Sequoia, Benchmark, Post-IPO",,$2.2B valuation,http://www.amplitude.com
+Rockset,,"Analytics, Software",,51-100 employees,2016,Sequoia,$40M Series B in 2020,,http://rockset.com/
+Linear,,"Developer Tools, Software",,11-50 employees,2019,Sequoia,$13M Series A in 2020,,https://linear.app/
+23andMe,,", Biotech, DNA Testing",,501-1000 employees,2006,"Sequoia, Post-IPO",,$1.9B valuation,http://www.23andme.com
+Legalist,,"LegalTech, Analytics",,51-100 employees,2016,"Y Combinator, Raised $120K in 2019",,,https://www.legalist.com/
+Swayable,,"Predictive Analytics, Data Science, Market Research",,11-50 employees,2017,Y Combinator,$120K Seed in 2019,,http://swayable.com/
+Goodly,,"Employee Benefits, FinTech",,1-10 employees,2018,Y Combinator,$1M Seed in 2019,,http://www.goodlyapp.com/
+College Pulse,,"Market Research, Surveys",,11-50 employees,2016,Y Combinator,$2M Seed in 2019,,http://collegepulse.com/
+Confident Cannabis,,"SaaS, E-Commerce, Cannabis",,11-50 employees,2015,Y Combinator,$12M Series A in 2019,,http://confidentcannabis.com
+Tara Intelligence,,"Enterprise Software, Product Development",,11-50 employees,2014,Y Combinator,$10M Series A in 2019,$40M valuation,http://tara.ai/
+Tachyus,,"Enterprise Software, Data Science, Energy",,11-50 employees,2013,Founders Fund,$15M Series B in 2019,$60M valuation,http://www.tachyus.com
+hims & hers,,"Wellness, SaaS",,201-500 employees,2017,"Founders Fund, Post-IPO",,$865M valuation,http://forhims.com
+ManyChat,,"Messaging, E-Commerce, Sales",,101-200 employees,2015,Bessemer,$18M Series A in 2019,,http://www.manychat.com/
+Blue Hexagon,,"Cybersecurity, Artificial Intelligence, ML",,11-50 employees,2017,Benchmark,$31M Series B in 2019,,http://bluehexagon.ai/
+Terminal,,"Recruiting, Developers",,101-200 employees,2017,Kleiner Perkins,$17M Series B in 2019,,http://terminal.io
+Kapwing,,"Social Media, Consumer, Marketing, Creative",,11-50 employees,2017,Kleiner Perkins,$2M Series A in 2019,,http://www.kapwing.com
+Reputation.com,,"Enterprise Software, SaaS, Analytics, SEO",,501-1000 employees,2006,"Kleiner Perkins, Bessemer",$150M Series C in 2019,,http://www.reputation.com
+PagerDuty,,SaaS,,501-1000 employees,2009,"Andreessen Horowitz, Bessemer, Accel, Post-IPO",,$2.7B valuation,http://pagerduty.com
+Branch International,,"FinTech, Apps",,101-200 employees,2007,"Andreessen Horowitz, Raised $5M in 2019",,,http://www.branch.co/
+Castle,,"Cybersecurity, Fraud Detection, ",,11-50 employees,2014,Khosla Ventures,$9M Series A in 2019,,http://castle.io/
+GitLab,,"SaaS, Developer Tools",,1001-5000 employees,2014,"Khosla Ventures, Y Combinator, Post-IPO",,$6.0B valuation,http://gitlab.com
+Opendoor,,"Real Estate, Marketplaces",,1001-5000 employees,2014,"Khosla Ventures, Andreessen Horowitz, Post-IPO",,$1.0B valuation,http://www.opendoor.com
+Neurotrack,,", , Healthcare, Biotech",,11-50 employees,2012,"Khosla Ventures, Founders Fund",$21M Series C in 2019,$86M valuation,http://www.neurotrack.com
+Sumo Logic,,"Enterprise Software, SaaS, Analytics",,501-1000 employees,2010,"Sequoia, Post-IPO",,$1.3B valuation,http://www.sumologic.com/free
+Orchid Labs,,Cybersecurity,,101-200 employees,2017,"Sequoia, Andreessen Horowitz, Raised $12M in 2019",,,https://www.orchid.com/
+BridgeBio,,", Biotech, Life Sciences",,201-500 employees,2014,"Sequoia, Post-IPO",,$1.1B valuation,http://bridgebio.com/
+DoorDash,,"Food & Drinks, Delivery",,5000+ employees,2013,"Sequoia, Khosla Ventures, Kleiner Perkins, Y Combinator, Post-IPO",,$20.0B valuation,http://www.doordash.com
+Cobalt Robotics,,"Cybersecurity, Hardware, Robotics",,51-100 employees,2016,"Sequoia, Founders Fund",$35M Series B in 2019,,http://www.CobaltRobotics.com
+Carbon,,"3DTech, Manufacturing",,201-500 employees,2013,Sequoia,$260M Series E in 2019,$2.5B valuation,http://carbon3d.com
+Freshworks,,"SaaS, Enterprise Software",,1001-5000 employees,2010,"Sequoia, Post-IPO",,$3.5B valuation,http://www.freshworks.com/
+Dolls Kill,,"E-Commerce, Fashion",,201-500 employees,2012,Sequoia,$56M Series B in 2019,$440M valuation,http://www.dollskill.com/
+YapStone,,"FinTech, Payments, ",,201-500 employees,1999,Accel,$184M Series C in 2018,$471M valuation,http://www.yapstone.com
+CrowdStrike,,"Crowdsourcing, Cybersecurity, SaaS, Enterprise Software",,1001-5000 employees,2011,"Accel, Post-IPO",,$29.0B valuation,http://www.crowdstrike.com
+Oasis Labs,,"Crypto, Cloud Computing, Privacy, Blockchain",,11-50 employees,2018,Accel,$45M Series A in 2018,,http://www.oasislabs.com/
+Narvar,,"E-Commerce, SaaS, Logistics, Shipping",,201-500 employees,2012,Accel,$30M Series C in 2018,$315M valuation,http://www.narvar.com
+NuCypher,,", Cloud Computing, Cybersecurity, Enterprise Software",,11-50 employees,2015,"Y Combinator, Raised $11M in 2018",,$317M valuation,http://www.nucypher.com/
+Robby Technologies,,"Robotics, Hardware, Delivery",,1-10 employees,2015,Y Combinator,$6M Seed in 2018,,http://robby.io
+RankScience,,"Testing, Marketing, SEO, Enterprise Software",,1-10 employees,2002,Y Combinator,$2M Seed in 2018,,http://www.rankscience.com
+Templarbit,,"Enterprise Software, Cybersecurity, ",,1-10 employees,2017,Y Combinator,$3M Seed in 2018,,http://www.templarbit.com
+YouTeam,,"Marketplaces, Recruiting, Freelancers, Professional Services",,11-50 employees,2016,Y Combinator,$345K Seed in 2018,,http://youteam.io/
+SpotAngels,,"Consumer, Vehicles, Parking",,11-50 employees,2014,"Y Combinator, Raised $4M in 2018",,,http://www.spotangels.com/
+Supermedium,,"Web Browsers, Virtual Reality",,1-10 employees,2017,Y Combinator,$1M Seed in 2018,,http://www.supermedium.com/
+SFOX,,"FinTech, Trading, Cryptocurrency",,11-50 employees,2014,Y Combinator,$23M Series A in 2018,,http://www.sfox.com/
+Paladin Cyber,,"Cybersecurity, ",,11-50 employees,2017,Y Combinator,$4M Seed in 2018,,http://www.meetpaladin.com/
+Wallarm,,"Cybersecurity, Enterprise Software",,51-100 employees,2013,Y Combinator,$11M Series A in 2018,,http://wallarm.com/
+Bolt Threads,,"Hardware, Biotech",,101-200 employees,2009,Founders Fund,$123M Series D in 2018,,http://www.boltthreads.com/
+UNITY Biotechnology,,", Biotech, Healthcare, Anti-aging",,51-100 employees,2009,"Founders Fund, Post-IPO",,$55M valuation,http://unitybiotechnology.com/
+Naked Labs,,"Healthcare, Fitness, 3DTech",,11-50 employees,2014,Founders Fund,$14M Series A in 2018,,https://nakedlabs.com/
+Asana,,", SaaS, Collaboration, Enterprise Software",,1001-5000 employees,2009,"Founders Fund, Post-IPO",,$3.3B valuation,http://www.asana.com
+Smule,,"Consumer Social, Music, Apps",,201-500 employees,2008,Bessemer,$188M Series H in 2018,$604M valuation,http://smule.com
+Rainforest QA,,"SaaS, Developer Tools, Testing, Enterprise Software",,101-200 employees,2012,Bessemer,$41M Series B in 2018,,http://www.rainforestqa.com
+ScyllaDB,,"Enterprise Software, Databases",,101-200 employees,2013,Bessemer,$26M Series C in 2018,,http://www.scylladb.com
+SoundHound,,"Artificial Intelligence, Speech Recognition, NLP",,201-500 employees,2005,"Kleiner Perkins, Post-IPO",,$605M valuation,http://soundhound.com
+Intercom,,"SaaS, Messaging, Customer Service, Sales",,1001-5000 employees,2011,"Kleiner Perkins, Bessemer",$241M Series D in 2018,$1.2B valuation,http://www.intercom.io
+YourMechanic,,"Marketplace, Auto Repair",,101-200 employees,2011,Andreessen Horowitz,$36M Series B in 2018,,http://www.yourmechanic.com
+Samsara,,"SaaS, Sensors",,1001-5000 employees,2015,"Andreessen Horowitz, Post-IPO",,$5.0B valuation,http://www.samsara.com
+Shift,,"Recruiting, EdTech, Training",,11-50 employees,2016,Andreessen Horowitz,$4M Seed in 2018,,http://www.shift.org/
+Coinbase,,"FinTech, Trading, Crypto",,1001-5000 employees,2012,"Andreessen Horowitz, Y Combinator, Post-IPO",,$13.0B valuation,http://www.coinbase.com
+Earnin,,"Employee Benefits, FinTech",,201-500 employees,2012,Andreessen Horowitz,$190M Series C in 2018,$800M valuation,http://www.earnin.com/
+indeni,,"Enterprise Software, IT",,11-50 employees,2009,Sequoia,$14M Series A in 2018,,http://www.indeni.com/
+Uber,,"Delivery, Apps, Ride Sharing",,5000+ employees,2009,"Sequoia, Post-IPO",,$48.0B valuation,http://www.uber.com
+Quince Therapeutics,,"Alzheimers, Healthcare",,51-100 employees,2012,"Sequoia, Post-IPO",,$130M valuation,http://www.cortexyme.com
+Amino,,"Healthcare, Employee Benefits",,11-50 employees,2013,Accel,$44M Series C in 2017,,http://amino.com
+Atomist,,"Web Development, Developer Tools, Cybersecurity",,11-50 employees,2015,Accel,$22M Series A in 2017,,http://www.atomist.com/
+Science Exchange,,"Marketplaces, R&D Outsourcing, Consulting",,51-100 employees,2011,Y Combinator,$58M Series C in 2017,,http://www.scienceexchange.com
+Sourceress,,"Recruiting, Artificial Intelligence",,1-10 employees,2016,Y Combinator,$4M Seed in 2017,,https://www.sourceress.com/
+Thematic,,"Customer Feedback, Analytics, SaaS, Enterprise Software",,11-50 employees,2014,Y Combinator,$1M Seed in 2017,,http://www.getthematic.com/
+HOOKED,,"Consumer, Social Media, Apps",,11-50 employees,2014,Founders Fund,$5M Series A in 2017,$15M valuation,http://bit.ly/hookedonreading
+Adentro (formerly Zenreach),,"Marketing Automation, CRM, Email Marketing",,51-100 employees,2013,Founders Fund,$60M Series C in 2017,,https://adentro.com/
+Bastille,,"Cybersecurity, , , ",,51-100 employees,2014,Bessemer,$27M Series B in 2017,,https://www.bastille.net/
+Nuna,,Healthcare,,101-200 employees,2010,Kleiner Perkins,$90M Series B in 2017,,http://www.nuna.com/
+Health IQ,,Healthcare,,201-500 employees,2014,Andreessen Horowitz,$35M Series C in 2017,,http://www.healthiq.com
+AirHelp,,"Travel, Legal",,201-500 employees,2013,"Khosla Ventures, Raised $12M in 2017",,,http://www.getairhelp.com
+Upstart,,"FinTech, Lending",,1001-5000 employees,2012,"Khosla Ventures, Post-IPO",,$1.6B valuation,http://upstart.com
+Creator,,"Hardware, Robotics, Restaurants",,51-100 employees,2010,"Khosla Ventures, Raised $18M in 2017",,,http://momentummachines.com
+Gobble,,"Food & Drinks, Delivery",,51-100 employees,2010,"Khosla Ventures, Andreessen Horowitz",$27M Series B in 2017,,http://gobble.com/
+Catalia Health,,"Artificial Intelligence, Healthcare, Robotics, Hardware",,11-50 employees,2014,"Khosla Ventures, Raised $5M in 2017",,,http://cataliahealth.com
+Luka,,"Consumer, Artificial Intelligence",,11-50 employees,2013,"Khosla Ventures, Y Combinator",$6M Series A in 2017,,http://replika.ai/
+Zoom,,"Enterprise Software, SaaS, Collaboration, Meeting Software",,5000+ employees,2011,"Sequoia, Post-IPO",,$23.0B valuation,http://zoom.us
+Guardant Health,,"Biotech, Healthcare",,1001-5000 employees,2012,"Sequoia, Khosla Ventures, Post-IPO",,$5.0B valuation,http://www.guardanthealth.com
+Filecoin,,", Cyptocurrency, ",,11-50 employees,2014,"Sequoia, Andreessen Horowitz, Raised $257M in 2017",,,http://filecoin.io/
+Acalvio Technologies,,"Cybersecurity, Data Science, Machine Learning, Artificial Intelligence",,51-100 employees,2015,"Accel, Raised $17M in 2016",,,http://www.acalvio.com
+LeadGenius,,"Enterprise Software, Sales and Marketing, Sales Automation",,11-50 employees,2011,Y Combinator,$20M Series B in 2016,,http://www.leadgenius.com
+Vote.org,,"Nonprofit, Politics",,11-50 employees,2016,Y Combinator,$120K Seed in 2016,,http://www.vote.org/
+Suiteness,,"Travel, Luxury",,1-10 employees,2014,Y Combinator,$6M Series A in 2016,,http://www.suiteness.com
+Luminostics,,"Mobile Healthcare, Healthcare, Medical Devices, Diagnostics",,51-100 employees,2014,"Y Combinator, Raised $120K in 2016",,,http://www.luminostics.com/
+ApolloShield,,"Drones, Cybersecurity, Hardware",,1-10 employees,2015,"Y Combinator, Raised $0 in 2016",,,http://ApolloShield.com
+Indiegogo,,Crowdfunding,,101-200 employees,2008,Kleiner Perkins,$74M Series C in 2016,,http://www.indiegogo.com
+Fond,,"SaaS, Employee Benefits, Loyalty Programs",,101-200 employees,2013,Andreessen Horowitz,$26M Series A in 2016,,http://www.anyperk.com/
+Quartzy,,Enterprise Software,,51-100 employees,2009,"Khosla Ventures, Y Combinator",$22M Series B in 2016,,http://www.quartzy.com
+Kumu Networks,,"Mobile, Wireless, ",,11-50 employees,2011,Khosla Ventures,$45M Series C in 2016,,http://www.kumunetworks.com/
+Pique Tea,,"E-Commerce, Food & Drinks",,11-50 employees,2014,Khosla Ventures,Seed in 2016,,http://bit.ly/3-piquetea
+Grokker,,"Healthcare, Fitness, Employee Benefits",,11-50 employees,2012,Khosla Ventures,$7M Series B in 2016,,http://www.grokker.com
+data.ai,,"Mobile Analytics, SaaS, Enterprise Software",,501-1000 employees,2010,Sequoia,$157M Series E in 2016,$450M valuation,https://www.data.ai/en/
+The One Music Group,,Music,,11-50 employees,2013,Sequoia,$10M Series B in 2016,,http://www.smartpiano.com/
+Clover Health,,"Healthcare, Insurance",,501-1000 employees,2014,"Sequoia, Post-IPO",,$1.0B valuation,http://www.cloverhealth.com/
+Thanx,,", E-Commerce, Loyalty Programs",,11-50 employees,2012,Sequoia,$23M Series B in 2016,,http://www.thanx.com
